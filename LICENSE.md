@@ -26,11 +26,13 @@ This EULA shall apply only to the System supplied by the Developers herewith reg
 
 ## Section 3 - License Grant
 
-Article 3.1 - License Grant
-The Developers hereby grant You a personal, non-transferable, non-exclusive license to use the System's software on Your devices in accordance with the terms of this EULA.
+### Section 3.1 - License Grant
+**Article 3.1.1**: The Developers hereby grant You a personal, non-transferable, non-exclusive license to use the System's software on Your devices in accordance with the terms of this EULA.  
+**Article 3.1.2**: Any third party using the same device onto which the System's software was installed is represented by You in entering into this EULA, such that should any third party's actions breach any article in Section 3.3, You are wholly responsible.
 
-### Article 3.2 - Permissions of Use
-You are permitted to load the System's software (for example on a PC, laptop, mobile or tablet) under Your control. You are responsible for ensuring Your device meets the minimum requirements of the System's software and for ensuring that Your device on which You load the System's software is configured properly to support the System's software and any artifacts or entities arising out of Your loading of the System’s software. 
+### Section 3.2 - Permissions of Use
+**Article 3.1.1**: You are permitted to load the System's software (for example on a PC, laptop, mobile or tablet) under Your control.  
+**Article 3.1.2**: You are responsible for ensuring Your device meets the minimum requirements of the System's software and for ensuring that Your device on which You load the System's software is configured properly to support the System's software and any artifacts or entities arising out of Your loading of the System’s software. 
 
 ### Section 3.3 - Permissions Grant
 Under only the circumstance that the Developers dictate You must and under no other circumstances are You permitted to:
@@ -46,7 +48,17 @@ Under only the circumstance that the Developers dictate You must and under no ot
 ## Section 4 - Intellectual Property and Ownership
 
 ### Section 4.1 - Ownership of the System by the Developers
-The Developers shall at all times retain ownership of the System's software as originally downloaded by You and all subsequent downloads of the System's software by You. The System's software (and the copyright, and other intellectual property rights of whatever nature in the System's software, including any modifications made thereto) are and shall remain the property of the Developers. The Developers reserve the right to grant Licenses to use the Software to third parties.
+**Article 4.1.1**: The Developers shall at all times retain ownership of the System's software as originally downloaded by You and all subsequent downloads of the System's software by You.  
+**Article 4.1.3**: The System's software (and the copyright, and other intellectual property rights of whatever nature in the System's software, including any modifications made thereto) are and shall remain the property of the Developers.  
+**Article 4.1.2**: The Developers reserve the right to grant Licenses to use the Software to third parties.  
 
-### Section 4.2 - Ownership of Products by You
-You at all times retain ownership of any products created by You using the System's software as originally produced by You, so 
+### Section 4.2 - Ownership of Simulation Products by You
+**Article 4.2.1**: You shall at all times retain ownership of any products created by You using the System's software as originally produced by You and all subsequent downloads, intentional reproductions, or recreations of the products created by You.  
+**Article 4.2.2**: You may not retain ownership of a product created by You using the System's software if that product is indicated by the System to exhibit any degree of intelligence.  
+**Article 4.2.3**: If the System's software fails to indicate that a product created by You using the System's software exhibits intelligence, then retaining ownership of said product by You is not a breach of Article 4.2.2 of this EULA.
+
+## Section 5 - Limitation of Liability
+
+### Section 5.1 - Liability Disclaimer
+**Article 5.1.1**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from any and all events caused directly or indirectly by any product created by You using the System's software.
+**Article 5.1.2**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from the misuse, mistreatment, or direct or indirect damage to the System's software.
