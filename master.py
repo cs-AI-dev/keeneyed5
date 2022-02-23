@@ -87,7 +87,14 @@ while True:
                         if not usr in ["1", "2", "3"]:
                             cli.display("Invalid subsystem ID number, try again")
                         else:
-                            break
+                            subsystemID = int(usr)
+							break
+					if subsystemID == 1:
+						pass
+					elif subsystemID == 2:
+						pass
+					elif subsystemID == 3:
+						pass
                 elif len(carg) == 3:
                     pass
                 else:
@@ -107,15 +114,20 @@ while True:
                 ft.close()
                 fo.close()
                 cli.display("Transcript copying complete.")
+				
             elif carg[1] in ["clear", "c"]:
                 cli.display("Clearing transcript ...")
                 fo = open(__file__[:-10] + "/executionTranscripts/current.ke5", "w")
-                fo.write("[BEGIN KEENEYED-5 TRANSCRIPT]")
-            else:
+                fo.write("\n")
+				fo.close()
+				cli.display("Transcript cleared.")
+            
+			else:
                 cli.display(term.red_on_black("Unknown transcript option \"" + carg[2] + "\"."))
 
         else: # Command level
             cli.display(term.red_on_black("Unknown command \"" + cname + "\"."))
+			
     except KeyboardInterrupt:
         cli.resetCLI()
         cli.display("Keeneyed-5 process successfully interrupted.")
