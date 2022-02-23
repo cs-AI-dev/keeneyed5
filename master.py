@@ -23,8 +23,8 @@ cli.display("Keeneyed-5 artificial general intelligence system loaded.")
 cli.display("Enter any command to begin.")
 
 while True:
+
     fullcmd = cli.getUserInput("/")
-    cli.display("[USER] / " + fullcmd)
     carg = fullcmd.split(" ")
     cname = carg[0]
 
@@ -56,6 +56,7 @@ while True:
 
                         except psutil.AccessDenied:
                             cli.display("        Access to process " + str(proc.name).split("name=\'")[1].split("\'")[0] + " is denied.")
+                            continue
                     cli.display("    Search complete.")
                     [cli.display(" ") for x in range(3)]
                     cli.display("    Checking used system files ...")
@@ -72,13 +73,48 @@ while True:
                     else:
                         cli.display(term.lime_on_black("DIAGNOSTIC COMPLETE"))
                         cli.display(term.lime_on_black("    No non-system files detected."))
-                else:
+                else: # diagnostic
                     cli.display(term.red_on_black("Type-" + carg[1] + " diagnostic program not found."))
 
-            else:
+            elif carg[1] == "query":
+                if len(carg) == 2:
+                    cli.display("Target a subsystem to query.")
+                    cli.display(" 1. Programs")
+                    cli.display(" 2. Diagnostic")
+                    cli.display(" 3. Intelligence")
+                    while True:
+                        usr = cli.getUserInput("?")
+                        if not usr in ["1", "2", "3"]:
+                            cli.display("Invalid subsystem ID number, try again")
+                        else:
+                            break
+                elif len(carg) == 3:
+                    pass
+                else:
+                    pass
+
+            else: # run
                 cli.display(term.red_on_black("Unknown program \"" + carg[1] + "\"."))
 
-        else:
+        elif cname in ["transcript", "t"]:
+            if carg[1] in ["print", "printto"]:
+                cli.display("Copying transcript ...")
+                ft = open(carg[2], "w")
+                fo = open(__file__[:-10] + "/executionTranscripts/current.ke5", "r")
+
+                ft.write(fo.read())
+
+                ft.close()
+                fo.close()
+                cli.display("Transcript copying complete.")
+            elif carg[1] in ["clear", "c"]:
+                cli.display("Clearing transcript ...")
+                fo = open(__file__[:-10] + "/executionTranscripts/current.ke5", "w")
+                fo.write("[BEGIN KEENEYED-5 TRANSCRIPT]")
+            else:
+                cli.display(term.red_on_black("Unknown transcript option \"" + carg[2] + "\"."))
+
+        else: # Command level
             cli.display(term.red_on_black("Unknown command \"" + cname + "\"."))
     except KeyboardInterrupt:
         cli.resetCLI()

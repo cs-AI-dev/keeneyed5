@@ -8,7 +8,7 @@ xindex = 4
 
 def resetCLI():
     global xindex
-    
+
     print(term.center("┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓"))
     print(term.center("┃ KEENEYED-5 ARTIFICIAL GENERAL INTELLIGENCE SYSTEM ┃"))
     print(term.center("┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛"))
@@ -37,4 +37,8 @@ def display(txt):
 
 def getUserInput(prompt):
     with term.location(3, term.height - 3):
-        return input(prompt + " ")
+        print("                                               ")
+    with term.location(3, term.height - 3):
+        out = input(prompt + " ")
+    display("[USER] " + prompt + " " + out)
+    return out
