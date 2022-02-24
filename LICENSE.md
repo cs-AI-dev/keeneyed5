@@ -32,7 +32,7 @@ This EULA shall apply only to the System supplied by the Developers herewith reg
 
 ### Section 3.2 - Permissions of Use
 **Article 3.1.1**: You are permitted to load the System's software (for example on a PC, laptop, mobile or tablet) under Your control.  
-**Article 3.1.2**: You are responsible for ensuring Your device meets the minimum requirements of the System's software and for ensuring that Your device on which You load the System's software is configured properly to support the System's software and any artifacts or entities arising out of Your loading of the System’s software. 
+**Article 3.1.2**: You are responsible for ensuring Your device meets the minimum requirements of the System's software and for ensuring that Your device on which You load the System's software is configured properly to support the System's software and any artifacts or entities arising out of Your loading of the System’s software.
 
 ### Section 3.3 - Permissions Grant
 Under only the circumstance that the Developers dictate You must and under no other circumstances are You permitted to:
@@ -62,3 +62,7 @@ Under only the circumstance that the Developers dictate You must and under no ot
 ### Section 5.1 - Liability Disclaimer
 **Article 5.1.1**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from any and all events caused directly or indirectly by any product created by You using the System's software.
 **Article 5.1.2**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from the misuse, mistreatment, or direct or indirect damage to the System's software.
+
+### Section 5.2 - Blame
+**Article 5.2.1**: In the event that a claim is made against or costs or damages are incurred to any party due directly or indirectly to Your usage of the System's software, however construed, You may not describe to any of these parties that You were not wholly responsible for these claims, damages, or costs.
+**Article 5.2.2**: In the event that a claim is made against the Developers by any party other than You which would cause costs or damages to be incurred to the Developers, You are required to indemnify the Developers for all such costs in full.
