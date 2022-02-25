@@ -5,6 +5,11 @@ from Crypto.PublicKey import RSA
 from Crypto import Random
 import ast
 
+cryptoRNG = Random.new().read
+
+def resetRSAK():
+	
+
 cli = None
 def connectToCLI(package):
 	global cli
