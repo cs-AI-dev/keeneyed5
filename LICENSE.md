@@ -16,7 +16,7 @@ The following terms, when used anywhere in this end user license agreement, shal
 ## Section 2 - Applications of This EULA
 
 ### Section 2.1 - Free Trials
-**Article 2.1.1**: If You register for a free trial of the System, this EULA will also govern that trial. 
+**Article 2.1.1**: If You register for a free trial of the System, this EULA will also govern that trial.  
 **Article 2.1.2**: By clicking "accept", signing this EULA, or installing and/or using the System's software and/or associated hardware components, You are confirming Your acceptance of the System's software components and agreeing to become bound by the terms of this EULA.  
 
 ### Section 2.2 - Representing a Legal Entity
@@ -30,12 +30,12 @@ The following terms, when used anywhere in this end user license agreement, shal
 ## Section 3 - License Grant
 
 ### Section 3.1 - License Grant
-**Article 3.1.1**: The Developers hereby grant You a personal, non-transferable, non-exclusive, revocable license to use the System's software on Your devices in accordance with the terms of this EULA.    
+**Article 3.1.1**: The Developers hereby grant You a personal, non-transferable, non-exclusive, revocable license to use the System's software on Your devices in accordance with the terms of this EULA.  
 **Article 3.1.2**: Any third party using the same device onto which the System's software was installed is represented by You in entering into this EULA, such that should any third party's actions breach any article in Section 3.3, You are wholly responsible.  
 
 ### Section 3.2 - Permissions of Use
 **Article 3.1.1**: You are permitted to load the System's software (for example on a PC, laptop, mobile or tablet) under Your control.  
-**Article 3.1.2**: You are responsible for ensuring Your device meets the minimum requirements of the System's software and for ensuring that Your device on which You load the System's software is configured properly to support the System's software and any artifacts or entities arising out of Your loading of the System’s software.
+**Article 3.1.2**: You are responsible for ensuring Your device meets the minimum requirements of the System's software and for ensuring that Your device on which You load the System's software is configured properly to support the System's software and any artifacts or entities arising out of Your loading of the System’s software.  
 
 ### Section 3.3 - Permissions Grant
 Under only the circumstance that the Developers dictate You must and under no other circumstances are You permitted to:
