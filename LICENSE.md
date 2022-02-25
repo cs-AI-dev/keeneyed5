@@ -55,13 +55,13 @@ Under only the circumstance that the Developers dictate You must and under no ot
 ### Section 4.2 - Ownership of Simulation Products by You
 **Article 4.2.1**: You shall at all times retain ownership of any products created by You using the System's software as originally produced by You and all subsequent downloads, intentional reproductions, or recreations of the products created by You.  
 **Article 4.2.2**: You may not retain ownership of a product created by You using the System's software if that product is indicated by the System to exhibit any degree of intelligence.  
-**Article 4.2.3**: If the System's software fails to indicate that a product created by You using the System's software exhibits intelligence, then retaining ownership of said product by You is not a breach of Article 4.2.2 of this EULA.
+**Article 4.2.3**: If the System's software fails to indicate that a product created by You using the System's software exhibits intelligence, then retaining ownership of said product by You is not a breach of Article 4.2.2 of this EULA.  
 
 ## Section 5 - Limitation of Liability
 
 ### Section 5.1 - Liability Disclaimer
-**Article 5.1.1**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from any and all events caused directly or indirectly by any product created by You using the System's software.
-**Article 5.1.2**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from the misuse, mistreatment, or direct or indirect damage to the System's software.
+**Article 5.1.1**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from any and all events caused directly or indirectly by any product created by You using the System's software.  
+**Article 5.1.2**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from the misuse, mistreatment, or direct or indirect damage to the System's software.  
 
 ### Section 5.2 - Blame
 **Article 5.2.1**: In the event that a claim is made against or costs or damages are incurred to any party due directly or indirectly to Your usage of the System's software, however construed, You may not describe to any of these parties that You were not wholly responsible for these claims, damages, or costs.  
