@@ -5,30 +5,33 @@ This end-user license agreement is a legal agreement between You and the Develop
 ## Section 1 - Definitions
 
 The following terms, when used anywhere in this end user license agreement, shall refer to the corresponding object or person.  
-**Article 1.1**: "We", "Our", "Us", and "the Developers" shall all refer to the registered contributors to the development of the Keeneyed-5 artificial general intelligence system;
-**Article 1.2**: "You" and "Your" shall both refer to the user, distributor, reseller, or any other person entering into this EULA who is in possession of the Keeneyed-5 artificial general intelligence system;
-**Article 1.3**: "the System" shall refer to the Keeneyed-5 artificial general intelligence system's software in its entirety as well as any associated hardware or other software;
+**Article 1.1**: "We", "Our", "Us", and "the Developers" shall all refer to the registered contributors to the development of the Keeneyed-5 artificial general intelligence system;  
+**Article 1.2**: "You" and "Your" shall both refer to the user, distributor, reseller, or any other person entering into this EULA who is in possession of the Keeneyed-5 artificial general intelligence system;  
+**Article 1.3**: "the System" shall refer to the Keeneyed-5 artificial general intelligence system's software in its entirety as well as any associated hardware or other software;  
 **Article 1.4**: "EULA agreement", "EULA", "License", and "Agreement" shall all refer to this end-user license agreement;
-**Article 1.5**: "Reseller" and "Distributor" shall both refer to sources of indirect reception of the Keeneyed-5 artificial general intelligence system's hardware or software components that have received written authorization from the Developers to resell and/or distribute the hardware or software components;
-**Article 1.6**: "Singularity State" shall refer to any state of an entity created by or being simulated by this Keeneyed-5 artificial intelligence system's software components where the entity gains the ability to (but does not necessarily) modify its own program in ways which would a) trigger any and/or all Theseus limiter programs installed on the entity and/or b) allow the entity to perform or prevent the performance of a task which it was not originally capable of or designed to perform or prevent the performance of; and
-**Article 1.7**: "Technological Singularity" and "Singularity" shall both refer to any entity created or being simulated by the Keeneyed-5 artificial general intelligence system's software components which has achieved at any point in time a Singularity State (see Article 1.6 of this agreement).
+**Article 1.5**: "Reseller" and "Distributor" shall both refer to sources of indirect reception of the Keeneyed-5 artificial general intelligence system's hardware or software components that have received written authorization from the Developers to resell and/or distribute the hardware or software components;  
+**Article 1.6**: "Singularity State" shall refer to any state of an entity created by or being simulated by this Keeneyed-5 artificial intelligence system's software components where the entity gains the ability to (but does not necessarily) modify its own program in ways which would a) trigger any and/or all Theseus limiter programs installed on the entity and/or b) allow the entity to perform or prevent the performance of a task which it was not originally capable of or designed to perform or prevent the performance of; and. 
+**Article 1.7**: "Technological Singularity" and "Singularity" shall both refer to any entity created or being simulated by the Keeneyed-5 artificial general intelligence system's software components which has achieved at any point in time a Singularity State (see Article 1.6 of this agreement).  
 
 ## Section 2 - Applications of This EULA
 
-### Article 2.1 - Free Trials
-If You register for a free trial of the System, this EULA will also govern that trial. By clicking "accept", signing this EULA, or installing and/or using the System's software and/or associated hardware components, You are confirming Your acceptance of the System's software components and agreeing to become bound by the terms of this EULA.
+### Section 2.1 - Free Trials
+**Article 2.1.1**: If You register for a free trial of the System, this EULA will also govern that trial. 
+**Article 2.1.2**: By clicking "accept", signing this EULA, or installing and/or using the System's software and/or associated hardware components, You are confirming Your acceptance of the System's software components and agreeing to become bound by the terms of this EULA.  
 
-### Article 2.2 - Representing a Legal Entity
-If You are entering into this EULA on behalf of any legal entity, You represent that You have the authority to bind such entity and its affiliates to these terms and conditions. If You do not have such authority or If You do not agree with the terms and conditions of this EULA, do not install or use the System, do not use any associated hardware components of the System, and You cannot accept this EULA.
+### Section 2.2 - Representing a Legal Entity
+**Article 2.2.1**: If You are entering into this EULA on behalf of any legal entity, You represent that You have the authority to bind such entity and its affiliates to these terms and conditions.  
+**Article 2.2.2**: If You do not have such authority or If You do not agree with the terms and conditions of this EULA, do not install or use the System, do not use any associated hardware components of the System, and You cannot accept this EULA.  
 
-### Article 2.3 - Scope of This EULA
-This EULA shall apply only to the System supplied by the Developers herewith regardless of whether other software is referred to or described herein. The terms also apply to any of the Developers' updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
+### Section 2.3 - Scope of This EULA
+**Article 2.3.1**: This EULA shall apply only to the System supplied by the Developers herewith regardless of whether other software is referred to or described herein.  
+**Article 2.3.2**: The terms also apply to any of the Developers' updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.  
 
 ## Section 3 - License Grant
 
 ### Section 3.1 - License Grant
-**Article 3.1.1**: The Developers hereby grant You a personal, non-transferable, non-exclusive, revocable license to use the System's software on Your devices in accordance with the terms of this EULA.  
-**Article 3.1.2**: Any third party using the same device onto which the System's software was installed is represented by You in entering into this EULA, such that should any third party's actions breach any article in Section 3.3, You are wholly responsible.
+**Article 3.1.1**: The Developers hereby grant You a personal, non-transferable, non-exclusive, revocable license to use the System's software on Your devices in accordance with the terms of this EULA.    
+**Article 3.1.2**: Any third party using the same device onto which the System's software was installed is represented by You in entering into this EULA, such that should any third party's actions breach any article in Section 3.3, You are wholly responsible.  
 
 ### Section 3.2 - Permissions of Use
 **Article 3.1.1**: You are permitted to load the System's software (for example on a PC, laptop, mobile or tablet) under Your control.  
@@ -37,13 +40,13 @@ This EULA shall apply only to the System supplied by the Developers herewith reg
 ### Section 3.3 - Permissions Grant
 Under only the circumstance that the Developers dictate You must and under no other circumstances are You permitted to:
 
-**Article 3.3.1**: Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the System’s software components to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the System’s software or attempt to do any such things so long as You have not received written permission from the Developers stating that you must;
-**Article 3.3.2**: Reproduce, copy, distribute, resell (as a Reseller) or otherwise use the System’s software for any purpose which is not authorized by means of written permission by the Developers;
-**Article 3.3.3**: Allow any third party to use the System’s software on behalf of or for the benefit of any third party that is not authorized to receive any such benefit by the Developers*;
-**Article 3.3.4**: Use the System in any way which breaches any applicable local, national or international law;
-**Article 3.3.5**: Use the System for any purpose that the Developers consider is a breach of this EULA for any reason;
-**Article 3.3.6**: Allow the System to simulate, create, or otherwise interact with an entity which at any point becomes a Singularity; or
-**Article 3.3.7**: Allow the existence of any Singularities on Your copy of the System's software components.
+**Article 3.3.1**: Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the System’s software components to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the System’s software or attempt to do any such things so long as You have not received written permission from the Developers stating that you must;  
+**Article 3.3.2**: Reproduce, copy, distribute, resell (as a Reseller) or otherwise use the System’s software for any purpose which is not authorized by means of written permission by the Developers;  
+**Article 3.3.3**: Allow any third party to use the System’s software on behalf of or for the benefit of any third party that is not authorized to receive any such benefit by the Developers*;  
+**Article 3.3.4**: Use the System in any way which breaches any applicable local, national or international law;  
+**Article 3.3.5**: Use the System for any purpose that the Developers consider is a breach of this EULA for any reason;  
+**Article 3.3.6**: Allow the System to simulate, create, or otherwise interact with an entity which at any point becomes a Singularity; or  
+**Article 3.3.7**: Allow the existence of any Singularities on Your copy of the System's software components.  
 
 ## Section 4 - Intellectual Property and Ownership
 
