@@ -1,6 +1,12 @@
 from os.path import exists as fileexists
 import memory
 
+cli = None
+def connectToCLI(package):
+	global cli
+
+	cli = package
+
 class ShorttermMemorySystemStatus:
 	def __init__(this):
 		this.cache_0 = fileexists(__file__[:-13] + "/memory/shortterm/memory_cache_0.ke5") and memory.shortterm.cache_0.read().split("\n")[0] == "KE5STMC0"
