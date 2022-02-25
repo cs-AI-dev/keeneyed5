@@ -27,7 +27,7 @@ This EULA shall apply only to the System supplied by the Developers herewith reg
 ## Section 3 - License Grant
 
 ### Section 3.1 - License Grant
-**Article 3.1.1**: The Developers hereby grant You a personal, non-transferable, non-exclusive license to use the System's software on Your devices in accordance with the terms of this EULA.  
+**Article 3.1.1**: The Developers hereby grant You a personal, non-transferable, non-exclusive, revocable license to use the System's software on Your devices in accordance with the terms of this EULA.  
 **Article 3.1.2**: Any third party using the same device onto which the System's software was installed is represented by You in entering into this EULA, such that should any third party's actions breach any article in Section 3.3, You are wholly responsible.
 
 ### Section 3.2 - Permissions of Use
@@ -60,9 +60,22 @@ Under only the circumstance that the Developers dictate You must and under no ot
 ## Section 5 - Limitation of Liability
 
 ### Section 5.1 - Liability Disclaimer
-**Article 5.1.1**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from any and all events caused directly or indirectly by any product created by You using the System's software.  
+**Article 5.1.1**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from any and all events caused directly or indirectly by any product created by You using the System's software or by any hardware being used by the System's software in any way.  
 **Article 5.1.2**: Neither You nor the Developers shall be liable for and shall have no duty to defend, indemnify, or hold harmless the other party or its affiliates from and/or against any and all claims made against or damages and costs incurred by the other party and its affiliates arising from the misuse, mistreatment, or direct or indirect damage to the System's software.  
 
-### Section 5.2 - Blame
+### Section 5.2 - Reparations for Third-Party Damages
 **Article 5.2.1**: In the event that a claim is made against or costs or damages are incurred to any party due directly or indirectly to Your usage of the System's software, however construed, You may not describe to any of these parties that You were not wholly responsible for these claims, damages, or costs.  
-**Article 5.2.2**: In the event that a claim is made against the Developers by any party other than You which would cause costs or damages to be incurred to the Developers, You are required to indemnify the Developers for all such costs in full.  
+**Article 5.2.2**: In the event that a claim is made against the Developers by any party other than You which would cause costs or damages to be incurred to the Developers, You are required to indemnify the Developers for all such costs in full within thirty days of receiving written notice of the Developers.  
+
+## Section 6 - Agreement
+
+### Section 6.1 - Agreeing to This EULA
+**Article 6.1.1**: By using the System's software in any way, whether for personal or commercial use, You agree to and are legally bound by the terms described in Sections 2, 3, 4, and 5 of this EULA, confirm that You understand all of the terms described herein, and are granted the license to use the System's software within the parameters of the aforementioned terms as described in Section 3.1 of this EULA.  
+**Article 6.1.2**: No other licenses are granted to You or any third party except those described herein.  
+
+### Section 6.2 - Termination
+**Article 6.2.1**: This EULA is terminated, revoking Your license to use the System's software, when You or any third party using Your instance of the System's software uses the System's software in a way which is in breach of any term of this EULA.  
+**Article 6.2.2**: The Developers reserve the right to terminate this EULA and revoke Your license to use the System's software at any time and for any reason with written notice one day in advance.  
+**Article 6.2.3**: Should ths EULA be terminated for any reason, You agree to cause the Developers to receive all profit gained by You or any third party directly or indirectly from the usage of the System's software which was in breach of any term of this EULA. These profits must be received by the Developers in no more than 14 days subsequent to Your notice that this EULA was terminated.  
+**Article 6.2.4**: All articles described in Section 5 of this EULA shall survive indefinitely after the termination of this EULA.  
+**Article 6.2.5**: Article 6.2.3 of this EULA shall survive for a maximum of 21 days after the termination of this EULA.  
