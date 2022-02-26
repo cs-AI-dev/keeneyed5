@@ -7335,3 +7335,875 @@
 [02/23/22 @ 18:50:50.689654] [38;2;0;255;0m[40mDIAGNOSTIC COMPLETE(B[m
 [02/23/22 @ 18:50:50.690654] [38;2;0;255;0m[40m    No non-system files detected.(B[m
 [02/23/22 @ 18:58:19.437543] [USER] / exit
+[02/25/22 @ 19:30:58.683074] Keeneyed-5 artificial general intelligence system loaded.
+[02/25/22 @ 19:30:58.684075] Enter any command to begin.
+[02/25/22 @ 19:31:01.446060] [USER] / run diagnostic 1 1
+[02/25/22 @ 19:31:01.447061] Running type-1 diagnostic.
+[02/25/22 @ 19:31:01.448060]     Searching open processes for open files.
+[02/25/22 @ 19:31:01.465643]         System Idle Process
+[02/25/22 @ 19:31:01.506652]         System
+[02/25/22 @ 19:31:01.519655]         Registry
+[02/25/22 @ 19:31:01.524656]         Access to process Registry is denied.
+[02/25/22 @ 19:31:01.536659]         fontdrvhost.exe
+[02/25/22 @ 19:31:01.541661]         Access to process fontdrvhost.exe is denied.
+[02/25/22 @ 19:31:01.552785]         smss.exe
+[02/25/22 @ 19:31:01.557786]         Access to process smss.exe is denied.
+[02/25/22 @ 19:31:01.565787]         svchost.exe
+[02/25/22 @ 19:31:01.570789]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.582792]         csrss.exe
+[02/25/22 @ 19:31:01.602796]         Access to process csrss.exe is denied.
+[02/25/22 @ 19:31:01.617799]         svchost.exe
+[02/25/22 @ 19:31:01.628802]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.652384]         wininit.exe
+[02/25/22 @ 19:31:01.656385]         Access to process wininit.exe is denied.
+[02/25/22 @ 19:31:01.665387]         services.exe
+[02/25/22 @ 19:31:01.669388]         Access to process services.exe is denied.
+[02/25/22 @ 19:31:01.679390]         lsass.exe
+[02/25/22 @ 19:31:01.683391]         Access to process lsass.exe is denied.
+[02/25/22 @ 19:31:01.702395]         svchost.exe
+[02/25/22 @ 19:31:01.721399]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.730404]         svchost.exe
+[02/25/22 @ 19:31:01.740404]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.745405]         YourPhone.exe
+[02/25/22 @ 19:31:01.803419]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:01.805419]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:01.806418]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:01.807418]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:01.807418]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:01.808419]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:01.836426]         SecurityHealthService.exe
+[02/25/22 @ 19:31:01.842427]         Access to process SecurityHealthService.exe is denied.
+[02/25/22 @ 19:31:01.852429]         svchost.exe
+[02/25/22 @ 19:31:01.857431]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.866432]         svchost.exe
+[02/25/22 @ 19:31:01.871434]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.882436]         svchost.exe
+[02/25/22 @ 19:31:01.887437]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.898440]         svchost.exe
+[02/25/22 @ 19:31:01.903441]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.915444]         svchost.exe
+[02/25/22 @ 19:31:01.930447]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.947451]         svchost.exe
+[02/25/22 @ 19:31:01.952452]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.962454]         svchost.exe
+[02/25/22 @ 19:31:01.967455]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:01.980423]         atiesrxx.exe
+[02/25/22 @ 19:31:01.985424]         Access to process atiesrxx.exe is denied.
+[02/25/22 @ 19:31:01.989425]         SecurityHealthSystray.exe
+[02/25/22 @ 19:31:02.026434]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:02.027434]             C:\Windows\System32\en-US\securityhealthsso.dll.mui
+[02/25/22 @ 19:31:02.048438]         svchost.exe
+[02/25/22 @ 19:31:02.057440]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.066444]         svchost.exe
+[02/25/22 @ 19:31:02.073444]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.081446]         svchost.exe
+[02/25/22 @ 19:31:02.088447]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.093448]         RuntimeBroker.exe
+[02/25/22 @ 19:31:02.145460]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 19:31:02.146461]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 19:31:02.147461]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:02.148461]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:02.149461]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:02.149461]             C:\Windows\System32\en-US\mpr.dll.mui
+[02/25/22 @ 19:31:02.172466]         svchost.exe
+[02/25/22 @ 19:31:02.178468]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.186469]         svchost.exe
+[02/25/22 @ 19:31:02.191471]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.200473]         svchost.exe
+[02/25/22 @ 19:31:02.204474]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.297879]         svchost.exe
+[02/25/22 @ 19:31:02.302879]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.313882]         svchost.exe
+[02/25/22 @ 19:31:02.318882]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.338166]         svchost.exe
+[02/25/22 @ 19:31:02.343166]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.351169]         gamingservices.exe
+[02/25/22 @ 19:31:02.361171]         Access to process gamingservices.exe is denied.
+[02/25/22 @ 19:31:02.387177]         svchost.exe
+[02/25/22 @ 19:31:02.392178]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.409182]         MemCompression
+[02/25/22 @ 19:31:02.413182]         Access to process MemCompression is denied.
+[02/25/22 @ 19:31:02.424185]         svchost.exe
+[02/25/22 @ 19:31:02.429186]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.439753]         svchost.exe
+[02/25/22 @ 19:31:02.444753]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.455756]         svchost.exe
+[02/25/22 @ 19:31:02.459757]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.470762]         Discord.exe
+[02/25/22 @ 19:31:02.523771]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\resources.pak
+[02/25/22 @ 19:31:02.523771]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_200_percent.pak
+[02/25/22 @ 19:31:02.524771]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:02.525772]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\v8_context_snapshot.bin
+[02/25/22 @ 19:31:02.526772]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:02.527772]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_100_percent.pak
+[02/25/22 @ 19:31:02.527772]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\icudtl.dat
+[02/25/22 @ 19:31:02.528772]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\locales\en-US.pak
+[02/25/22 @ 19:31:02.529773]             C:\Windows\System32\en-US\MMDevAPI.dll.mui
+[02/25/22 @ 19:31:02.541775]         SearchIndexer.exe
+[02/25/22 @ 19:31:02.550778]         Access to process SearchIndexer.exe is denied.
+[02/25/22 @ 19:31:02.558779]         svchost.exe
+[02/25/22 @ 19:31:02.568603]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.583607]         svchost.exe
+[02/25/22 @ 19:31:02.599611]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.615614]         svchost.exe
+[02/25/22 @ 19:31:02.621616]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.632618]         svchost.exe
+[02/25/22 @ 19:31:02.636619]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.649182]         ApplicationFrameHost.exe
+[02/25/22 @ 19:31:02.725198]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:02.726198]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:02.727199]             C:\Windows\System32\en-US\ApplicationFrame.dll.mui
+[02/25/22 @ 19:31:02.740201]         taskhostw.exe
+[02/25/22 @ 19:31:02.790212]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:02.791213]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\WebCache\V01tmp.log
+[02/25/22 @ 19:31:02.792213]             C:\Windows\System32\en-US\MsCtfMonitor.dll.mui
+[02/25/22 @ 19:31:02.793213]             C:\Windows\System32\en-US\taskhostw.exe.mui
+[02/25/22 @ 19:31:02.794213]             C:\Windows\System32\en-US\ESENT.dll.mui
+[02/25/22 @ 19:31:02.794213]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\WebCacheLock.dat
+[02/25/22 @ 19:31:02.795214]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.jfm
+[02/25/22 @ 19:31:02.796214]             C:\Windows\System32\en-US\winmm.dll.mui
+[02/25/22 @ 19:31:02.797214]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat
+[02/25/22 @ 19:31:02.798214]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\WebCache\V01.log
+[02/25/22 @ 19:31:02.832222]         svchost.exe
+[02/25/22 @ 19:31:02.837223]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.847225]         spoolsv.exe
+[02/25/22 @ 19:31:02.852227]         Access to process spoolsv.exe is denied.
+[02/25/22 @ 19:31:02.863229]         svchost.exe
+[02/25/22 @ 19:31:02.868230]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.878618]         svchost.exe
+[02/25/22 @ 19:31:02.883620]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.888621]         FAHClient.exe
+[02/25/22 @ 19:31:02.937632]             C:\Users\Bodell\AppData\Roaming\FAHClient\log.txt
+[02/25/22 @ 19:31:02.938632]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:02.939632]             C:\Windows\System32\en-US\kernel32.dll.mui
+[02/25/22 @ 19:31:02.940633]             C:\Users\Bodell\AppData\Roaming\FAHClient\work\client.db
+[02/25/22 @ 19:31:02.953636]         dasHost.exe
+[02/25/22 @ 19:31:02.959637]         Access to process dasHost.exe is denied.
+[02/25/22 @ 19:31:02.967639]         svchost.exe
+[02/25/22 @ 19:31:02.973640]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.981642]         svchost.exe
+[02/25/22 @ 19:31:02.986643]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:02.995645]         svchost.exe
+[02/25/22 @ 19:31:03.000646]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.008648]         svchost.exe
+[02/25/22 @ 19:31:03.013650]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.022652]         svchost.exe
+[02/25/22 @ 19:31:03.110307]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.120309]         svchost.exe
+[02/25/22 @ 19:31:03.125310]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.147315]         svchost.exe
+[02/25/22 @ 19:31:03.155317]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.171320]         svchost.exe
+[02/25/22 @ 19:31:03.176321]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.187324]         svchost.exe
+[02/25/22 @ 19:31:03.192325]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.200327]         svchost.exe
+[02/25/22 @ 19:31:03.205328]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.216330]         svchost.exe
+[02/25/22 @ 19:31:03.221332]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.236061]         svchost.exe
+[02/25/22 @ 19:31:03.241062]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.263068]         mDNSResponder.exe
+[02/25/22 @ 19:31:03.286073]         Access to process mDNSResponder.exe is denied.
+[02/25/22 @ 19:31:03.295075]         officeclicktorun.exe
+[02/25/22 @ 19:31:03.300076]         Access to process officeclicktorun.exe is denied.
+[02/25/22 @ 19:31:03.310078]         RtkAudUService64.exe
+[02/25/22 @ 19:31:03.315079]         Access to process RtkAudUService64.exe is denied.
+[02/25/22 @ 19:31:03.335793]         AppleMobileDeviceService.exe
+[02/25/22 @ 19:31:03.339793]         Access to process AppleMobileDeviceService.exe is denied.
+[02/25/22 @ 19:31:03.348795]         RaRegistry64.exe
+[02/25/22 @ 19:31:03.358799]         Access to process RaRegistry64.exe is denied.
+[02/25/22 @ 19:31:03.387805]         RaRegistry.exe
+[02/25/22 @ 19:31:03.392805]         Access to process RaRegistry.exe is denied.
+[02/25/22 @ 19:31:03.404808]         MsMpEng.exe
+[02/25/22 @ 19:31:03.409809]         Access to process MsMpEng.exe is denied.
+[02/25/22 @ 19:31:03.419811]         svchost.exe
+[02/25/22 @ 19:31:03.424813]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.434815]         SMSvcHost.exe
+[02/25/22 @ 19:31:03.438816]         Access to process SMSvcHost.exe is denied.
+[02/25/22 @ 19:31:03.450819]         FitbitConnectService.exe
+[02/25/22 @ 19:31:03.454819]         Access to process FitbitConnectService.exe is denied.
+[02/25/22 @ 19:31:03.467823]         mqsvc.exe
+[02/25/22 @ 19:31:03.476825]         Access to process mqsvc.exe is denied.
+[02/25/22 @ 19:31:03.501830]         svchost.exe
+[02/25/22 @ 19:31:03.506831]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.516834]         svchost.exe
+[02/25/22 @ 19:31:03.521835]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.531838]         svchost.exe
+[02/25/22 @ 19:31:03.536841]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.541841]         conhost.exe
+[02/25/22 @ 19:31:03.586852]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 19:31:03.587853]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 19:31:03.587853]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:03.588852]             C:\Windows\System32\en-US\Conhost.exe.mui
+[02/25/22 @ 19:31:03.589853]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:03.610857]         SMSvcHost.exe
+[02/25/22 @ 19:31:03.616859]         Access to process SMSvcHost.exe is denied.
+[02/25/22 @ 19:31:03.631196]         svchost.exe
+[02/25/22 @ 19:31:03.636197]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.641199]         Discord.exe
+[02/25/22 @ 19:31:03.683208]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:03.704213]         SgrmBroker.exe
+[02/25/22 @ 19:31:03.709214]         Access to process SgrmBroker.exe is denied.
+[02/25/22 @ 19:31:03.723217]         WmiPrvSE.exe
+[02/25/22 @ 19:31:03.728219]         Access to process WmiPrvSE.exe is denied.
+[02/25/22 @ 19:31:03.737220]         svchost.exe
+[02/25/22 @ 19:31:03.742221]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.747222]         svchost.exe
+[02/25/22 @ 19:31:03.798234]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 19:31:03.799235]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:03.800234]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:03.801236]             C:\Windows\System32\en-US\svchost.exe.mui
+[02/25/22 @ 19:31:03.838243]         svchost.exe
+[02/25/22 @ 19:31:03.843244]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.852246]         svchost.exe
+[02/25/22 @ 19:31:03.856247]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:03.865249]         MoUsoCoreWorker.exe
+[02/25/22 @ 19:31:03.870250]         Access to process MoUsoCoreWorker.exe is denied.
+[02/25/22 @ 19:31:03.874251]         StartMenuExperienceHost.exe
+[02/25/22 @ 19:31:03.956270]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_4_PNGEncoded_Header.bin
+[02/25/22 @ 19:31:03.957270]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 19:31:03.958270]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:03.958270]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_4_PNGEncoded_Data.bin
+[02/25/22 @ 19:31:03.996351]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:03.997351]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 19:31:03.998351]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:03.998351]             C:\Windows\System32\en-US\windows.ui.xaml.dll.mui
+[02/25/22 @ 19:31:03.999352]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:04.000352]             C:\Windows\System32\en-US\Windows.Globalization.dll.mui
+[02/25/22 @ 19:31:04.001352]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:04.016356]         svchost.exe
+[02/25/22 @ 19:31:04.020356]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.033360]         Video.UI.exe
+[02/25/22 @ 19:31:04.100375]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\edb.log
+[02/25/22 @ 19:31:04.101375]             C:\Windows\System32\WinMetadata\Windows.System.winmd
+[02/25/22 @ 19:31:04.102376]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:04.102376]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:04.103375]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\EntClientDb.jfm
+[02/25/22 @ 19:31:04.104376]             C:\Windows\System32\en-US\ESENT.dll.mui
+[02/25/22 @ 19:31:04.105376]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:04.106376]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:04.106376]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\EntClientDb.edb
+[02/25/22 @ 19:31:04.107376]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\tmp.edb
+[02/25/22 @ 19:31:04.108376]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:04.109377]             C:\Windows\System32\WinMetadata\Windows.UI.Xaml.winmd
+[02/25/22 @ 19:31:04.122380]         RtkAudUService64.exe
+[02/25/22 @ 19:31:04.182393]         svchost.exe
+[02/25/22 @ 19:31:04.187394]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.200397]         svchost.exe
+[02/25/22 @ 19:31:04.205398]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.218120]         svchost.exe
+[02/25/22 @ 19:31:04.222121]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.234503]         svchost.exe
+[02/25/22 @ 19:31:04.238504]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.257509]         NisSrv.exe
+[02/25/22 @ 19:31:04.268513]         Access to process NisSrv.exe is denied.
+[02/25/22 @ 19:31:04.279514]         smartscreen.exe
+[02/25/22 @ 19:31:04.343529]             C:\Windows\System32\en-US\smartscreen.exe.mui
+[02/25/22 @ 19:31:04.344528]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:04.345529]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:04.346529]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:04.346529]             C:\Windows\System32\en-US\Windows.Web.Http.dll.mui
+[02/25/22 @ 19:31:04.347529]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:04.348529]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Safety\edge\local\local\cache
+[02/25/22 @ 19:31:04.349529]             C:\Windows\System32\WinMetadata\Windows.Foundation.winmd
+[02/25/22 @ 19:31:04.387539]         svchost.exe
+[02/25/22 @ 19:31:04.392540]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.404542]         svchost.exe
+[02/25/22 @ 19:31:04.409543]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.421546]         svchost.exe
+[02/25/22 @ 19:31:04.426547]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.436550]         svchost.exe
+[02/25/22 @ 19:31:04.441550]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.446552]         svchost.exe
+[02/25/22 @ 19:31:04.517567]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Notifications\WPNPRMRY.tmp
+[02/25/22 @ 19:31:04.518569]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:04.519568]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:04.520568]             C:\Windows\System32\en-US\QuietHours.dll.mui
+[02/25/22 @ 19:31:04.521569]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 19:31:04.522569]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:04.522569]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db
+[02/25/22 @ 19:31:04.523569]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db-shm
+[02/25/22 @ 19:31:04.524569]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:04.525570]             C:\Windows\System32\en-US\NotificationController.dll.mui
+[02/25/22 @ 19:31:04.526570]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:04.526570]             C:\Windows\System32\en-US\svchost.exe.mui
+[02/25/22 @ 19:31:04.530571]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db-wal
+[02/25/22 @ 19:31:04.542574]         svchost.exe
+[02/25/22 @ 19:31:04.548574]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.556576]         MpCopyAccelerator.exe
+[02/25/22 @ 19:31:04.561578]         Access to process MpCopyAccelerator.exe is denied.
+[02/25/22 @ 19:31:04.569579]         gamingservicesnet.exe
+[02/25/22 @ 19:31:04.574581]         Access to process gamingservicesnet.exe is denied.
+[02/25/22 @ 19:31:04.590584]         ScanToPCActivationApp.exe
+[02/25/22 @ 19:31:04.647597]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 19:31:04.660600]         svchost.exe
+[02/25/22 @ 19:31:04.664601]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.673603]         svchost.exe
+[02/25/22 @ 19:31:04.678604]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.682605]         py.exe
+[02/25/22 @ 19:31:04.730616]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:04.771625]         conhost.exe
+[02/25/22 @ 19:31:04.807634]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 19:31:04.808634]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:04.809634]             C:\Windows\System32\en-US\Conhost.exe.mui
+[02/25/22 @ 19:31:04.838641]         svchost.exe
+[02/25/22 @ 19:31:04.843642]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.854644]         svchost.exe
+[02/25/22 @ 19:31:04.859645]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.867647]         svchost.exe
+[02/25/22 @ 19:31:04.872648]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.884651]         atieclxx.exe
+[02/25/22 @ 19:31:04.889652]         Access to process atieclxx.exe is denied.
+[02/25/22 @ 19:31:04.902658]         svchost.exe
+[02/25/22 @ 19:31:04.907659]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.924663]         svchost.exe
+[02/25/22 @ 19:31:04.938666]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:04.952669]         AdobeARM.exe
+[02/25/22 @ 19:31:05.013683]             C:\Users\Bodell\AppData\Local\Temp\AdobeARM.log
+[02/25/22 @ 19:31:05.014683]             C:\Windows\SysWOW64\en-US\user32.dll.mui
+[02/25/22 @ 19:31:05.015683]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:05.015683]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:05.038689]         svchost.exe
+[02/25/22 @ 19:31:05.047692]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:05.059693]         atom.exe
+[02/25/22 @ 19:31:05.158716]             C:\Windows\Fonts\YuGothL.ttc
+[02/25/22 @ 19:31:05.159716]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Fonts\FiraCode-Regular.ttf
+[02/25/22 @ 19:31:05.160717]             C:\Windows\Fonts\seguisbi.ttf
+[02/25/22 @ 19:31:05.161718]             C:\Windows\Fonts\seguisb.ttf
+[02/25/22 @ 19:31:05.162718]             C:\Windows\Fonts\cour.ttf
+[02/25/22 @ 19:31:05.163718]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:05.164717]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 19:31:05.165717]             C:\Windows\Fonts\courbi.ttf
+[02/25/22 @ 19:31:05.166718]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Fonts\FiraCode-SemiBold.ttf
+[02/25/22 @ 19:31:05.167718]             C:\Windows\Fonts\segoeuil.ttf
+[02/25/22 @ 19:31:05.167718]             C:\Windows\Fonts\seguibl.ttf
+[02/25/22 @ 19:31:05.168719]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources.pak
+[02/25/22 @ 19:31:05.169719]             C:\Windows\Fonts\malgun.ttf
+[02/25/22 @ 19:31:05.170721]             C:\Windows\Fonts\segoeuisl.ttf
+[02/25/22 @ 19:31:05.171720]             C:\Windows\Fonts\malgunbd.ttf
+[02/25/22 @ 19:31:05.172719]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Fonts\FiraCode-Medium.ttf
+[02/25/22 @ 19:31:05.173719]             C:\Windows\Fonts\cambria.ttc
+[02/25/22 @ 19:31:05.174720]             C:\Windows\Fonts\seguibli.ttf
+[02/25/22 @ 19:31:05.175721]             C:\Windows\Fonts\times.ttf
+[02/25/22 @ 19:31:05.175721]             C:\Windows\Fonts\ARIALN.TTF
+[02/25/22 @ 19:31:05.176721]             C:\Windows\Fonts\couri.ttf
+[02/25/22 @ 19:31:05.177721]             C:\Windows\Fonts\consolab.ttf
+[02/25/22 @ 19:31:05.178721]             C:\Windows\Fonts\courbd.ttf
+[02/25/22 @ 19:31:05.179721]             C:\Windows\Fonts\seguiemj.ttf
+[02/25/22 @ 19:31:05.179721]             C:\Windows\Fonts\consolai.ttf
+[02/25/22 @ 19:31:05.180721]             C:\Windows\Fonts\ariblk.ttf
+[02/25/22 @ 19:31:05.186722]             C:\Windows\Fonts\malgunsl.ttf
+[02/25/22 @ 19:31:05.187723]             C:\Windows\Fonts\YuGothB.ttc
+[02/25/22 @ 19:31:05.188723]             C:\Windows\Fonts\arial.ttf
+[02/25/22 @ 19:31:05.189723]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources\app.asar
+[02/25/22 @ 19:31:05.189723]             C:\Windows\Fonts\ARIALNI.TTF
+[02/25/22 @ 19:31:05.190723]             C:\Windows\Fonts\YuGothR.ttc
+[02/25/22 @ 19:31:05.191724]             C:\Windows\Fonts\arialbi.ttf
+[02/25/22 @ 19:31:05.192724]             C:\Windows\Fonts\ariali.ttf
+[02/25/22 @ 19:31:05.193725]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:05.193725]             C:\Windows\Fonts\ARIALNBI.TTF
+[02/25/22 @ 19:31:05.194724]             C:\Windows\Fonts\YuGothM.ttc
+[02/25/22 @ 19:31:05.195725]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Fonts\FiraCode-Bold.ttf
+[02/25/22 @ 19:31:05.196725]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Fonts\FiraCode-Light.ttf
+[02/25/22 @ 19:31:05.200727]             C:\Users\Bodell\AppData\Roaming\Atom\Dictionaries\en-US-9-0.bdic
+[02/25/22 @ 19:31:05.201726]             C:\Windows\Fonts\timesi.ttf
+[02/25/22 @ 19:31:05.201726]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:05.202726]             C:\Windows\Fonts\segoeuii.ttf
+[02/25/22 @ 19:31:05.203726]             C:\Windows\Fonts\consola.ttf
+[02/25/22 @ 19:31:05.204726]             C:\Windows\Fonts\arialbd.ttf
+[02/25/22 @ 19:31:05.205727]             C:\Windows\Fonts\seguili.ttf
+[02/25/22 @ 19:31:05.205727]             C:\Windows\Fonts\timesbd.ttf
+[02/25/22 @ 19:31:05.206727]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:05.207728]             C:\Windows\Fonts\segoeuiz.ttf
+[02/25/22 @ 19:31:05.208727]             C:\Windows\Fonts\ARIALNB.TTF
+[02/25/22 @ 19:31:05.209728]             C:\Windows\Fonts\consolaz.ttf
+[02/25/22 @ 19:31:05.209728]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\icudtl.dat
+[02/25/22 @ 19:31:05.223731]             E:\dragonscale-open-source\.git\objects\pack\pack-2f31d892c7e36c348b932bbdb382fb462c445fc2.pack
+[02/25/22 @ 19:31:05.224731]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_200_percent.pak
+[02/25/22 @ 19:31:05.225732]             C:\Windows\Fonts\timesbi.ttf
+[02/25/22 @ 19:31:05.226731]             C:\Windows\Fonts\simsun.ttc
+[02/25/22 @ 19:31:05.227732]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\v8_context_snapshot.bin
+[02/25/22 @ 19:31:05.228732]             C:\Windows\Fonts\seguisli.ttf
+[02/25/22 @ 19:31:05.228732]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\locales\en-US.pak
+[02/25/22 @ 19:31:05.237734]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_100_percent.pak
+[02/25/22 @ 19:31:05.254740]         LockApp.exe
+[02/25/22 @ 19:31:05.322754]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:05.323754]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:05.324755]             C:\Windows\Fonts\segoeuil.ttf
+[02/25/22 @ 19:31:05.325754]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:05.326754]             C:\Windows\System32\en-US\NetworkIcon.dll.mui
+[02/25/22 @ 19:31:05.326754]             C:\Windows\Fonts\segoeuisl.ttf
+[02/25/22 @ 19:31:05.327754]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:05.336756]         svchost.exe
+[02/25/22 @ 19:31:05.380768]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:05.381767]             C:\Windows\System32\en-US\svchost.exe.mui
+[02/25/22 @ 19:31:05.398771]         winlogon.exe
+[02/25/22 @ 19:31:05.409773]         Access to process winlogon.exe is denied.
+[02/25/22 @ 19:31:05.413773]         RuntimeBroker.exe
+[02/25/22 @ 19:31:05.449783]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:05.458785]         Music.UI.exe
+[02/25/22 @ 19:31:05.526799]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\edb.log
+[02/25/22 @ 19:31:05.526799]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:05.527800]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:05.528800]             C:\Windows\System32\WinMetadata\Windows.UI.Xaml.winmd
+[02/25/22 @ 19:31:05.529800]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:05.530801]             C:\Windows\System32\en-US\ESENT.dll.mui
+[02/25/22 @ 19:31:05.531801]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\EntClientDb.jfm
+[02/25/22 @ 19:31:05.531801]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:05.532801]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\tmp.edb
+[02/25/22 @ 19:31:05.533801]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:05.534801]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\EntClientDb.edb
+[02/25/22 @ 19:31:05.542803]         atom.exe
+[02/25/22 @ 19:31:05.581812]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:05.602817]         RuntimeBroker.exe
+[02/25/22 @ 19:31:05.660830]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 19:31:05.661830]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:05.662831]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:05.662831]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:05.663831]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:05.672833]         ctfmon.exe
+[02/25/22 @ 19:31:05.678834]         Access to process ctfmon.exe is denied.
+[02/25/22 @ 19:31:05.683836]         TextInputHost.exe
+[02/25/22 @ 19:31:05.755852]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:05.756852]             C:\Users\Bodell\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:05.757852]             C:\Users\Bodell\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:05.758852]             C:\Windows\System32\WinMetadata\Windows.UI.winmd
+[02/25/22 @ 19:31:05.759852]             C:\Users\Bodell\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:05.759852]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:05.773855]         svchost.exe
+[02/25/22 @ 19:31:05.778857]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:05.788859]         WmiPrvSE.exe
+[02/25/22 @ 19:31:05.793861]         Access to process WmiPrvSE.exe is denied.
+[02/25/22 @ 19:31:05.798861]         RuntimeBroker.exe
+[02/25/22 @ 19:31:05.841871]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:05.852874]         rundll32.exe
+[02/25/22 @ 19:31:05.896884]             C:\Windows\System32\en-US\rundll32.exe.mui
+[02/25/22 @ 19:31:05.897884]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:05.906886]         SearchApp.exe
+[02/25/22 @ 19:31:06.019913]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:06.020912]             C:\Windows\System32\WinMetadata\Windows.Web.winmd
+[02/25/22 @ 19:31:06.021912]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:06.022913]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:06.022913]             C:\Windows\System32\en-US\edgehtml.dll.mui
+[02/25/22 @ 19:31:06.023912]             C:\Windows\System32\WinMetadata\Windows.Security.winmd
+[02/25/22 @ 19:31:06.024913]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:06.025913]             C:\Windows\System32\WinMetadata\Windows.Storage.winmd
+[02/25/22 @ 19:31:06.026913]             C:\Windows\SystemResources\Chakra.dll.mun
+[02/25/22 @ 19:31:06.026913]             C:\Windows\System32\WinMetadata\Windows.Foundation.winmd
+[02/25/22 @ 19:31:06.027913]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:06.028913]             C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Cortana.Search.winmd
+[02/25/22 @ 19:31:06.029914]             C:\Windows\System32\WinMetadata\Windows.System.winmd
+[02/25/22 @ 19:31:06.030915]             C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Cortana.Internal.Search.winmd
+[02/25/22 @ 19:31:06.031915]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:06.052919]             C:\Windows\System32\en-US\dnsapi.dll.mui
+[02/25/22 @ 19:31:06.053919]             C:\Windows\System32\WinMetadata\Windows.ApplicationModel.winmd
+[02/25/22 @ 19:31:06.054920]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 19:31:06.055920]             C:\Windows\System32\WinMetadata\Windows.UI.winmd
+[02/25/22 @ 19:31:06.056920]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:06.070924]         svchost.exe
+[02/25/22 @ 19:31:06.083926]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:06.087926]         UserOOBEBroker.exe
+[02/25/22 @ 19:31:06.124935]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:06.144941]         svchost.exe
+[02/25/22 @ 19:31:06.153942]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:06.162944]         dllhost.exe
+[02/25/22 @ 19:31:06.206954]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:06.207954]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\CacheStorage\CacheStorage.jfm
+[02/25/22 @ 19:31:06.208954]             C:\Windows\System32\en-US\ESENT.dll.mui
+[02/25/22 @ 19:31:06.209955]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\CacheStorage\CacheStorage.edb
+[02/25/22 @ 19:31:06.210955]             C:\Users\Bodell\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edb.log
+[02/25/22 @ 19:31:06.222958]         svchost.exe
+[02/25/22 @ 19:31:06.226958]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:06.235961]         jucheck.exe
+[02/25/22 @ 19:31:06.295974]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:06.296974]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:06.297975]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:06.297975]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:06.314978]         svchost.exe
+[02/25/22 @ 19:31:06.319979]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:06.324981]         svchost.exe
+[02/25/22 @ 19:31:06.365990]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:06.366990]             C:\Windows\System32\en-US\svchost.exe.mui
+[02/25/22 @ 19:31:06.382994]         Discord.exe
+[02/25/22 @ 19:31:06.438007]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\resources.pak
+[02/25/22 @ 19:31:06.439007]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_200_percent.pak
+[02/25/22 @ 19:31:06.439007]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\v8_context_snapshot.bin
+[02/25/22 @ 19:31:06.440007]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:06.441007]             C:\Users\Bodell\AppData\Roaming\discord\Cache\data_2
+[02/25/22 @ 19:31:06.442007]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_100_percent.pak
+[02/25/22 @ 19:31:06.443007]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\icudtl.dat
+[02/25/22 @ 19:31:06.443007]             C:\Users\Bodell\AppData\Roaming\discord\Cache\index
+[02/25/22 @ 19:31:06.444008]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\locales\en-US.pak
+[02/25/22 @ 19:31:06.445008]             C:\Users\Bodell\AppData\Roaming\discord\Cache\data_0
+[02/25/22 @ 19:31:06.446008]             C:\Users\Bodell\AppData\Roaming\discord\Cache\data_1
+[02/25/22 @ 19:31:06.447008]             C:\Users\Bodell\AppData\Roaming\discord\Cookies-journal
+[02/25/22 @ 19:31:06.447008]             C:\Users\Bodell\AppData\Roaming\discord\Cookies
+[02/25/22 @ 19:31:06.448009]             C:\Users\Bodell\AppData\Roaming\discord\Cache\data_3
+[02/25/22 @ 19:31:06.461012]         dwm.exe
+[02/25/22 @ 19:31:06.466013]         Access to process dwm.exe is denied.
+[02/25/22 @ 19:31:06.472014]         Calculator.exe
+[02/25/22 @ 19:31:06.542030]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.WindowsCalculator_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:06.543030]             C:\Windows\Fonts\seguisb.ttf
+[02/25/22 @ 19:31:06.544030]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:06.545031]             C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe\Microsoft.UI.Xaml\Assets\NoiseAsset_256x256_PNG.png
+[02/25/22 @ 19:31:06.546031]             C:\Windows\System32\WinMetadata\Windows.UI.Xaml.winmd
+[02/25/22 @ 19:31:06.547031]             C:\Windows\System32\WinMetadata\Windows.UI.winmd
+[02/25/22 @ 19:31:06.547031]             C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Assets\CalcMDL2.ttf
+[02/25/22 @ 19:31:06.548031]             C:\Windows\System32\en-US\windows.ui.xaml.dll.mui
+[02/25/22 @ 19:31:06.549032]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.WindowsCalculator_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:06.550032]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.WindowsCalculator_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:06.558034]         RadeonSettings.exe
+[02/25/22 @ 19:31:06.638052]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:06.639053]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 19:31:06.640053]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:06.641053]             C:\Users\Bodell\AppData\Local\D3DSCache\643ef9f3b699fd42\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:06.641053]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 19:31:06.642053]             C:\Users\Bodell\AppData\Local\D3DSCache\643ef9f3b699fd42\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:06.643053]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:06.644053]             C:\Users\Bodell\AppData\Local\AMD\DxCache\794172ac805093d79ae93196013f12255ab246171f72765d.bin
+[02/25/22 @ 19:31:06.645053]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:06.645053]             C:\Users\Bodell\AppData\Local\D3DSCache\643ef9f3b699fd42\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:06.646054]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:06.655056]         Discord.exe
+[02/25/22 @ 19:31:06.772083]             C:\Users\Bodell\AppData\Roaming\discord\GPUCache\index
+[02/25/22 @ 19:31:06.773083]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_200_percent.pak
+[02/25/22 @ 19:31:06.774083]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\001141.ldb
+[02/25/22 @ 19:31:06.775083]             C:\Users\Bodell\AppData\Roaming\discord\GPUCache\data_0
+[02/25/22 @ 19:31:06.775083]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:06.776083]             C:\Users\Bodell\AppData\Local\Discord\Discord_updater_rCURRENT.log
+[02/25/22 @ 19:31:06.777083]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\LOG
+[02/25/22 @ 19:31:06.787085]             C:\Users\Bodell\AppData\Roaming\discord\GPUCache\data_1
+[02/25/22 @ 19:31:06.795087]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\resources.pak
+[02/25/22 @ 19:31:06.796088]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\metadata\MANIFEST-000001
+[02/25/22 @ 19:31:06.797088]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\metadata\LOG
+[02/25/22 @ 19:31:06.798088]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\metadata\LOCK
+[02/25/22 @ 19:31:06.798088]             C:\Users\Bodell\AppData\Roaming\discord\GPUCache\data_2
+[02/25/22 @ 19:31:06.799088]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\000005.ldb
+[02/25/22 @ 19:31:06.800089]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\LOG
+[02/25/22 @ 19:31:06.801089]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\v8_context_snapshot.bin
+[02/25/22 @ 19:31:06.802089]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:06.802089]             C:\Users\Bodell\AppData\Roaming\discord\lockfile
+[02/25/22 @ 19:31:06.803089]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\000008.ldb
+[02/25/22 @ 19:31:06.821094]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\LOG
+[02/25/22 @ 19:31:06.822095]             C:\Users\Bodell\AppData\Roaming\discord\GPUCache\data_3
+[02/25/22 @ 19:31:06.823094]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\000003.log
+[02/25/22 @ 19:31:06.824094]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\LOCK
+[02/25/22 @ 19:31:06.825095]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\locales\en-US.pak
+[02/25/22 @ 19:31:06.826094]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\MANIFEST-000001
+[02/25/22 @ 19:31:06.826094]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\000007.log
+[02/25/22 @ 19:31:06.827096]             C:\Windows\SysWOW64\en-US\user32.dll.mui
+[02/25/22 @ 19:31:06.828095]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\000005.ldb
+[02/25/22 @ 19:31:06.829095]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\MANIFEST-000001
+[02/25/22 @ 19:31:06.830096]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\modules\discord_desktop_core-1\discord_desktop_core\core.asar
+[02/25/22 @ 19:31:06.831096]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:06.832096]             C:\Windows\System32\en-US\kernel32.dll.mui
+[02/25/22 @ 19:31:06.833096]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\LOCK
+[02/25/22 @ 19:31:06.834097]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\LOCK
+[02/25/22 @ 19:31:06.835097]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_100_percent.pak
+[02/25/22 @ 19:31:06.843098]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\MANIFEST-000001
+[02/25/22 @ 19:31:06.844099]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\metadata\000003.log
+[02/25/22 @ 19:31:06.844099]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\icudtl.dat
+[02/25/22 @ 19:31:06.845099]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\001139.log
+[02/25/22 @ 19:31:06.846099]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\resources\app.asar
+[02/25/22 @ 19:31:06.857102]         SystemSettings.exe
+[02/25/22 @ 19:31:06.954124]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 19:31:06.954124]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 19:31:06.955124]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:06.956124]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:06.957125]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:06.958125]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 19:31:06.959125]             C:\Users\Bodell\AppData\Local\D3DSCache\d1045fa42060dcaf\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:06.960125]             C:\Windows\System32\en-US\SHCore.dll.mui
+[02/25/22 @ 19:31:06.961125]             C:\Windows\Fonts\segoeuil.ttf
+[02/25/22 @ 19:31:06.961125]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:06.962126]             C:\Users\Bodell\AppData\Local\D3DSCache\d1045fa42060dcaf\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:06.963126]             C:\Windows\ImmersiveControlPanel\en-US\SystemSettings.exe.mui
+[02/25/22 @ 19:31:06.968127]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:06.969127]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:06.970127]             C:\Users\Bodell\AppData\Local\AMD\DxCache\14ae554115e5b18b67b8f93d1cd850cd51f19ed9687ded04.bin
+[02/25/22 @ 19:31:06.970127]             C:\Windows\System32\en-US\windows.ui.xaml.dll.mui
+[02/25/22 @ 19:31:06.971127]             C:\Users\Bodell\AppData\Local\D3DSCache\d1045fa42060dcaf\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:06.983130]         RuntimeBroker.exe
+[02/25/22 @ 19:31:07.019139]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:07.020139]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:07.029141]         cmd.exe
+[02/25/22 @ 19:31:07.062149]             C:\Windows\System32\en-US\cmd.exe.mui
+[02/25/22 @ 19:31:07.102157]         python.exe
+[02/25/22 @ 19:31:07.158170]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:07.159170]             C:\Windows\System32\en-US\kernel32.dll.mui
+[02/25/22 @ 19:31:07.230187]         atom.exe
+[02/25/22 @ 19:31:07.290200]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:07.291201]             C:\Users\Bodell\AppData\Roaming\Atom\Cache\data_0
+[02/25/22 @ 19:31:07.292201]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:07.293201]             C:\Users\Bodell\AppData\Roaming\Atom\Cache\index
+[02/25/22 @ 19:31:07.294201]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\icudtl.dat
+[02/25/22 @ 19:31:07.295201]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources.pak
+[02/25/22 @ 19:31:07.296202]             C:\Users\Bodell\AppData\Roaming\Atom\Cache\data_1
+[02/25/22 @ 19:31:07.297202]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_200_percent.pak
+[02/25/22 @ 19:31:07.297202]             C:\Users\Bodell\AppData\Roaming\Atom\Cache\data_3
+[02/25/22 @ 19:31:07.301202]             C:\Users\Bodell\AppData\Roaming\Atom\Cache\data_2
+[02/25/22 @ 19:31:07.301202]             C:\Users\Bodell\AppData\Roaming\Atom\Cookies
+[02/25/22 @ 19:31:07.302203]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\v8_context_snapshot.bin
+[02/25/22 @ 19:31:07.303203]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\locales\en-US.pak
+[02/25/22 @ 19:31:07.304203]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_100_percent.pak
+[02/25/22 @ 19:31:07.312205]         svchost.exe
+[02/25/22 @ 19:31:07.373219]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:07.374219]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:07.385221]             C:\Users\Bodell\AppData\Local\ConnectedDevicesPlatform\850ec075d0dffa68\ActivitiesCache.db-wal
+[02/25/22 @ 19:31:07.385221]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 19:31:07.386222]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:07.387222]             C:\Users\Bodell\AppData\Local\ConnectedDevicesPlatform\850ec075d0dffa68\ActivitiesCache.db-shm
+[02/25/22 @ 19:31:07.388223]             C:\Users\Bodell\AppData\Local\ConnectedDevicesPlatform\850ec075d0dffa68\ActivitiesCache.db
+[02/25/22 @ 19:31:07.389222]             C:\Windows\System32\en-US\svchost.exe.mui
+[02/25/22 @ 19:31:07.403226]         SettingSyncHost.exe
+[02/25/22 @ 19:31:07.453237]             C:\Windows\System32\en-US\SettingSyncCore.dll.mui
+[02/25/22 @ 19:31:07.454238]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:07.455237]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:07.464239]         sihost.exe
+[02/25/22 @ 19:31:07.545258]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:07.546258]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:07.561261]         Cortana.exe
+[02/25/22 @ 19:31:07.650282]             C:\Windows\System32\WinMetadata\Windows.System.winmd
+[02/25/22 @ 19:31:07.651282]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:07.652283]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:07.653282]             C:\Windows\System32\en-US\dnsapi.dll.mui
+[02/25/22 @ 19:31:07.654282]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 19:31:07.654282]             C:\Windows\System32\WinMetadata\Windows.Web.winmd
+[02/25/22 @ 19:31:07.655283]             C:\Windows\System32\WinMetadata\Windows.Services.winmd
+[02/25/22 @ 19:31:07.656283]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:07.657283]             C:\Windows\System32\en-US\netmsg.dll.mui
+[02/25/22 @ 19:31:07.658283]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:07.658283]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.549981C3F5F10_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:07.659284]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:07.660284]             C:\Windows\System32\WinMetadata\Windows.Media.winmd
+[02/25/22 @ 19:31:07.661285]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.549981C3F5F10_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:07.661285]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.549981C3F5F10_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:07.662284]             C:\Windows\System32\WinMetadata\Windows.ApplicationModel.winmd
+[02/25/22 @ 19:31:07.663285]             C:\Windows\System32\en-US\Windows.Web.dll.mui
+[02/25/22 @ 19:31:07.673287]         RuntimeBroker.exe
+[02/25/22 @ 19:31:07.730300]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 19:31:07.731300]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:07.732301]             C:\Windows\System32\en-US\ShutdownUX.dll.mui
+[02/25/22 @ 19:31:07.733301]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:07.733301]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:07.743303]         SearchApp.exe
+[02/25/22 @ 19:31:07.861330]             C:\Windows\Fonts\seguisb.ttf
+[02/25/22 @ 19:31:07.862330]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:07.863330]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 19:31:07.864331]             C:\Windows\System32\WinMetadata\Windows.UI.Xaml.winmd
+[02/25/22 @ 19:31:07.865330]             C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Cortana.Internal.Search.winmd
+[02/25/22 @ 19:31:07.866331]             C:\Windows\System32\WinMetadata\Windows.Web.winmd
+[02/25/22 @ 19:31:07.867331]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:07.867331]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:07.868331]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:07.869331]             C:\Windows\SystemResources\edgehtml.dll.mun
+[02/25/22 @ 19:31:07.870332]             C:\Windows\System32\en-US\dnsapi.dll.mui
+[02/25/22 @ 19:31:07.870332]             C:\Windows\SystemResources\Chakra.dll.mun
+[02/25/22 @ 19:31:07.871332]             C:\Windows\System32\en-US\edgehtml.dll.mui
+[02/25/22 @ 19:31:07.872332]             C:\Windows\System32\en-US\d2d1.dll.mui
+[02/25/22 @ 19:31:07.873332]             C:\Windows\System32\WinMetadata\Windows.Foundation.winmd
+[02/25/22 @ 19:31:07.883334]         atom.exe
+[02/25/22 @ 19:31:07.959352]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:07.960352]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:07.961353]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\icudtl.dat
+[02/25/22 @ 19:31:07.973355]         explorer.exe
+[02/25/22 @ 19:31:08.220411]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 19:31:08.221411]             C:\Users\Bodell\AppData\Local\D3DSCache\8c4ef25b5f12d6ac\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 19:31:08.222411]             C:\Windows\System32\en-US\hcproviders.dll.mui
+[02/25/22 @ 19:31:08.223412]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:08.223412]             C:\Windows\System32\en-US\InputSwitch.dll.mui
+[02/25/22 @ 19:31:08.225412]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 19:31:08.225412]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:08.226412]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+[02/25/22 @ 19:31:08.227413]             C:\Users\Bodell\AppData\Local\D3DSCache\8c4ef25b5f12d6ac\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 19:31:08.228413]             C:\Windows\System32\en-US\Geolocation.dll.mui
+[02/25/22 @ 19:31:08.229413]             C:\Windows\System32\en-US\wscui.cpl.mui
+[02/25/22 @ 19:31:08.230413]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+[02/25/22 @ 19:31:08.230413]             C:\Windows\System32\en-US\stobject.dll.mui
+[02/25/22 @ 19:31:08.231413]             C:\Windows\System32\en-US\oleaccrc.dll.mui
+[02/25/22 @ 19:31:08.232414]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+[02/25/22 @ 19:31:08.233414]             C:\Windows\System32\en-US\bthprops.cpl.mui
+[02/25/22 @ 19:31:08.234414]             C:\Windows\SystemResources\SndVolSSO.dll.mun
+[02/25/22 @ 19:31:08.235414]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+[02/25/22 @ 19:31:08.235414]             C:\Windows\System32\en-US\pnidui.dll.mui
+[02/25/22 @ 19:31:08.253418]             C:\Windows\System32\en-US\ieframe.dll.mui
+[02/25/22 @ 19:31:08.254419]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+[02/25/22 @ 19:31:08.255419]             C:\Users\Bodell\AppData\Local\AMD\DxCache\5429e8ff08a8e9b3716850681d461019964d07acafb3b839.bin
+[02/25/22 @ 19:31:08.256419]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+[02/25/22 @ 19:31:08.257419]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:08.258420]             C:\Users\Bodell\AppData\Local\Microsoft\GameDVR\KnownGameList.bin
+[02/25/22 @ 19:31:08.270422]             C:\Windows\System32\en-US\ActionCenter.dll.mui
+[02/25/22 @ 19:31:08.271422]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:08.272423]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:08.273423]             C:\Windows\en-US\explorer.exe.mui
+[02/25/22 @ 19:31:08.273423]             C:\Windows\System32\en-US\imapi2.dll.mui
+[02/25/22 @ 19:31:08.275424]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 19:31:08.275424]             C:\Windows\System32\en-US\dsreg.dll.mui
+[02/25/22 @ 19:31:08.276424]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:08.277424]             C:\Windows\System32\en-US\twinui.pcshell.dll.mui
+[02/25/22 @ 19:31:08.278424]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+[02/25/22 @ 19:31:08.278424]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db
+[02/25/22 @ 19:31:08.279424]             C:\Windows\System32\en-US\ApplicationFrame.dll.mui
+[02/25/22 @ 19:31:08.280425]             C:\Windows\SystemResources\imageres.dll.mun
+[02/25/22 @ 19:31:08.281425]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:08.282425]             C:\Users\Bodell\AppData\Local\D3DSCache\8c4ef25b5f12d6ac\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 19:31:08.282425]             C:\Windows\System32\en-US\sndvolsso.dll.mui
+[02/25/22 @ 19:31:08.283425]             C:\Windows\SystemResources\stobject.dll.mun
+[02/25/22 @ 19:31:08.297429]         atom.exe
+[02/25/22 @ 19:31:08.353442]             C:\Windows\Fonts\times.ttf
+[02/25/22 @ 19:31:08.354442]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:08.355442]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\icudtl.dat
+[02/25/22 @ 19:31:08.356442]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources.pak
+[02/25/22 @ 19:31:08.357443]             C:\Users\Bodell\AppData\Roaming\Atom\Dictionaries\en-US-9-0.bdic
+[02/25/22 @ 19:31:08.358442]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_200_percent.pak
+[02/25/22 @ 19:31:08.359443]             C:\Windows\Fonts\timesi.ttf
+[02/25/22 @ 19:31:08.359443]             C:\Windows\Fonts\timesbi.ttf
+[02/25/22 @ 19:31:08.360443]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources\app.asar
+[02/25/22 @ 19:31:08.361443]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\v8_context_snapshot.bin
+[02/25/22 @ 19:31:08.362443]             C:\Windows\Fonts\timesbd.ttf
+[02/25/22 @ 19:31:08.363444]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\locales\en-US.pak
+[02/25/22 @ 19:31:08.364446]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_100_percent.pak
+[02/25/22 @ 19:31:08.376447]         gjagent.exe
+[02/25/22 @ 19:31:08.426458]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+[02/25/22 @ 19:31:08.427458]             C:\Users\Bodell\AppData\Local\Gaijin\Program Files (x86)\NetAgent\.gjupdater_log\2022_02_25_19_24_22_31544.txt
+[02/25/22 @ 19:31:08.428459]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:08.429459]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+[02/25/22 @ 19:31:08.440461]         Win32Bridge.Server.exe
+[02/25/22 @ 19:31:08.481470]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:08.493473]         svchost.exe
+[02/25/22 @ 19:31:08.501476]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:08.516478]         atom.exe
+[02/25/22 @ 19:31:08.611500]             C:\Users\Bodell\AppData\Roaming\Atom\GPUCache\data_3
+[02/25/22 @ 19:31:08.612500]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 19:31:08.613501]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\000041.ldb
+[02/25/22 @ 19:31:08.614501]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\LOG
+[02/25/22 @ 19:31:08.615501]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 19:31:08.616501]             C:\Users\Bodell\AppData\Roaming\Atom\GPUCache\data_1
+[02/25/22 @ 19:31:08.617502]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\LOCK
+[02/25/22 @ 19:31:08.617502]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources.pak
+[02/25/22 @ 19:31:08.619502]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\000047.ldb
+[02/25/22 @ 19:31:08.620502]             C:\Users\Bodell\AppData\Roaming\Atom\GPUCache\data_0
+[02/25/22 @ 19:31:08.621503]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\000005.ldb
+[02/25/22 @ 19:31:08.622503]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources\app.asar
+[02/25/22 @ 19:31:08.623503]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:08.624503]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\000046.log
+[02/25/22 @ 19:31:08.625503]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\MANIFEST-000001
+[02/25/22 @ 19:31:08.630504]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\MANIFEST-000001
+[02/25/22 @ 19:31:08.631505]             C:\Users\Bodell\AppData\Roaming\Atom\Dictionaries\en-US-9-0.bdic
+[02/25/22 @ 19:31:08.632505]             C:\Users\Bodell\AppData\Roaming\Atom\databases\Databases.db
+[02/25/22 @ 19:31:08.633505]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\LOG
+[02/25/22 @ 19:31:08.633505]             C:\Users\Bodell\AppData\Roaming\Atom\QuotaManager
+[02/25/22 @ 19:31:08.634506]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\LOCK
+[02/25/22 @ 19:31:08.635506]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\000044.ldb
+[02/25/22 @ 19:31:08.636506]             C:\Users\Bodell\AppData\Roaming\Atom\QuotaManager-journal
+[02/25/22 @ 19:31:08.637506]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:08.638506]             C:\Users\Bodell\AppData\Roaming\Atom\GPUCache\index
+[02/25/22 @ 19:31:08.639506]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\icudtl.dat
+[02/25/22 @ 19:31:08.640507]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_200_percent.pak
+[02/25/22 @ 19:31:08.641508]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\002234.log
+[02/25/22 @ 19:31:08.644507]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\002238.ldb
+[02/25/22 @ 19:31:08.645508]             C:\Users\Bodell\AppData\Roaming\Atom\GPUCache\data_2
+[02/25/22 @ 19:31:08.656510]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\v8_context_snapshot.bin
+[02/25/22 @ 19:31:08.657510]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\locales\en-US.pak
+[02/25/22 @ 19:31:08.666512]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_100_percent.pak
+[02/25/22 @ 19:31:08.687580]         fontdrvhost.exe
+[02/25/22 @ 19:31:08.692581]         Access to process fontdrvhost.exe is denied.
+[02/25/22 @ 19:31:08.696581]         RuntimeBroker.exe
+[02/25/22 @ 19:31:08.764597]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 19:31:08.765599]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 19:31:08.766598]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:08.767599]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 19:31:08.768598]             C:\Windows\System32\en-US\mpr.dll.mui
+[02/25/22 @ 19:31:08.777601]         Discord.exe
+[02/25/22 @ 19:31:08.913631]             C:\Windows\Fonts\YuGothL.ttc
+[02/25/22 @ 19:31:08.914631]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_200_percent.pak
+[02/25/22 @ 19:31:08.915632]             C:\Windows\Fonts\cour.ttf
+[02/25/22 @ 19:31:08.915632]             C:\Windows\Fonts\courbi.ttf
+[02/25/22 @ 19:31:08.916632]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:08.917632]             C:\Windows\Fonts\LTYPEBO.TTF
+[02/25/22 @ 19:31:08.918632]             C:\Windows\System32\en-US\MFC42.dll.mui
+[02/25/22 @ 19:31:08.919633]             C:\Windows\Fonts\LTYPEO.TTF
+[02/25/22 @ 19:31:08.920633]             C:\Windows\Fonts\tahomabd.ttf
+[02/25/22 @ 19:31:08.920633]             C:\Windows\Fonts\cambria.ttc
+[02/25/22 @ 19:31:08.921633]             C:\Windows\Fonts\l_10646.ttf
+[02/25/22 @ 19:31:08.922633]             C:\Windows\Fonts\times.ttf
+[02/25/22 @ 19:31:08.923633]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\resources.pak
+[02/25/22 @ 19:31:08.923633]             C:\Windows\Fonts\ARIALUNI.TTF
+[02/25/22 @ 19:31:08.924633]             C:\Windows\Fonts\ARIALN.TTF
+[02/25/22 @ 19:31:08.925634]             C:\Windows\Fonts\couri.ttf
+[02/25/22 @ 19:31:08.926634]             C:\Windows\Fonts\LTYPE.TTF
+[02/25/22 @ 19:31:08.926634]             C:\Windows\Fonts\msyhl.ttc
+[02/25/22 @ 19:31:08.927634]             C:\Windows\Fonts\consolab.ttf
+[02/25/22 @ 19:31:08.928635]             C:\Windows\Fonts\courbd.ttf
+[02/25/22 @ 19:31:08.929635]             C:\Windows\Fonts\seguiemj.ttf
+[02/25/22 @ 19:31:08.936636]             C:\Windows\Fonts\consolai.ttf
+[02/25/22 @ 19:31:08.937637]             C:\Windows\Fonts\ariblk.ttf
+[02/25/22 @ 19:31:08.938637]             C:\Windows\Fonts\YuGothB.ttc
+[02/25/22 @ 19:31:08.938637]             C:\Windows\Fonts\arial.ttf
+[02/25/22 @ 19:31:08.939637]             C:\Windows\Fonts\ARIALNI.TTF
+[02/25/22 @ 19:31:08.940638]             C:\Windows\Fonts\msyh.ttc
+[02/25/22 @ 19:31:08.941638]             C:\Windows\Fonts\YuGothR.ttc
+[02/25/22 @ 19:31:08.942638]             C:\Windows\Fonts\arialbi.ttf
+[02/25/22 @ 19:31:08.942638]             C:\Windows\Fonts\palab.ttf
+[02/25/22 @ 19:31:08.943638]             C:\Windows\Fonts\ariali.ttf
+[02/25/22 @ 19:31:08.944638]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\v8_context_snapshot.bin
+[02/25/22 @ 19:31:08.945639]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:08.951640]             C:\Windows\Fonts\ARIALNBI.TTF
+[02/25/22 @ 19:31:08.952640]             C:\Windows\Fonts\YuGothM.ttc
+[02/25/22 @ 19:31:08.953640]             C:\Windows\Fonts\palabi.ttf
+[02/25/22 @ 19:31:08.954641]             C:\Windows\Fonts\LTYPEB.TTF
+[02/25/22 @ 19:31:08.955641]             C:\Windows\Fonts\msyhbd.ttc
+[02/25/22 @ 19:31:08.956641]             C:\Windows\Fonts\timesi.ttf
+[02/25/22 @ 19:31:08.957643]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:08.958642]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\locales\en-US.pak
+[02/25/22 @ 19:31:08.959642]             C:\Windows\Fonts\micross.ttf
+[02/25/22 @ 19:31:08.960642]             C:\Windows\System32\en-US\MMDevAPI.dll.mui
+[02/25/22 @ 19:31:08.961643]             C:\Windows\Fonts\arialbd.ttf
+[02/25/22 @ 19:31:08.966644]             C:\Windows\Fonts\palai.ttf
+[02/25/22 @ 19:31:08.967644]             C:\Windows\Fonts\timesbd.ttf
+[02/25/22 @ 19:31:08.968644]             C:\Windows\Fonts\pala.ttf
+[02/25/22 @ 19:31:08.969644]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\modules\discord_desktop_core-1\discord_desktop_core\core.asar
+[02/25/22 @ 19:31:08.970644]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:08.971645]             C:\Windows\Fonts\lucon.ttf
+[02/25/22 @ 19:31:08.971645]             C:\Windows\Fonts\ARIALNB.TTF
+[02/25/22 @ 19:31:08.972645]             C:\Windows\Fonts\consolaz.ttf
+[02/25/22 @ 19:31:08.973645]             C:\Windows\Fonts\msgothic.ttc
+[02/25/22 @ 19:31:08.974645]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_100_percent.pak
+[02/25/22 @ 19:31:08.975647]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\icudtl.dat
+[02/25/22 @ 19:31:08.976646]             C:\Windows\Fonts\tahoma.ttf
+[02/25/22 @ 19:31:08.980646]             C:\Users\Bodell\AppData\Local\Temp\83cb4a15-af87-4058-bd14-c034265fc084.tmp
+[02/25/22 @ 19:31:08.981647]             C:\Windows\Fonts\timesbi.ttf
+[02/25/22 @ 19:31:08.982647]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\modules\discord_dispatch-1\discord_dispatch\dispatch.log
+[02/25/22 @ 19:31:08.983647]             C:\Windows\Fonts\simsun.ttc
+[02/25/22 @ 19:31:08.983647]             C:\Windows\Fonts\consola.ttf
+[02/25/22 @ 19:31:08.984647]             C:\Windows\Fonts\seguisym.ttf
+[02/25/22 @ 19:31:08.996650]         RuntimeBroker.exe
+[02/25/22 @ 19:31:09.056664]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 19:31:09.057664]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:09.069667]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:09.070667]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 19:31:09.070667]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 19:31:09.071667]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 19:31:09.090671]         Discord.exe
+[02/25/22 @ 19:31:09.182693]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\icudtl.dat
+[02/25/22 @ 19:31:09.183692]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:09.184693]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 19:31:09.207698]         jusched.exe
+[02/25/22 @ 19:31:09.252708]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 19:31:09.253708]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 19:31:09.271712]         csrss.exe
+[02/25/22 @ 19:31:09.276713]         Access to process csrss.exe is denied.
+[02/25/22 @ 19:31:09.298718]         svchost.exe
+[02/25/22 @ 19:31:09.306721]         Access to process svchost.exe is denied.
+[02/25/22 @ 19:31:09.307720]     Search complete.
+[02/25/22 @ 19:31:09.308721]  
+[02/25/22 @ 19:31:09.309721]  
+[02/25/22 @ 19:31:09.310721]  
+[02/25/22 @ 19:31:09.311721]     Checking used system files ...
+[02/25/22 @ 19:31:09.318723]         SYSTEM FILE: C:\\Windows\\System32\\en-US\\KernelBase.dll.mui
+[02/25/22 @ 19:31:09.319723]         SYSTEM FILE: C:\\Windows\\System32\\en-US\\cmd.exe.mui
+[02/25/22 @ 19:31:09.320723]         SYSTEM FILE: C:\\Windows\\System32\\en-US\\KernelBase.dll.mui
+[02/25/22 @ 19:31:09.321724]         SYSTEM FILE: C:\\Windows\\System32\\en-US\\kernel32.dll.mui
+[02/25/22 @ 19:31:09.322724] [38;2;0;255;0m[40mDIAGNOSTIC COMPLETE(B[m
+[02/25/22 @ 19:31:09.323725] [38;2;0;255;0m[40m    No non-system files detected.(B[m
