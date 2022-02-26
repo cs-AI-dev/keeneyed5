@@ -8207,3 +8207,1537 @@
 [02/25/22 @ 19:31:09.321724]         SYSTEM FILE: C:\\Windows\\System32\\en-US\\kernel32.dll.mui
 [02/25/22 @ 19:31:09.322724] [38;2;0;255;0m[40mDIAGNOSTIC COMPLETE(B[m
 [02/25/22 @ 19:31:09.323725] [38;2;0;255;0m[40m    No non-system files detected.(B[m
+[02/25/22 @ 19:40:16.153007] [USER] / exit
+[02/25/22 @ 20:13:12.244793] Keeneyed-5 artificial general intelligence system loaded.
+[02/25/22 @ 20:13:12.245795] Enter any command to begin.
+[02/25/22 @ 20:13:16.343930] [USER] / run
+[02/25/22 @ 20:13:19.402583] Keeneyed-5 artificial general intelligence system loaded.
+[02/25/22 @ 20:13:19.403584] Enter any command to begin.
+[02/25/22 @ 20:13:27.044653] [USER] / run diagnostic
+[02/25/22 @ 20:13:30.899523] Keeneyed-5 artificial general intelligence system loaded.
+[02/25/22 @ 20:13:30.900524] Enter any command to begin.
+[02/25/22 @ 20:13:40.118656] [USER] / run diagnostic 1 1
+[02/25/22 @ 20:13:40.119647] Running type-1 diagnostic.
+[02/25/22 @ 20:13:40.120647]     Searching open processes for open files.
+[02/25/22 @ 20:13:40.137660]         System Idle Process
+[02/25/22 @ 20:13:40.155667]         System
+[02/25/22 @ 20:13:40.169670]         Registry
+[02/25/22 @ 20:13:40.174680]         Access to process Registry is denied.
+[02/25/22 @ 20:13:40.199678]         fontdrvhost.exe
+[02/25/22 @ 20:13:40.204679]         Access to process fontdrvhost.exe is denied.
+[02/25/22 @ 20:13:40.221682]         smss.exe
+[02/25/22 @ 20:13:40.237686]         Access to process smss.exe is denied.
+[02/25/22 @ 20:13:40.247688]         svchost.exe
+[02/25/22 @ 20:13:40.253690]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.263692]         csrss.exe
+[02/25/22 @ 20:13:40.268693]         Access to process csrss.exe is denied.
+[02/25/22 @ 20:13:40.286596]         svchost.exe
+[02/25/22 @ 20:13:40.310601]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.329606]         wininit.exe
+[02/25/22 @ 20:13:40.335607]         Access to process wininit.exe is denied.
+[02/25/22 @ 20:13:40.347610]         services.exe
+[02/25/22 @ 20:13:40.357611]         Access to process services.exe is denied.
+[02/25/22 @ 20:13:40.366614]         lsass.exe
+[02/25/22 @ 20:13:40.372615]         Access to process lsass.exe is denied.
+[02/25/22 @ 20:13:40.386619]         svchost.exe
+[02/25/22 @ 20:13:40.391619]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.404622]         svchost.exe
+[02/25/22 @ 20:13:40.418626]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.424627]         YourPhone.exe
+[02/25/22 @ 20:13:40.491642]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:40.492642]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:40.493643]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhone.FullTrustServer.winmd
+[02/25/22 @ 20:13:40.494643]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:40.495643]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:40.496644]             C:\Windows\System32\en-US\combase.dll.mui
+[02/25/22 @ 20:13:40.497644]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:40.498643]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:40.515648]         SecurityHealthService.exe
+[02/25/22 @ 20:13:40.533652]         Access to process SecurityHealthService.exe is denied.
+[02/25/22 @ 20:13:40.551656]         svchost.exe
+[02/25/22 @ 20:13:40.557657]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.568660]         svchost.exe
+[02/25/22 @ 20:13:40.573661]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.583663]         svchost.exe
+[02/25/22 @ 20:13:40.588664]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.598667]         svchost.exe
+[02/25/22 @ 20:13:40.604668]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.613670]         svchost.exe
+[02/25/22 @ 20:13:40.619671]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.640676]         svchost.exe
+[02/25/22 @ 20:13:40.646677]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.661681]         svchost.exe
+[02/25/22 @ 20:13:40.667684]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.677685]         atiesrxx.exe
+[02/25/22 @ 20:13:40.682685]         Access to process atiesrxx.exe is denied.
+[02/25/22 @ 20:13:40.688687]         SecurityHealthSystray.exe
+[02/25/22 @ 20:13:40.727696]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:40.728696]             C:\Windows\System32\en-US\securityhealthsso.dll.mui
+[02/25/22 @ 20:13:40.752701]         svchost.exe
+[02/25/22 @ 20:13:40.758703]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.772705]         svchost.exe
+[02/25/22 @ 20:13:40.778707]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.789710]         svchost.exe
+[02/25/22 @ 20:13:40.794711]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.800712]         RuntimeBroker.exe
+[02/25/22 @ 20:13:40.851725]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:40.852725]             C:\Windows\System32\en-US\mpr.dll.mui
+[02/25/22 @ 20:13:40.853726]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 20:13:40.854726]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:40.872728]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:40.873729]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:40.894734]         svchost.exe
+[02/25/22 @ 20:13:40.900734]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.915738]         svchost.exe
+[02/25/22 @ 20:13:40.921739]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.938182]         svchost.exe
+[02/25/22 @ 20:13:40.944182]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.953185]         svchost.exe
+[02/25/22 @ 20:13:40.964187]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:40.992193]         svchost.exe
+[02/25/22 @ 20:13:40.998194]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.012198]         svchost.exe
+[02/25/22 @ 20:13:41.017199]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.028202]         gamingservices.exe
+[02/25/22 @ 20:13:41.033202]         Access to process gamingservices.exe is denied.
+[02/25/22 @ 20:13:41.045205]         svchost.exe
+[02/25/22 @ 20:13:41.050206]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.061209]         MemCompression
+[02/25/22 @ 20:13:41.067210]         Access to process MemCompression is denied.
+[02/25/22 @ 20:13:41.084214]         svchost.exe
+[02/25/22 @ 20:13:41.095217]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.111220]         svchost.exe
+[02/25/22 @ 20:13:41.122223]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.132225]         svchost.exe
+[02/25/22 @ 20:13:41.138227]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.143228]         Discord.exe
+[02/25/22 @ 20:13:41.195240]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_100_percent.pak
+[02/25/22 @ 20:13:41.196239]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\resources.pak
+[02/25/22 @ 20:13:41.197240]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\v8_context_snapshot.bin
+[02/25/22 @ 20:13:41.198241]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\locales\en-US.pak
+[02/25/22 @ 20:13:41.199241]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_200_percent.pak
+[02/25/22 @ 20:13:41.200240]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\icudtl.dat
+[02/25/22 @ 20:13:41.201240]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:41.202241]             C:\Windows\System32\en-US\MMDevAPI.dll.mui
+[02/25/22 @ 20:13:41.202241]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:41.226246]         SearchIndexer.exe
+[02/25/22 @ 20:13:41.234249]         Access to process SearchIndexer.exe is denied.
+[02/25/22 @ 20:13:41.244253]         svchost.exe
+[02/25/22 @ 20:13:41.250254]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.259256]         svchost.exe
+[02/25/22 @ 20:13:41.266352]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.275354]         svchost.exe
+[02/25/22 @ 20:13:41.281356]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.291358]         svchost.exe
+[02/25/22 @ 20:13:41.299360]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.312364]         ApplicationFrameHost.exe
+[02/25/22 @ 20:13:41.397382]             C:\Windows\System32\WinMetadata\Windows.Foundation.winmd
+[02/25/22 @ 20:13:41.398382]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:41.399383]             C:\Windows\System32\en-US\ApplicationFrame.dll.mui
+[02/25/22 @ 20:13:41.400383]             C:\Windows\System32\WinMetadata\Windows.UI.winmd
+[02/25/22 @ 20:13:41.401383]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:41.401383]             C:\Windows\System32\en-US\combase.dll.mui
+[02/25/22 @ 20:13:41.402383]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:41.440391]         taskhostw.exe
+[02/25/22 @ 20:13:41.491403]             C:\Windows\System32\en-US\taskhostw.exe.mui
+[02/25/22 @ 20:13:41.492404]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\WebCache\V01tmp.log
+[02/25/22 @ 20:13:41.493404]             C:\Windows\System32\en-US\winmm.dll.mui
+[02/25/22 @ 20:13:41.494404]             C:\Windows\System32\en-US\ESENT.dll.mui
+[02/25/22 @ 20:13:41.495404]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.jfm
+[02/25/22 @ 20:13:41.495404]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat
+[02/25/22 @ 20:13:41.496404]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:41.497405]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\WebCache\V01.log
+[02/25/22 @ 20:13:41.498405]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\WebCacheLock.dat
+[02/25/22 @ 20:13:41.499405]             C:\Windows\System32\en-US\MsCtfMonitor.dll.mui
+[02/25/22 @ 20:13:41.513408]         svchost.exe
+[02/25/22 @ 20:13:41.519411]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.541414]         spoolsv.exe
+[02/25/22 @ 20:13:41.551417]         Access to process spoolsv.exe is denied.
+[02/25/22 @ 20:13:41.561419]         svchost.exe
+[02/25/22 @ 20:13:41.567420]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.589425]         svchost.exe
+[02/25/22 @ 20:13:41.594427]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.603428]         FAHClient.exe
+[02/25/22 @ 20:13:41.657441]             C:\Users\Bodell\AppData\Roaming\FAHClient\log.txt
+[02/25/22 @ 20:13:41.658441]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:41.659441]             C:\Windows\System32\en-US\kernel32.dll.mui
+[02/25/22 @ 20:13:41.660441]             C:\Users\Bodell\AppData\Roaming\FAHClient\work\client.db
+[02/25/22 @ 20:13:41.674445]         dasHost.exe
+[02/25/22 @ 20:13:41.683447]         Access to process dasHost.exe is denied.
+[02/25/22 @ 20:13:41.705455]         svchost.exe
+[02/25/22 @ 20:13:41.710456]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.720459]         svchost.exe
+[02/25/22 @ 20:13:41.729461]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.738463]         svchost.exe
+[02/25/22 @ 20:13:41.758468]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.777471]         svchost.exe
+[02/25/22 @ 20:13:41.783473]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.795476]         svchost.exe
+[02/25/22 @ 20:13:41.800477]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.811479]         svchost.exe
+[02/25/22 @ 20:13:41.817481]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.828483]         svchost.exe
+[02/25/22 @ 20:13:41.833484]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.844487]         svchost.exe
+[02/25/22 @ 20:13:41.850488]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.877494]         svchost.exe
+[02/25/22 @ 20:13:41.887496]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.897499]         svchost.exe
+[02/25/22 @ 20:13:41.904500]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.914503]         svchost.exe
+[02/25/22 @ 20:13:41.921504]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.935508]         svchost.exe
+[02/25/22 @ 20:13:41.940508]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:41.952511]         mDNSResponder.exe
+[02/25/22 @ 20:13:41.957512]         Access to process mDNSResponder.exe is denied.
+[02/25/22 @ 20:13:41.968515]         officeclicktorun.exe
+[02/25/22 @ 20:13:41.984519]         Access to process officeclicktorun.exe is denied.
+[02/25/22 @ 20:13:42.002523]         svchost.exe
+[02/25/22 @ 20:13:42.007524]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.019526]         RtkAudUService64.exe
+[02/25/22 @ 20:13:42.024528]         Access to process RtkAudUService64.exe is denied.
+[02/25/22 @ 20:13:42.035530]         AppleMobileDeviceService.exe
+[02/25/22 @ 20:13:42.040531]         Access to process AppleMobileDeviceService.exe is denied.
+[02/25/22 @ 20:13:42.051534]         RaRegistry64.exe
+[02/25/22 @ 20:13:42.056535]         Access to process RaRegistry64.exe is denied.
+[02/25/22 @ 20:13:42.066537]         RaRegistry.exe
+[02/25/22 @ 20:13:42.071538]         Access to process RaRegistry.exe is denied.
+[02/25/22 @ 20:13:42.092543]         MsMpEng.exe
+[02/25/22 @ 20:13:42.110547]         Access to process MsMpEng.exe is denied.
+[02/25/22 @ 20:13:42.121550]         svchost.exe
+[02/25/22 @ 20:13:42.127551]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.136553]         SMSvcHost.exe
+[02/25/22 @ 20:13:42.142554]         Access to process SMSvcHost.exe is denied.
+[02/25/22 @ 20:13:42.151556]         FitbitConnectService.exe
+[02/25/22 @ 20:13:42.157558]         Access to process FitbitConnectService.exe is denied.
+[02/25/22 @ 20:13:42.166560]         mqsvc.exe
+[02/25/22 @ 20:13:42.172561]         Access to process mqsvc.exe is denied.
+[02/25/22 @ 20:13:42.181563]         svchost.exe
+[02/25/22 @ 20:13:42.188565]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.204568]         svchost.exe
+[02/25/22 @ 20:13:42.210570]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.224573]         svchost.exe
+[02/25/22 @ 20:13:42.233575]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.238576]         conhost.exe
+[02/25/22 @ 20:13:42.285587]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 20:13:42.286587]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:42.286587]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:42.287588]             C:\Windows\System32\en-US\Conhost.exe.mui
+[02/25/22 @ 20:13:42.288588]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:42.312593]         SMSvcHost.exe
+[02/25/22 @ 20:13:42.328599]         Access to process SMSvcHost.exe is denied.
+[02/25/22 @ 20:13:42.353602]         svchost.exe
+[02/25/22 @ 20:13:42.358604]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.366606]         Discord.exe
+[02/25/22 @ 20:13:42.411616]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:42.412615]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:42.441623]         SgrmBroker.exe
+[02/25/22 @ 20:13:42.446623]         Access to process SgrmBroker.exe is denied.
+[02/25/22 @ 20:13:42.461627]         WmiPrvSE.exe
+[02/25/22 @ 20:13:42.467628]         Access to process WmiPrvSE.exe is denied.
+[02/25/22 @ 20:13:42.488236]         svchost.exe
+[02/25/22 @ 20:13:42.494237]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.508240]         svchost.exe
+[02/25/22 @ 20:13:42.513242]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.525244]         svchost.exe
+[02/25/22 @ 20:13:42.584258]             C:\Windows\System32\en-US\svchost.exe.mui
+[02/25/22 @ 20:13:42.585258]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:42.586259]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:42.587258]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:42.604261]         svchost.exe
+[02/25/22 @ 20:13:42.609263]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.621265]         svchost.exe
+[02/25/22 @ 20:13:42.626267]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.647272]         MoUsoCoreWorker.exe
+[02/25/22 @ 20:13:42.656273]         Access to process MoUsoCoreWorker.exe is denied.
+[02/25/22 @ 20:13:42.667276]         StartMenuExperienceHost.exe
+[02/25/22 @ 20:13:42.740293]             C:\Windows\System32\en-US\Windows.Globalization.dll.mui
+[02/25/22 @ 20:13:42.741293]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:42.742293]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_4_PNGEncoded_Data.bin
+[02/25/22 @ 20:13:42.743294]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_4_PNGEncoded_Header.bin
+[02/25/22 @ 20:13:42.744295]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:42.745294]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 20:13:42.746295]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:42.747295]             C:\Windows\System32\en-US\windows.ui.xaml.dll.mui
+[02/25/22 @ 20:13:42.775301]         svchost.exe
+[02/25/22 @ 20:13:42.781302]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.787303]         Video.UI.exe
+[02/25/22 @ 20:13:42.849318]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\EntClientDb.edb
+[02/25/22 @ 20:13:42.850318]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:42.851319]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\EntClientDb.jfm
+[02/25/22 @ 20:13:42.852318]             C:\Windows\System32\WinMetadata\Windows.System.winmd
+[02/25/22 @ 20:13:42.852318]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:42.853319]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:42.854319]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\tmp.edb
+[02/25/22 @ 20:13:42.855319]             C:\Windows\System32\en-US\ESENT.dll.mui
+[02/25/22 @ 20:13:42.856320]             C:\Windows\System32\WinMetadata\Windows.UI.Xaml.winmd
+[02/25/22 @ 20:13:42.857320]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\edb.log
+[02/25/22 @ 20:13:42.858319]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:42.859320]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:42.887326]         RtkAudUService64.exe
+[02/25/22 @ 20:13:42.941338]         svchost.exe
+[02/25/22 @ 20:13:42.946339]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.956342]         svchost.exe
+[02/25/22 @ 20:13:42.961343]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:42.985348]         svchost.exe
+[02/25/22 @ 20:13:43.002352]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.012355]         svchost.exe
+[02/25/22 @ 20:13:43.018356]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.028358]         NisSrv.exe
+[02/25/22 @ 20:13:43.033360]         Access to process NisSrv.exe is denied.
+[02/25/22 @ 20:13:43.043362]         svchost.exe
+[02/25/22 @ 20:13:43.048363]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.058365]         svchost.exe
+[02/25/22 @ 20:13:43.064366]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.073368]         svchost.exe
+[02/25/22 @ 20:13:43.081373]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.103376]         svchost.exe
+[02/25/22 @ 20:13:43.113377]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.119379]         svchost.exe
+[02/25/22 @ 20:13:43.191396]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db-shm
+[02/25/22 @ 20:13:43.192396]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:43.193397]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:43.205398]             C:\Windows\System32\en-US\QuietHours.dll.mui
+[02/25/22 @ 20:13:43.214402]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db-wal
+[02/25/22 @ 20:13:43.215401]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Notifications\WPNPRMRY.tmp
+[02/25/22 @ 20:13:43.216403]             C:\Windows\System32\en-US\svchost.exe.mui
+[02/25/22 @ 20:13:43.216403]             C:\Windows\System32\en-US\NotificationController.dll.mui
+[02/25/22 @ 20:13:43.217401]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:43.218402]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db
+[02/25/22 @ 20:13:43.220403]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:43.221402]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 20:13:43.221402]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:43.240406]         svchost.exe
+[02/25/22 @ 20:13:43.245407]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.251409]         YourPhoneServer.exe
+[02/25/22 @ 20:13:43.381438]             C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Net.Http.WebRequest\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.WebRequest.dll
+[02/25/22 @ 20:13:43.383440]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\YourPhoneAppProxy.Exp.dll
+[02/25/22 @ 20:13:43.384439]             C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll
+[02/25/22 @ 20:13:43.385439]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\YourPhone.Flyouts.dll
+[02/25/22 @ 20:13:43.385439]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Castle.Core.dll
+[02/25/22 @ 20:13:43.386440]             C:\Windows\assembly\pubpol231.dat
+[02/25/22 @ 20:13:43.387441]             C:\Windows\System32\WinMetadata\Windows.ApplicationModel.winmd
+[02/25/22 @ 20:13:43.388440]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\libnanoapimanaged.dll
+[02/25/22 @ 20:13:43.389440]             C:\Users\Bodell\AppData\Local\AMD\DxCache\3a00f0db154a5d69897cdaf2be243e0e734c99b921e94035.bin
+[02/25/22 @ 20:13:43.390441]             C:\Windows\System32\WinMetadata\Windows.Data.winmd
+[02/25/22 @ 20:13:43.391440]             C:\Windows\System32\WinMetadata\Windows.System.winmd
+[02/25/22 @ 20:13:43.391440]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\RuntimeConfiguration.winmd
+[02/25/22 @ 20:13:43.392441]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\YourPhone.YPP.dll
+[02/25/22 @ 20:13:43.393441]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Microsoft.Extensions.DependencyInjection.dll
+[02/25/22 @ 20:13:43.394442]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\YourPhoneAppProxy.Telemetry.dll
+[02/25/22 @ 20:13:43.395442]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Microsoft.Extensions.Logging.Abstractions.dll
+[02/25/22 @ 20:13:43.396441]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:43.397442]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Microsoft.Rest.ClientRuntime.dll
+[02/25/22 @ 20:13:43.403444]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\YourPhone.YPP.ServicesClient.dll
+[02/25/22 @ 20:13:43.404443]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\System.Threading.Tasks.Dataflow.dll
+[02/25/22 @ 20:13:43.405444]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\System.ValueTuple.dll
+[02/25/22 @ 20:13:43.406444]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:43.407445]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\DataStructures.dll
+[02/25/22 @ 20:13:43.407445]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\YourPhoneAppProxy.Message.dll
+[02/25/22 @ 20:13:43.408446]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\System.Threading.Channels.dll
+[02/25/22 @ 20:13:43.409445]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Microsoft.Extensions.Caching.Memory.dll
+[02/25/22 @ 20:13:43.410445]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Microsoft.Extensions.Options.dll
+[02/25/22 @ 20:13:43.411445]             C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll
+[02/25/22 @ 20:13:43.412445]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Newtonsoft.Json.dll
+[02/25/22 @ 20:13:43.413446]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhone.FullTrustServer.winmd
+[02/25/22 @ 20:13:43.413446]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Microsoft.Bcl.AsyncInterfaces.dll
+[02/25/22 @ 20:13:43.420447]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Microsoft.Windows.Apps.TraceLogging.dll
+[02/25/22 @ 20:13:43.421448]             C:\Windows\System32\en-US\netmsg.dll.mui
+[02/25/22 @ 20:13:43.422448]             C:\Windows\System32\en-US\combase.dll.mui
+[02/25/22 @ 20:13:43.423448]             C:\Windows\System32\WinMetadata\Windows.Networking.winmd
+[02/25/22 @ 20:13:43.424449]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Microsoft.Extensions.Primitives.dll
+[02/25/22 @ 20:13:43.425450]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\MessagePack.dll
+[02/25/22 @ 20:13:43.426450]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhone.ShoulderTap.Client.WinRT.winmd
+[02/25/22 @ 20:13:43.427450]             C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Runtime.InteropServices.WindowsRuntime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.InteropServices.WindowsRuntime.dll
+[02/25/22 @ 20:13:43.428450]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\System.Threading.Tasks.Extensions.dll
+[02/25/22 @ 20:13:43.429450]             C:\Windows\System32\WinMetadata\Windows.Foundation.winmd
+[02/25/22 @ 20:13:43.433458]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\System.Runtime.CompilerServices.Unsafe.dll
+[02/25/22 @ 20:13:43.434451]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\DotNetty.Transport.dll
+[02/25/22 @ 20:13:43.435451]             C:\Windows\System32\WinMetadata\Windows.Storage.winmd
+[02/25/22 @ 20:13:43.436451]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\YourPhoneAppProxy.Common.dll
+[02/25/22 @ 20:13:43.437451]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Microsoft.Extensions.Caching.Abstractions.dll
+[02/25/22 @ 20:13:43.438451]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Polly.dll
+[02/25/22 @ 20:13:43.439451]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+[02/25/22 @ 20:13:43.440452]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\DotNetty.Common.dll
+[02/25/22 @ 20:13:43.441452]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 20:13:43.442454]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\YourPhone.AppProxyConnection.dll
+[02/25/22 @ 20:13:43.443454]             C:\Windows\Microsoft.NET\assembly\GAC_MSIL\netstandard\v4.0_2.0.0.0__cc7b13ffcd2ddd51\netstandard.dll
+[02/25/22 @ 20:13:43.444454]             C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21121.256.0_x64__8wekyb3d8bbwe\YourPhoneServer\AutoMapper.dll
+[02/25/22 @ 20:13:43.459457]         MpCopyAccelerator.exe
+[02/25/22 @ 20:13:43.465457]         Access to process MpCopyAccelerator.exe is denied.
+[02/25/22 @ 20:13:43.475460]         gamingservicesnet.exe
+[02/25/22 @ 20:13:43.480461]         Access to process gamingservicesnet.exe is denied.
+[02/25/22 @ 20:13:43.486462]         ScanToPCActivationApp.exe
+[02/25/22 @ 20:13:43.565480]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 20:13:43.582484]         svchost.exe
+[02/25/22 @ 20:13:43.587485]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.606297]         svchost.exe
+[02/25/22 @ 20:13:43.612298]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.617299]         conhost.exe
+[02/25/22 @ 20:13:43.656309]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 20:13:43.657308]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:43.658308]             C:\Windows\System32\en-US\Conhost.exe.mui
+[02/25/22 @ 20:13:43.681314]         chrome.exe
+[02/25/22 @ 20:13:43.742328]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\resources.pak
+[02/25/22 @ 20:13:43.743328]             C:\Windows\Fonts\ARIALNI.TTF
+[02/25/22 @ 20:13:43.744328]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_100_percent.pak
+[02/25/22 @ 20:13:43.745329]             C:\Windows\Fonts\timesbi.ttf
+[02/25/22 @ 20:13:43.746328]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\hyphen-data\101.0.4910.0\hyph-en-us.hyb
+[02/25/22 @ 20:13:43.747330]             C:\Windows\Fonts\ARIALNB.TTF
+[02/25/22 @ 20:13:43.748330]             C:\Windows\Fonts\cambria.ttc
+[02/25/22 @ 20:13:43.748330]             C:\Windows\Fonts\ARIALNBI.TTF
+[02/25/22 @ 20:13:43.749330]             C:\Users\Bodell\AppData\Local\Temp\5a1a4e3e-fddc-421a-ad31-0ca48cf907a0.tmp
+[02/25/22 @ 20:13:43.751330]             C:\Windows\Fonts\arial.ttf
+[02/25/22 @ 20:13:43.751330]             C:\Windows\Fonts\arialbd.ttf
+[02/25/22 @ 20:13:43.753331]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\OptimizationGuidePredictionModels\OPTIMIZATION_TARGET_LANGUAGE_DETECTION_2202022222\model.tflite
+[02/25/22 @ 20:13:43.754331]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\v8_context_snapshot.bin
+[02/25/22 @ 20:13:43.755330]             C:\Windows\Fonts\times.ttf
+[02/25/22 @ 20:13:43.756332]             C:\Windows\Fonts\timesbd.ttf
+[02/25/22 @ 20:13:43.757332]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_200_percent.pak
+[02/25/22 @ 20:13:43.758332]             C:\Windows\Fonts\ARIALN.TTF
+[02/25/22 @ 20:13:43.759332]             C:\Windows\Fonts\ariali.ttf
+[02/25/22 @ 20:13:43.760332]             C:\Windows\Fonts\ariblk.ttf
+[02/25/22 @ 20:13:43.761332]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\Locales\en-US.pak
+[02/25/22 @ 20:13:43.761332]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\34\9.33.0\Ruleset Data
+[02/25/22 @ 20:13:43.762332]             C:\Windows\Fonts\seguiemj.ttf
+[02/25/22 @ 20:13:43.770335]             C:\Windows\Fonts\arialbi.ttf
+[02/25/22 @ 20:13:43.771335]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:43.772335]             C:\Windows\Fonts\timesi.ttf
+[02/25/22 @ 20:13:43.792339]         svchost.exe
+[02/25/22 @ 20:13:43.800420]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.809421]         svchost.exe
+[02/25/22 @ 20:13:43.816690]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:43.822691]         HPNetworkCommunicator.exe
+[02/25/22 @ 20:13:43.882704]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:43.897708]         Microsoft.Photos.exe
+[02/25/22 @ 20:13:43.971725]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-shm
+[02/25/22 @ 20:13:43.972726]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:43.973725]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\PhotosAppTracing_startedInBGMode.etl
+[02/25/22 @ 20:13:43.974725]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite
+[02/25/22 @ 20:13:43.975726]             C:\Windows\System32\WinMetadata\Windows.Storage.winmd
+[02/25/22 @ 20:13:43.976726]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:43.977726]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:43.978728]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:43.979727]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:43.980727]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\LocalState\MediaDb.v1.sqlite-wal
+[02/25/22 @ 20:13:43.981728]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:44.008734]         svchost.exe
+[02/25/22 @ 20:13:44.014734]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:44.021736]         py.exe
+[02/25/22 @ 20:13:44.057745]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:44.121759]         atieclxx.exe
+[02/25/22 @ 20:13:44.126760]         Access to process atieclxx.exe is denied.
+[02/25/22 @ 20:13:44.137763]         svchost.exe
+[02/25/22 @ 20:13:44.143764]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:44.153766]         svchost.exe
+[02/25/22 @ 20:13:44.158767]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:44.164769]         chrome.exe
+[02/25/22 @ 20:13:44.254789]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:44.255790]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:44.256790]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:44.270793]         svchost.exe
+[02/25/22 @ 20:13:44.276794]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:44.281795]         AdobeARM.exe
+[02/25/22 @ 20:13:44.344809]             C:\Windows\SysWOW64\en-US\user32.dll.mui
+[02/25/22 @ 20:13:44.360813]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:44.361814]             C:\Users\Bodell\AppData\Local\Temp\AdobeARM.log
+[02/25/22 @ 20:13:44.362814]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:44.377817]         svchost.exe
+[02/25/22 @ 20:13:44.382818]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:44.390820]         chrome.exe
+[02/25/22 @ 20:13:44.450834]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\resources.pak
+[02/25/22 @ 20:13:44.451834]             C:\Windows\Fonts\ARIALNI.TTF
+[02/25/22 @ 20:13:44.452834]             C:\Windows\Fonts\seguibl.ttf
+[02/25/22 @ 20:13:44.453834]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_100_percent.pak
+[02/25/22 @ 20:13:44.453834]             C:\Windows\Fonts\timesbi.ttf
+[02/25/22 @ 20:13:44.454834]             C:\Windows\Fonts\ARIALNB.TTF
+[02/25/22 @ 20:13:44.455835]             C:\Windows\Fonts\segoeuil.ttf
+[02/25/22 @ 20:13:44.456835]             C:\Windows\Fonts\seguisbi.ttf
+[02/25/22 @ 20:13:44.457835]             C:\Windows\Fonts\ARIALNBI.TTF
+[02/25/22 @ 20:13:44.458835]             C:\Windows\Fonts\arial.ttf
+[02/25/22 @ 20:13:44.459836]             C:\Windows\Fonts\seguisli.ttf
+[02/25/22 @ 20:13:44.460837]             C:\Windows\Fonts\arialbd.ttf
+[02/25/22 @ 20:13:44.461837]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\OptimizationGuidePredictionModels\OPTIMIZATION_TARGET_LANGUAGE_DETECTION_2202022222\model.tflite
+[02/25/22 @ 20:13:44.462836]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 20:13:44.462836]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\v8_context_snapshot.bin
+[02/25/22 @ 20:13:44.463837]             C:\Windows\Fonts\times.ttf
+[02/25/22 @ 20:13:44.471839]             C:\Windows\Fonts\timesbd.ttf
+[02/25/22 @ 20:13:44.471839]             C:\Windows\Fonts\segoeuisl.ttf
+[02/25/22 @ 20:13:44.472839]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_200_percent.pak
+[02/25/22 @ 20:13:44.473839]             C:\Windows\Fonts\ARIALN.TTF
+[02/25/22 @ 20:13:44.474840]             C:\Windows\Fonts\ariali.ttf
+[02/25/22 @ 20:13:44.475840]             C:\Windows\Fonts\segoeuii.ttf
+[02/25/22 @ 20:13:44.476840]             C:\Windows\Fonts\ariblk.ttf
+[02/25/22 @ 20:13:44.477840]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:44.478840]             C:\Users\Bodell\AppData\Local\Temp\a604d459-d459-42e7-b39d-6b29af12a214.tmp
+[02/25/22 @ 20:13:44.479840]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\Locales\en-US.pak
+[02/25/22 @ 20:13:44.479840]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\34\9.33.0\Ruleset Data
+[02/25/22 @ 20:13:44.487581]             C:\Windows\Fonts\seguisb.ttf
+[02/25/22 @ 20:13:44.488580]             C:\Windows\Fonts\arialbi.ttf
+[02/25/22 @ 20:13:44.489580]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:44.490580]             C:\Windows\Fonts\seguili.ttf
+[02/25/22 @ 20:13:44.491581]             C:\Windows\Fonts\timesi.ttf
+[02/25/22 @ 20:13:44.492581]             C:\Windows\Fonts\segoeuiz.ttf
+[02/25/22 @ 20:13:44.493582]             C:\Windows\Fonts\seguibli.ttf
+[02/25/22 @ 20:13:44.507584]         svchost.exe
+[02/25/22 @ 20:13:44.515587]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:44.521587]         GitHubDesktop.exe
+[02/25/22 @ 20:13:44.594605]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\icudtl.dat
+[02/25/22 @ 20:13:44.595604]             C:\Windows\Fonts\ARIALNI.TTF
+[02/25/22 @ 20:13:44.596605]             C:\Windows\Fonts\consolai.ttf
+[02/25/22 @ 20:13:44.597605]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\chrome_100_percent.pak
+[02/25/22 @ 20:13:44.598605]             C:\Windows\Fonts\seguibl.ttf
+[02/25/22 @ 20:13:44.598605]             C:\Windows\Fonts\courbi.ttf
+[02/25/22 @ 20:13:44.599606]             C:\Windows\Fonts\ARIALNB.TTF
+[02/25/22 @ 20:13:44.600606]             C:\Windows\Fonts\segoeuil.ttf
+[02/25/22 @ 20:13:44.601606]             C:\Windows\Fonts\seguisbi.ttf
+[02/25/22 @ 20:13:44.602606]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:44.603606]             C:\Windows\Fonts\ARIALNBI.TTF
+[02/25/22 @ 20:13:44.603606]             C:\Windows\Fonts\consolaz.ttf
+[02/25/22 @ 20:13:44.604607]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\chrome_200_percent.pak
+[02/25/22 @ 20:13:44.605607]             C:\Windows\Fonts\arial.ttf
+[02/25/22 @ 20:13:44.606607]             C:\Windows\Fonts\consola.ttf
+[02/25/22 @ 20:13:44.607607]             C:\Windows\Fonts\seguisli.ttf
+[02/25/22 @ 20:13:44.608607]             C:\Windows\Fonts\arialbd.ttf
+[02/25/22 @ 20:13:44.612608]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 20:13:44.613608]             C:\Windows\Fonts\segoeuisl.ttf
+[02/25/22 @ 20:13:44.614609]             C:\Windows\Fonts\courbd.ttf
+[02/25/22 @ 20:13:44.614609]             C:\Windows\Fonts\ARIALN.TTF
+[02/25/22 @ 20:13:44.615609]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\locales\en-US.pak
+[02/25/22 @ 20:13:44.616609]             C:\Windows\Fonts\ariali.ttf
+[02/25/22 @ 20:13:44.617610]             C:\Windows\Fonts\segoeuii.ttf
+[02/25/22 @ 20:13:44.618610]             C:\Windows\Fonts\cour.ttf
+[02/25/22 @ 20:13:44.619610]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\v8_context_snapshot.bin
+[02/25/22 @ 20:13:44.619610]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:44.620610]             C:\Windows\Fonts\ariblk.ttf
+[02/25/22 @ 20:13:44.640170]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\resources.pak
+[02/25/22 @ 20:13:44.641170]             C:\Users\Bodell\AppData\Local\Temp\c935ea4a-c0c0-4e0b-8f21-5e457e1438b7.tmp
+[02/25/22 @ 20:13:44.642170]             C:\Windows\Fonts\seguisb.ttf
+[02/25/22 @ 20:13:44.643171]             C:\Windows\Fonts\consolab.ttf
+[02/25/22 @ 20:13:44.644172]             C:\Windows\Fonts\couri.ttf
+[02/25/22 @ 20:13:44.645171]             C:\Windows\Fonts\arialbi.ttf
+[02/25/22 @ 20:13:44.646171]             C:\Windows\Fonts\seguili.ttf
+[02/25/22 @ 20:13:44.646171]             C:\Windows\Fonts\segoeuiz.ttf
+[02/25/22 @ 20:13:44.647171]             C:\Windows\Fonts\seguibli.ttf
+[02/25/22 @ 20:13:44.676179]         atom.exe
+[02/25/22 @ 20:13:44.796205]             C:\Users\Bodell\AppData\Roaming\Atom\Dictionaries\en-US-9-0.bdic
+[02/25/22 @ 20:13:44.796205]             C:\Windows\Fonts\ARIALNI.TTF
+[02/25/22 @ 20:13:44.797206]             C:\Windows\Fonts\consolai.ttf
+[02/25/22 @ 20:13:44.798206]             C:\Windows\Fonts\seguibl.ttf
+[02/25/22 @ 20:13:44.799206]             C:\Windows\Fonts\courbi.ttf
+[02/25/22 @ 20:13:44.800207]             C:\Windows\Fonts\malgunsl.ttf
+[02/25/22 @ 20:13:44.801207]             C:\Windows\Fonts\timesbi.ttf
+[02/25/22 @ 20:13:44.802207]             C:\Windows\Fonts\YuGothB.ttc
+[02/25/22 @ 20:13:44.802207]             C:\Windows\Fonts\malgunbd.ttf
+[02/25/22 @ 20:13:44.803207]             C:\Windows\Fonts\ARIALNB.TTF
+[02/25/22 @ 20:13:44.804207]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Fonts\FiraCode-Medium.ttf
+[02/25/22 @ 20:13:44.805207]             C:\Windows\Fonts\segoeuil.ttf
+[02/25/22 @ 20:13:44.806208]             E:\dragonscale-open-source\.git\objects\pack\pack-2f31d892c7e36c348b932bbdb382fb462c445fc2.pack
+[02/25/22 @ 20:13:44.807208]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:44.807208]             C:\Windows\Fonts\seguisbi.ttf
+[02/25/22 @ 20:13:44.808208]             C:\Windows\Fonts\ARIALNBI.TTF
+[02/25/22 @ 20:13:44.809208]             C:\Windows\Fonts\cambria.ttc
+[02/25/22 @ 20:13:44.810209]             C:\Windows\Fonts\malgun.ttf
+[02/25/22 @ 20:13:44.811209]             C:\Windows\Fonts\consolaz.ttf
+[02/25/22 @ 20:13:44.812209]             C:\Windows\Fonts\arial.ttf
+[02/25/22 @ 20:13:44.812209]             C:\Windows\Fonts\consola.ttf
+[02/25/22 @ 20:13:44.813209]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources\app.asar
+[02/25/22 @ 20:13:44.814210]             C:\Windows\Fonts\YuGothM.ttc
+[02/25/22 @ 20:13:44.815210]             C:\Windows\Fonts\seguisli.ttf
+[02/25/22 @ 20:13:44.822211]             C:\Windows\Fonts\arialbd.ttf
+[02/25/22 @ 20:13:44.823211]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\icudtl.dat
+[02/25/22 @ 20:13:44.823211]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:44.824212]             C:\Windows\Fonts\YuGothR.ttc
+[02/25/22 @ 20:13:44.825212]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 20:13:44.826212]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Fonts\FiraCode-SemiBold.ttf
+[02/25/22 @ 20:13:44.827212]             C:\Windows\Fonts\times.ttf
+[02/25/22 @ 20:13:44.828213]             C:\Windows\Fonts\timesbd.ttf
+[02/25/22 @ 20:13:44.828213]             C:\Windows\Fonts\simsun.ttc
+[02/25/22 @ 20:13:44.829213]             C:\Windows\Fonts\YuGothL.ttc
+[02/25/22 @ 20:13:44.830213]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_200_percent.pak
+[02/25/22 @ 20:13:44.831213]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources.pak
+[02/25/22 @ 20:13:44.836910]             C:\Windows\Fonts\segoeuisl.ttf
+[02/25/22 @ 20:13:44.837910]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:44.838911]             C:\Windows\Fonts\courbd.ttf
+[02/25/22 @ 20:13:44.838911]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Fonts\FiraCode-Regular.ttf
+[02/25/22 @ 20:13:44.839911]             C:\Windows\Fonts\ARIALN.TTF
+[02/25/22 @ 20:13:44.840911]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_100_percent.pak
+[02/25/22 @ 20:13:44.841911]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Fonts\FiraCode-Bold.ttf
+[02/25/22 @ 20:13:44.842912]             C:\Windows\Fonts\ariali.ttf
+[02/25/22 @ 20:13:44.843912]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Fonts\FiraCode-Light.ttf
+[02/25/22 @ 20:13:44.843912]             C:\Windows\Fonts\segoeuii.ttf
+[02/25/22 @ 20:13:44.844912]             C:\Windows\Fonts\cour.ttf
+[02/25/22 @ 20:13:44.845913]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:44.846913]             C:\Windows\Fonts\ariblk.ttf
+[02/25/22 @ 20:13:44.850914]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\v8_context_snapshot.bin
+[02/25/22 @ 20:13:44.851914]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\locales\en-US.pak
+[02/25/22 @ 20:13:44.852914]             C:\Windows\Fonts\seguisb.ttf
+[02/25/22 @ 20:13:44.853914]             C:\Windows\Fonts\seguiemj.ttf
+[02/25/22 @ 20:13:44.853914]             C:\Windows\Fonts\consolab.ttf
+[02/25/22 @ 20:13:44.854914]             C:\Windows\Fonts\couri.ttf
+[02/25/22 @ 20:13:44.855915]             C:\Windows\Fonts\arialbi.ttf
+[02/25/22 @ 20:13:44.856915]             C:\Windows\Fonts\seguili.ttf
+[02/25/22 @ 20:13:44.857915]             C:\Windows\Fonts\timesi.ttf
+[02/25/22 @ 20:13:44.858915]             C:\Windows\Fonts\segoeuiz.ttf
+[02/25/22 @ 20:13:44.858915]             C:\Windows\Fonts\seguibli.ttf
+[02/25/22 @ 20:13:44.881920]         LockApp.exe
+[02/25/22 @ 20:13:44.956937]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:44.957938]             C:\Windows\Fonts\segoeuisl.ttf
+[02/25/22 @ 20:13:44.958938]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:44.966940]             C:\Windows\System32\en-US\NetworkIcon.dll.mui
+[02/25/22 @ 20:13:44.967940]             C:\Windows\Fonts\segoeuil.ttf
+[02/25/22 @ 20:13:44.968940]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:44.969941]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:45.001948]         svchost.exe
+[02/25/22 @ 20:13:45.064963]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:45.065962]             C:\Windows\System32\en-US\svchost.exe.mui
+[02/25/22 @ 20:13:45.066963]             C:\Users\Bodell\AppData\Local\Comms\UnistoreDB\store.jfm
+[02/25/22 @ 20:13:45.066963]             C:\Windows\System32\en-US\ESENT.dll.mui
+[02/25/22 @ 20:13:45.067963]             C:\Users\Bodell\AppData\Local\Comms\UnistoreDB\USS.jtx
+[02/25/22 @ 20:13:45.068963]             C:\Users\Bodell\AppData\Local\Comms\UnistoreDB\tmp.edb
+[02/25/22 @ 20:13:45.069963]             C:\Users\Bodell\AppData\Local\Comms\UnistoreDB\store.vol
+[02/25/22 @ 20:13:45.082966]         winlogon.exe
+[02/25/22 @ 20:13:45.095970]         Access to process winlogon.exe is denied.
+[02/25/22 @ 20:13:45.109972]         RuntimeBroker.exe
+[02/25/22 @ 20:13:45.152982]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:45.162984]         Music.UI.exe
+[02/25/22 @ 20:13:45.227999]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:45.228999]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:45.229999]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\edb.log
+[02/25/22 @ 20:13:45.231000]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:45.232000]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\EntClientDb.jfm
+[02/25/22 @ 20:13:45.233000]             C:\Windows\System32\en-US\ESENT.dll.mui
+[02/25/22 @ 20:13:45.234000]             C:\Windows\System32\WinMetadata\Windows.UI.Xaml.winmd
+[02/25/22 @ 20:13:45.235000]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\EntClientDb.edb
+[02/25/22 @ 20:13:45.236001]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:45.237001]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:45.237001]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\850ec075d0dffa68\tmp.edb
+[02/25/22 @ 20:13:45.253005]         svchost.exe
+[02/25/22 @ 20:13:45.259006]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:45.270008]         atom.exe
+[02/25/22 @ 20:13:45.315018]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:45.345025]         RuntimeBroker.exe
+[02/25/22 @ 20:13:45.403039]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:45.404039]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:45.405040]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:45.406040]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:45.407040]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:45.417042]         python.exe
+[02/25/22 @ 20:13:45.477056]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:45.478056]             C:\Windows\System32\en-US\kernel32.dll.mui
+[02/25/22 @ 20:13:45.549072]         ctfmon.exe
+[02/25/22 @ 20:13:45.559075]         Access to process ctfmon.exe is denied.
+[02/25/22 @ 20:13:45.569076]         TextInputHost.exe
+[02/25/22 @ 20:13:45.638092]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:45.639093]             C:\Users\Bodell\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:45.640093]             C:\Users\Bodell\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:45.641093]             C:\Windows\System32\WinMetadata\Windows.UI.winmd
+[02/25/22 @ 20:13:45.641093]             C:\Users\Bodell\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:45.642093]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:45.681102]         WmiPrvSE.exe
+[02/25/22 @ 20:13:45.686103]         Access to process WmiPrvSE.exe is denied.
+[02/25/22 @ 20:13:45.692105]         RuntimeBroker.exe
+[02/25/22 @ 20:13:45.737115]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:45.747117]         rundll32.exe
+[02/25/22 @ 20:13:45.799128]             C:\Windows\System32\en-US\rundll32.exe.mui
+[02/25/22 @ 20:13:45.800129]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:45.810131]         SearchApp.exe
+[02/25/22 @ 20:13:45.925157]             C:\Windows\System32\WinMetadata\Windows.UI.winmd
+[02/25/22 @ 20:13:45.926158]             C:\Windows\SystemResources\Chakra.dll.mun
+[02/25/22 @ 20:13:45.927158]             C:\Windows\System32\WinMetadata\Windows.ApplicationModel.winmd
+[02/25/22 @ 20:13:45.928158]             C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Cortana.Search.winmd
+[02/25/22 @ 20:13:45.929159]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:45.929159]             C:\Windows\System32\WinMetadata\Windows.System.winmd
+[02/25/22 @ 20:13:45.930159]             C:\Windows\System32\en-US\dnsapi.dll.mui
+[02/25/22 @ 20:13:45.931159]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:45.932159]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:45.933159]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 20:13:45.945162]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:45.946163]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:45.947162]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:45.948163]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:45.949163]             C:\Windows\System32\WinMetadata\Windows.Foundation.winmd
+[02/25/22 @ 20:13:45.950163]             C:\Windows\System32\en-US\edgehtml.dll.mui
+[02/25/22 @ 20:13:45.957164]             C:\Windows\System32\WinMetadata\Windows.Security.winmd
+[02/25/22 @ 20:13:45.958165]             C:\Windows\System32\WinMetadata\Windows.Web.winmd
+[02/25/22 @ 20:13:45.959166]             C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Cortana.Internal.Search.winmd
+[02/25/22 @ 20:13:45.960165]             C:\Windows\System32\WinMetadata\Windows.Storage.winmd
+[02/25/22 @ 20:13:45.973441]         UserOOBEBroker.exe
+[02/25/22 @ 20:13:46.017451]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:46.027453]         chrome.exe
+[02/25/22 @ 20:13:46.103471]             C:\Windows\Fonts\seguisym.ttf
+[02/25/22 @ 20:13:46.104471]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\resources.pak
+[02/25/22 @ 20:13:46.105471]             C:\Users\Bodell\AppData\Local\Temp\95309038-ea52-4d82-87ad-0797a8de9660.tmp
+[02/25/22 @ 20:13:46.106471]             C:\Windows\Fonts\ARIALNI.TTF
+[02/25/22 @ 20:13:46.107472]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\OptimizationGuidePredictionModels\OPTIMIZATION_TARGET_LANGUAGE_DETECTION_2202232304\model.tflite
+[02/25/22 @ 20:13:46.108472]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_100_percent.pak
+[02/25/22 @ 20:13:46.109472]             C:\Windows\Fonts\timesbi.ttf
+[02/25/22 @ 20:13:46.110473]             C:\Windows\Fonts\ARIALNB.TTF
+[02/25/22 @ 20:13:46.111473]             C:\Windows\Fonts\cambria.ttc
+[02/25/22 @ 20:13:46.112473]             C:\Windows\Fonts\ARIALNBI.TTF
+[02/25/22 @ 20:13:46.113473]             C:\Windows\Fonts\arial.ttf
+[02/25/22 @ 20:13:46.114473]             C:\Windows\Fonts\arialbd.ttf
+[02/25/22 @ 20:13:46.115474]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\v8_context_snapshot.bin
+[02/25/22 @ 20:13:46.115474]             C:\Windows\Fonts\times.ttf
+[02/25/22 @ 20:13:46.116474]             C:\Windows\Fonts\timesbd.ttf
+[02/25/22 @ 20:13:46.117474]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_200_percent.pak
+[02/25/22 @ 20:13:46.118475]             C:\Windows\Fonts\ARIALN.TTF
+[02/25/22 @ 20:13:46.119474]             C:\Windows\Fonts\ariali.ttf
+[02/25/22 @ 20:13:46.120474]             C:\Windows\Fonts\ariblk.ttf
+[02/25/22 @ 20:13:46.128476]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\Locales\en-US.pak
+[02/25/22 @ 20:13:46.128476]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\34\9.33.0\Ruleset Data
+[02/25/22 @ 20:13:46.129476]             C:\Windows\Fonts\seguiemj.ttf
+[02/25/22 @ 20:13:46.130477]             C:\Windows\Fonts\arialbi.ttf
+[02/25/22 @ 20:13:46.131477]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:46.132477]             C:\Windows\Fonts\timesi.ttf
+[02/25/22 @ 20:13:46.144480]         dllhost.exe
+[02/25/22 @ 20:13:46.190491]             C:\Users\Bodell\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edb.log
+[02/25/22 @ 20:13:46.191491]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\CacheStorage\CacheStorage.jfm
+[02/25/22 @ 20:13:46.192491]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\CacheStorage\CacheStorage.edb
+[02/25/22 @ 20:13:46.193491]             C:\Windows\System32\en-US\ESENT.dll.mui
+[02/25/22 @ 20:13:46.194491]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:46.217497]         chrome.exe
+[02/25/22 @ 20:13:46.266508]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:46.275510]         chrome.exe
+[02/25/22 @ 20:13:46.469553]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_0
+[02/25/22 @ 20:13:46.470554]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Managed Extension Settings\mmeijimgabbpbgpdklnllpncmdofkcpn\LOCK
+[02/25/22 @ 20:13:46.471554]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Shortcuts-journal
+[02/25/22 @ 20:13:46.472555]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\000003.log
+[02/25/22 @ 20:13:46.473555]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Top Sites-journal
+[02/25/22 @ 20:13:46.473555]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Service Worker\Database\000023.ldb
+[02/25/22 @ 20:13:46.474555]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Sync Data\LevelDB\000004.log
+[02/25/22 @ 20:13:46.475556]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Managed Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\LOG
+[02/25/22 @ 20:13:46.476556]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Extension State\LOCK
+[02/25/22 @ 20:13:46.477556]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\History-journal
+[02/25/22 @ 20:13:46.478556]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Extension State\MANIFEST-000001
+[02/25/22 @ 20:13:46.479556]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Sync Data\LevelDB\MANIFEST-000001
+[02/25/22 @ 20:13:46.479556]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Web Data-journal
+[02/25/22 @ 20:13:46.480556]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_minnetonka.schoology.com_0.indexeddb.leveldb\MANIFEST-000001
+[02/25/22 @ 20:13:46.481557]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GPUCache\data_2
+[02/25/22 @ 20:13:46.482557]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\shared_proto_db\metadata\000003.log
+[02/25/22 @ 20:13:46.483557]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\data_reduction_proxy_leveldb\MANIFEST-001170
+[02/25/22 @ 20:13:46.484557]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\heavy_ad_intervention_opt_out.db
+[02/25/22 @ 20:13:46.485557]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\LOCK
+[02/25/22 @ 20:13:46.489558]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\metadata\MANIFEST-000001
+[02/25/22 @ 20:13:46.490559]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GCM Store\LOG
+[02/25/22 @ 20:13:46.491559]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\BrowserMetrics\BrowserMetrics-6219856E-57E0.pma
+[02/25/22 @ 20:13:46.492559]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\MANIFEST-000001
+[02/25/22 @ 20:13:46.493560]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\data_reduction_proxy_leveldb\LOG
+[02/25/22 @ 20:13:46.510563]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\shared_proto_db\000026.log
+[02/25/22 @ 20:13:46.511564]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Network Action Predictor-journal
+[02/25/22 @ 20:13:46.512563]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_minnetonka.schoology.com_0.indexeddb.leveldb\000074.ldb
+[02/25/22 @ 20:13:46.513564]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Platform Notifications\MANIFEST-000001
+[02/25/22 @ 20:13:46.514565]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GPUCache\data_2
+[02/25/22 @ 20:13:46.523566]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\LOCK
+[02/25/22 @ 20:13:46.524566]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Favicons
+[02/25/22 @ 20:13:46.525566]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:46.526566]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Service Worker\Database\000053.ldb
+[02/25/22 @ 20:13:46.526566]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Site Characteristics Database\LOCK
+[02/25/22 @ 20:13:46.527567]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\34\9.33.0\Ruleset Data
+[02/25/22 @ 20:13:46.528567]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Affiliation Database
+[02/25/22 @ 20:13:46.529568]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Managed Extension Settings\mmeijimgabbpbgpdklnllpncmdofkcpn\000003.log
+[02/25/22 @ 20:13:46.530568]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GPUCache\index
+[02/25/22 @ 20:13:46.538874]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Top Sites
+[02/25/22 @ 20:13:46.539870]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:46.540870]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GCM Store\000003.log
+[02/25/22 @ 20:13:46.541870]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Managed Extension Settings\mmeijimgabbpbgpdklnllpncmdofkcpn\LOG
+[02/25/22 @ 20:13:46.542871]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Platform Notifications\LOG
+[02/25/22 @ 20:13:46.543870]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\MANIFEST-000001
+[02/25/22 @ 20:13:46.544871]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Site Characteristics Database\MANIFEST-000001
+[02/25/22 @ 20:13:46.545872]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Network Action Predictor
+[02/25/22 @ 20:13:46.545872]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\data_reduction_proxy_leveldb\MANIFEST-000544
+[02/25/22 @ 20:13:46.546871]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Sync Data\LevelDB\000004.log
+[02/25/22 @ 20:13:46.547871]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Managed Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\MANIFEST-000001
+[02/25/22 @ 20:13:46.548872]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Shortcuts
+[02/25/22 @ 20:13:46.549872]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_minnetonka.schoology.com_0.indexeddb.leveldb\LOCK
+[02/25/22 @ 20:13:46.550872]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\shared_proto_db\metadata\LOCK
+[02/25/22 @ 20:13:46.551872]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\data_reduction_proxy_leveldb\LOCK
+[02/25/22 @ 20:13:46.552873]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\shared_proto_db\MANIFEST-000001
+[02/25/22 @ 20:13:46.552873]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_2
+[02/25/22 @ 20:13:46.553873]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_1
+[02/25/22 @ 20:13:46.554873]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\QuotaManager
+[02/25/22 @ 20:13:46.555874]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Sessions\Session_13290313329487363
+[02/25/22 @ 20:13:46.556874]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\File System\Origins\MANIFEST-000001
+[02/25/22 @ 20:13:46.557874]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Affiliation Database
+[02/25/22 @ 20:13:46.558874]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Extension State\LOG
+[02/25/22 @ 20:13:46.558874]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 20:13:46.559874]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\QuotaManager
+[02/25/22 @ 20:13:46.560874]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\heavy_ad_intervention_opt_out.db
+[02/25/22 @ 20:13:46.567876]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\data_reduction_proxy_leveldb\LOG
+[02/25/22 @ 20:13:46.568876]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_3
+[02/25/22 @ 20:13:46.568876]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\File System\Origins\LOG
+[02/25/22 @ 20:13:46.569877]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:46.570877]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\data_reduction_proxy_leveldb\001171.log
+[02/25/22 @ 20:13:46.571877]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\000011.log
+[02/25/22 @ 20:13:46.572877]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Managed Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\LOCK
+[02/25/22 @ 20:13:46.573878]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Network Action Predictor-journal
+[02/25/22 @ 20:13:46.574878]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Sessions\Tabs_13290313329739226
+[02/25/22 @ 20:13:46.574878]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Service Worker\Database\LOG
+[02/25/22 @ 20:13:46.575878]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Service Worker\Database\MANIFEST-000001
+[02/25/22 @ 20:13:46.576878]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Web Data
+[02/25/22 @ 20:13:46.586185]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\File System\Origins\LOCK
+[02/25/22 @ 20:13:46.587185]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_minnetonka.schoology.com_0.indexeddb.leveldb\000058.ldb
+[02/25/22 @ 20:13:46.588185]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Service Worker\Database\000020.ldb
+[02/25/22 @ 20:13:46.588185]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_1
+[02/25/22 @ 20:13:46.589185]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Managed Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\000003.log
+[02/25/22 @ 20:13:46.590186]             C:\Windows\System32\en-US\kernel32.dll.mui
+[02/25/22 @ 20:13:46.591186]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\LOG
+[02/25/22 @ 20:13:46.592186]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\History
+[02/25/22 @ 20:13:46.593186]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\databases\Databases.db
+[02/25/22 @ 20:13:46.594187]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Network Action Predictor
+[02/25/22 @ 20:13:46.594187]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\Encryption\LOG
+[02/25/22 @ 20:13:46.595187]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\LOCK
+[02/25/22 @ 20:13:46.596187]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GCM Store\MANIFEST-000001
+[02/25/22 @ 20:13:46.597188]             C:\Windows\Fonts\seguisb.ttf
+[02/25/22 @ 20:13:46.598188]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Service Worker\Database\LOCK
+[02/25/22 @ 20:13:46.599187]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Login Data
+[02/25/22 @ 20:13:46.600187]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GPUCache\data_3
+[02/25/22 @ 20:13:46.602189]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Sessions\Session_13290315072257015
+[02/25/22 @ 20:13:46.603188]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\shared_proto_db\metadata\LOG
+[02/25/22 @ 20:13:46.621193]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\index
+[02/25/22 @ 20:13:46.622193]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Service Worker\Database\000050.log
+[02/25/22 @ 20:13:46.623193]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\resources.pak
+[02/25/22 @ 20:13:46.624194]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Sync Data\LevelDB\LOG
+[02/25/22 @ 20:13:46.638197]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Sync Data\LevelDB\MANIFEST-000001
+[02/25/22 @ 20:13:46.639197]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\000013.ldb
+[02/25/22 @ 20:13:46.640197]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\metadata\LOCK
+[02/25/22 @ 20:13:46.641197]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Extension State\LOG
+[02/25/22 @ 20:13:46.642197]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\QuotaManager-journal
+[02/25/22 @ 20:13:46.642197]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\OptimizationGuidePredictionModels\OPTIMIZATION_TARGET_LANGUAGE_DETECTION_2202232304\model.tflite
+[02/25/22 @ 20:13:46.644198]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Managed Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\LOCK
+[02/25/22 @ 20:13:46.644198]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GPUCache\data_1
+[02/25/22 @ 20:13:46.645198]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_100_percent.pak
+[02/25/22 @ 20:13:46.646197]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_minnetonka.schoology.com_0.indexeddb.leveldb\LOG
+[02/25/22 @ 20:13:46.647199]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Site Characteristics Database\000003.log
+[02/25/22 @ 20:13:46.648199]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Extension State\MANIFEST-000001
+[02/25/22 @ 20:13:46.649199]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\hyphen-data\101.0.4910.0\hyph-en-us.hyb
+[02/25/22 @ 20:13:46.650199]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Site Characteristics Database\MANIFEST-000001
+[02/25/22 @ 20:13:46.650199]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Extension State\LOCK
+[02/25/22 @ 20:13:46.651199]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GPUCache\data_0
+[02/25/22 @ 20:13:46.652200]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:46.653200]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\LOCK
+[02/25/22 @ 20:13:46.654200]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\File System\Origins\LOG
+[02/25/22 @ 20:13:46.655200]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Sessions\Tabs_13290315072335097
+[02/25/22 @ 20:13:46.656201]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 20:13:46.656201]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Sync Data\LevelDB\LOG
+[02/25/22 @ 20:13:46.664202]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Platform Notifications\LOCK
+[02/25/22 @ 20:13:46.665203]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Login Data For Account-journal
+[02/25/22 @ 20:13:46.666203]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\File System\Origins\MANIFEST-000001
+[02/25/22 @ 20:13:46.666203]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_200_percent.pak
+[02/25/22 @ 20:13:46.667203]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Extension State\000003.log
+[02/25/22 @ 20:13:46.668203]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\index
+[02/25/22 @ 20:13:46.669204]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GPUCache\index
+[02/25/22 @ 20:13:46.670204]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Login Data For Account
+[02/25/22 @ 20:13:46.671204]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Platform Notifications\LOG
+[02/25/22 @ 20:13:46.672204]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\shared_proto_db\metadata\MANIFEST-000001
+[02/25/22 @ 20:13:46.672204]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:46.688458]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Platform Notifications\MANIFEST-000001
+[02/25/22 @ 20:13:46.689459]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\Locales\en-US.pak
+[02/25/22 @ 20:13:46.690458]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\metadata\000003.log
+[02/25/22 @ 20:13:46.691459]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\shared_proto_db\LOCK
+[02/25/22 @ 20:13:46.692459]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\shared_proto_db\000028.ldb
+[02/25/22 @ 20:13:46.692459]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Visited Links
+[02/25/22 @ 20:13:46.693459]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Managed Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\000003.log
+[02/25/22 @ 20:13:46.694459]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Favicons-journal
+[02/25/22 @ 20:13:46.695460]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\Encryption\000003.log
+[02/25/22 @ 20:13:46.696460]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Sync Data\LevelDB\000005.ldb
+[02/25/22 @ 20:13:46.697460]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Shortcuts
+[02/25/22 @ 20:13:46.698460]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\QuotaManager-journal
+[02/25/22 @ 20:13:46.698460]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Managed Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\LOG
+[02/25/22 @ 20:13:46.699461]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Web Data
+[02/25/22 @ 20:13:46.700461]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\LOG
+[02/25/22 @ 20:13:46.701461]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\Encryption\MANIFEST-000001
+[02/25/22 @ 20:13:46.702461]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Service Worker\Database\000025.log
+[02/25/22 @ 20:13:46.703461]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\shared_proto_db\LOG
+[02/25/22 @ 20:13:46.704462]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GCM Store\Encryption\LOG
+[02/25/22 @ 20:13:46.709462]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\GrShaderCache\GPUCache\data_2
+[02/25/22 @ 20:13:46.710464]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Managed Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\MANIFEST-000001
+[02/25/22 @ 20:13:46.711464]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\metadata\LOG
+[02/25/22 @ 20:13:46.712463]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Visited Links
+[02/25/22 @ 20:13:46.713464]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Platform Notifications\000003.log
+[02/25/22 @ 20:13:46.714465]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\History-journal
+[02/25/22 @ 20:13:46.715465]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Site Characteristics Database\LOG
+[02/25/22 @ 20:13:46.716465]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GPUCache\data_1
+[02/25/22 @ 20:13:46.717465]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\databases\Databases.db
+[02/25/22 @ 20:13:46.718465]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Favicons
+[02/25/22 @ 20:13:46.719465]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\File System\Origins\LOCK
+[02/25/22 @ 20:13:46.720465]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\History
+[02/25/22 @ 20:13:46.723466]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Extension State\000003.log
+[02/25/22 @ 20:13:46.724466]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_minnetonka.schoology.com_0.indexeddb.leveldb\000072.log
+[02/25/22 @ 20:13:46.725466]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_3
+[02/25/22 @ 20:13:46.745470]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\lockfile
+[02/25/22 @ 20:13:46.746471]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:46.747471]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Login Data For Account
+[02/25/22 @ 20:13:46.748472]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\Encryption\LOCK
+[02/25/22 @ 20:13:46.749472]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GCM Store\Encryption\LOCK
+[02/25/22 @ 20:13:46.749472]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Sync Data\LevelDB\000005.ldb
+[02/25/22 @ 20:13:46.750472]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GCM Store\Encryption\MANIFEST-000001
+[02/25/22 @ 20:13:46.751472]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Service Worker\Database\LOCK
+[02/25/22 @ 20:13:46.752473]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Sync Data\LevelDB\LOCK
+[02/25/22 @ 20:13:46.753473]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Site Characteristics Database\LOG
+[02/25/22 @ 20:13:46.754473]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Platform Notifications\000003.log
+[02/25/22 @ 20:13:46.755473]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Favicons-journal
+[02/25/22 @ 20:13:46.756473]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\File System\Origins\000003.log
+[02/25/22 @ 20:13:46.757474]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Site Characteristics Database\LOCK
+[02/25/22 @ 20:13:46.757474]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Service Worker\Database\MANIFEST-000001
+[02/25/22 @ 20:13:46.758474]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Platform Notifications\LOCK
+[02/25/22 @ 20:13:46.759474]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Session Storage\LOCK
+[02/25/22 @ 20:13:46.760474]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GPUCache\data_0
+[02/25/22 @ 20:13:46.761475]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Top Sites
+[02/25/22 @ 20:13:46.762475]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Login Data
+[02/25/22 @ 20:13:46.763475]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\GPUCache\data_3
+[02/25/22 @ 20:13:46.763475]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Session Storage\LOCK
+[02/25/22 @ 20:13:46.764475]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Sync Data\LevelDB\LOCK
+[02/25/22 @ 20:13:46.765476]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\File System\Origins\000003.log
+[02/25/22 @ 20:13:46.773478]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GCM Store\LOCK
+[02/25/22 @ 20:13:46.774478]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\GCM Store\Encryption\000003.log
+[02/25/22 @ 20:13:46.775478]             C:\Windows\Fonts\seguiemj.ttf
+[02/25/22 @ 20:13:46.776478]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_0
+[02/25/22 @ 20:13:46.777478]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\data_reduction_proxy_leveldb\000545.log
+[02/25/22 @ 20:13:46.778478]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Service Worker\Database\000026.ldb
+[02/25/22 @ 20:13:46.779479]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Service Worker\Database\LOG
+[02/25/22 @ 20:13:46.780479]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Site Characteristics Database\000003.log
+[02/25/22 @ 20:13:46.780479]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Managed Extension Settings\mmeijimgabbpbgpdklnllpncmdofkcpn\MANIFEST-000001
+[02/25/22 @ 20:13:46.781479]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\data_reduction_proxy_leveldb\LOCK
+[02/25/22 @ 20:13:46.792481]         RuntimeBroker.exe
+[02/25/22 @ 20:13:46.857496]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:46.858496]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+[02/25/22 @ 20:13:46.859496]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+[02/25/22 @ 20:13:46.861499]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 20:13:46.862499]             C:\Windows\SystemResources\shell32.dll.mun
+[02/25/22 @ 20:13:46.863498]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:46.863498]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:46.873500]         chrome.exe
+[02/25/22 @ 20:13:46.927512]             C:\Windows\Fonts\ariblk.ttf
+[02/25/22 @ 20:13:46.928513]             C:\Windows\Fonts\ARIALNBI.TTF
+[02/25/22 @ 20:13:46.929512]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\Locales\en-US.pak
+[02/25/22 @ 20:13:46.930512]             C:\Windows\Fonts\arial.ttf
+[02/25/22 @ 20:13:46.930512]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\resources.pak
+[02/25/22 @ 20:13:46.931513]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_200_percent.pak
+[02/25/22 @ 20:13:46.933515]             C:\Windows\Fonts\ARIALN.TTF
+[02/25/22 @ 20:13:46.934514]             C:\Windows\Fonts\ARIALNI.TTF
+[02/25/22 @ 20:13:46.935514]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\34\9.33.0\Ruleset Data
+[02/25/22 @ 20:13:46.936514]             C:\Windows\Fonts\arialbd.ttf
+[02/25/22 @ 20:13:46.937515]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_100_percent.pak
+[02/25/22 @ 20:13:46.938514]             C:\Windows\Fonts\arialbi.ttf
+[02/25/22 @ 20:13:46.939515]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:46.945516]             C:\Windows\Fonts\ariali.ttf
+[02/25/22 @ 20:13:46.946516]             C:\Windows\Fonts\ARIALNB.TTF
+[02/25/22 @ 20:13:46.947516]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\v8_context_snapshot.bin
+[02/25/22 @ 20:13:46.948517]             C:\Users\Bodell\AppData\Local\Temp\c5132a6d-bbaf-477f-9ea9-d0ba85323102.tmp
+[02/25/22 @ 20:13:46.967521]         jucheck.exe
+[02/25/22 @ 20:13:47.023534]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:47.024534]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:47.025535]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:47.026535]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:47.040538]         svchost.exe
+[02/25/22 @ 20:13:47.052541]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:47.061543]         svchost.exe
+[02/25/22 @ 20:13:47.118556]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:47.119556]             C:\Windows\System32\en-US\mpr.dll.mui
+[02/25/22 @ 20:13:47.120556]             C:\Windows\System32\en-US\svchost.exe.mui
+[02/25/22 @ 20:13:47.137560]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:47.138561]             C:\Windows\System32\en-US\windows.applicationmodel.datatransfer.dll.mui
+[02/25/22 @ 20:13:47.139560]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:47.140561]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:47.162566]         Discord.exe
+[02/25/22 @ 20:13:47.219578]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_100_percent.pak
+[02/25/22 @ 20:13:47.220579]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\resources.pak
+[02/25/22 @ 20:13:47.221579]             C:\Users\Bodell\AppData\Roaming\discord\Cache\data_1
+[02/25/22 @ 20:13:47.222580]             C:\Users\Bodell\AppData\Roaming\discord\Cookies
+[02/25/22 @ 20:13:47.223579]             C:\Users\Bodell\AppData\Roaming\discord\Cache\data_2
+[02/25/22 @ 20:13:47.224580]             C:\Users\Bodell\AppData\Roaming\discord\Cookies-journal
+[02/25/22 @ 20:13:47.225580]             C:\Users\Bodell\AppData\Roaming\discord\Cache\data_3
+[02/25/22 @ 20:13:47.226580]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\v8_context_snapshot.bin
+[02/25/22 @ 20:13:47.226580]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\locales\en-US.pak
+[02/25/22 @ 20:13:47.227581]             C:\Users\Bodell\AppData\Roaming\discord\Cache\index
+[02/25/22 @ 20:13:47.228581]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_200_percent.pak
+[02/25/22 @ 20:13:47.229581]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\icudtl.dat
+[02/25/22 @ 20:13:47.230581]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:47.231581]             C:\Users\Bodell\AppData\Roaming\discord\Cache\data_0
+[02/25/22 @ 20:13:47.249585]         dwm.exe
+[02/25/22 @ 20:13:47.254586]         Access to process dwm.exe is denied.
+[02/25/22 @ 20:13:47.272591]         Calculator.exe
+[02/25/22 @ 20:13:47.343607]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:47.344607]             C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe\Microsoft.UI.Xaml\Assets\NoiseAsset_256x256_PNG.png
+[02/25/22 @ 20:13:47.345607]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.WindowsCalculator_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:47.345607]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.WindowsCalculator_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:47.346607]             C:\Windows\System32\WinMetadata\Windows.UI.winmd
+[02/25/22 @ 20:13:47.347608]             C:\Windows\Fonts\seguisb.ttf
+[02/25/22 @ 20:13:47.348608]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.WindowsCalculator_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:47.349608]             C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Assets\CalcMDL2.ttf
+[02/25/22 @ 20:13:47.350608]             C:\Windows\System32\WinMetadata\Windows.UI.Xaml.winmd
+[02/25/22 @ 20:13:47.351608]             C:\Windows\System32\en-US\windows.ui.xaml.dll.mui
+[02/25/22 @ 20:13:47.361611]         RadeonSettings.exe
+[02/25/22 @ 20:13:47.446630]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 20:13:47.447631]             C:\Users\Bodell\AppData\Local\D3DSCache\643ef9f3b699fd42\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:47.448631]             C:\Users\Bodell\AppData\Local\AMD\DxCache\794172ac805093d79ae93196013f12255ab246171f72765d.bin
+[02/25/22 @ 20:13:47.448631]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:47.449631]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:47.450632]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:47.451631]             C:\Users\Bodell\AppData\Local\D3DSCache\643ef9f3b699fd42\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:47.452631]             C:\Users\Bodell\AppData\Local\D3DSCache\643ef9f3b699fd42\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:47.453632]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:47.454632]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 20:13:47.454632]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:47.464634]         Discord.exe
+[02/25/22 @ 20:13:47.596665]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\resources.pak
+[02/25/22 @ 20:13:47.597664]             C:\Users\Bodell\AppData\Roaming\discord\GPUCache\data_3
+[02/25/22 @ 20:13:47.598665]             C:\Users\Bodell\AppData\Roaming\discord\GPUCache\data_2
+[02/25/22 @ 20:13:47.599665]             C:\Users\Bodell\AppData\Roaming\discord\GPUCache\data_0
+[02/25/22 @ 20:13:47.600665]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\000007.log
+[02/25/22 @ 20:13:47.601666]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\v8_context_snapshot.bin
+[02/25/22 @ 20:13:47.601666]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\LOCK
+[02/25/22 @ 20:13:47.602666]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\001141.ldb
+[02/25/22 @ 20:13:47.603666]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\metadata\000003.log
+[02/25/22 @ 20:13:47.604666]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:47.605666]             C:\Users\Bodell\AppData\Roaming\discord\GPUCache\data_1
+[02/25/22 @ 20:13:47.606666]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:47.606666]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:47.607667]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\LOCK
+[02/25/22 @ 20:13:47.608667]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\000003.log
+[02/25/22 @ 20:13:47.609667]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\modules\discord_desktop_core-1\discord_desktop_core\core.asar
+[02/25/22 @ 20:13:47.613667]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\locales\en-US.pak
+[02/25/22 @ 20:13:47.614669]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\icudtl.dat
+[02/25/22 @ 20:13:47.614669]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:47.615669]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\MANIFEST-000001
+[02/25/22 @ 20:13:47.616669]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 20:13:47.617669]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\resources\app.asar
+[02/25/22 @ 20:13:47.618669]             C:\Windows\System32\en-US\kernel32.dll.mui
+[02/25/22 @ 20:13:47.619669]             C:\Windows\SysWOW64\en-US\user32.dll.mui
+[02/25/22 @ 20:13:47.619669]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\000005.ldb
+[02/25/22 @ 20:13:47.620670]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_200_percent.pak
+[02/25/22 @ 20:13:47.636673]             C:\Users\Bodell\AppData\Roaming\discord\lockfile
+[02/25/22 @ 20:13:47.637673]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\MANIFEST-000001
+[02/25/22 @ 20:13:47.638674]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_100_percent.pak
+[02/25/22 @ 20:13:47.639674]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\MANIFEST-000001
+[02/25/22 @ 20:13:47.640674]             C:\Users\Bodell\AppData\Local\Discord\Discord_updater_rCURRENT.log
+[02/25/22 @ 20:13:47.640674]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\metadata\LOG
+[02/25/22 @ 20:13:47.641674]             C:\Users\Bodell\AppData\Roaming\discord\GPUCache\index
+[02/25/22 @ 20:13:47.651912]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\LOCK
+[02/25/22 @ 20:13:47.652912]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\000005.ldb
+[02/25/22 @ 20:13:47.653912]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\metadata\LOCK
+[02/25/22 @ 20:13:47.654912]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\metadata\MANIFEST-000001
+[02/25/22 @ 20:13:47.655913]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\LOG
+[02/25/22 @ 20:13:47.656913]             C:\Users\Bodell\AppData\Roaming\discord\shared_proto_db\LOG
+[02/25/22 @ 20:13:47.656913]             C:\Users\Bodell\AppData\Roaming\discord\Local Storage\leveldb\001139.log
+[02/25/22 @ 20:13:47.657913]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\000008.ldb
+[02/25/22 @ 20:13:47.658913]             C:\Users\Bodell\AppData\Roaming\discord\Session Storage\LOG
+[02/25/22 @ 20:13:47.683919]         SystemSettings.exe
+[02/25/22 @ 20:13:47.779941]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:47.780941]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:47.781942]             C:\Users\Bodell\AppData\Local\D3DSCache\d1045fa42060dcaf\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:47.782942]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:47.783942]             C:\Windows\System32\en-US\windows.ui.xaml.dll.mui
+[02/25/22 @ 20:13:47.784942]             C:\Windows\ImmersiveControlPanel\en-US\SystemSettings.exe.mui
+[02/25/22 @ 20:13:47.785942]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:47.785942]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 20:13:47.786943]             C:\Users\Bodell\AppData\Local\D3DSCache\d1045fa42060dcaf\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:47.787942]             C:\Windows\Fonts\segoeuil.ttf
+[02/25/22 @ 20:13:47.788942]             C:\Users\Bodell\AppData\Local\AMD\DxCache\14ae554115e5b18b67b8f93d1cd850cd51f19ed9687ded04.bin
+[02/25/22 @ 20:13:47.789943]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:47.790944]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 20:13:47.791944]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:47.792944]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:47.793944]             C:\Windows\System32\en-US\SHCore.dll.mui
+[02/25/22 @ 20:13:47.794944]             C:\Users\Bodell\AppData\Local\D3DSCache\d1045fa42060dcaf\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:47.806947]         chrome.exe
+[02/25/22 @ 20:13:47.854958]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\Locales\en-US.pak
+[02/25/22 @ 20:13:47.855958]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\resources.pak
+[02/25/22 @ 20:13:47.856958]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_200_percent.pak
+[02/25/22 @ 20:13:47.856958]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_100_percent.pak
+[02/25/22 @ 20:13:47.857959]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:47.858959]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\v8_context_snapshot.bin
+[02/25/22 @ 20:13:47.859959]             C:\Windows\System32\en-US\MMDevAPI.dll.mui
+[02/25/22 @ 20:13:47.860959]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:47.870961]         cmd.exe
+[02/25/22 @ 20:13:47.908970]             C:\Windows\System32\en-US\cmd.exe.mui
+[02/25/22 @ 20:13:47.959981]         GitHubDesktop.exe
+[02/25/22 @ 20:13:48.011994]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Network\Cookies
+[02/25/22 @ 20:13:48.012994]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Cache\Cache_Data\index
+[02/25/22 @ 20:13:48.013994]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\icudtl.dat
+[02/25/22 @ 20:13:48.014994]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\chrome_200_percent.pak
+[02/25/22 @ 20:13:48.015995]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\resources.pak
+[02/25/22 @ 20:13:48.016995]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Cache\Cache_Data\data_0
+[02/25/22 @ 20:13:48.017995]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\chrome_100_percent.pak
+[02/25/22 @ 20:13:48.018995]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\locales\en-US.pak
+[02/25/22 @ 20:13:48.019996]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Cache\Cache_Data\data_1
+[02/25/22 @ 20:13:48.020997]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Cache\Cache_Data\data_2
+[02/25/22 @ 20:13:48.021996]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Cache\Cache_Data\data_3
+[02/25/22 @ 20:13:48.022996]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:48.023996]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\v8_context_snapshot.bin
+[02/25/22 @ 20:13:48.034999]         GitHubDesktop.exe
+[02/25/22 @ 20:13:48.133020]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\icudtl.dat
+[02/25/22 @ 20:13:48.134021]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\lockfile
+[02/25/22 @ 20:13:48.135021]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Local Storage\leveldb\LOCK
+[02/25/22 @ 20:13:48.136022]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\chrome_100_percent.pak
+[02/25/22 @ 20:13:48.137021]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:48.138022]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\QuotaManager
+[02/25/22 @ 20:13:48.139022]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 20:13:48.140022]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\GPUCache\data_0
+[02/25/22 @ 20:13:48.141022]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\chrome_200_percent.pak
+[02/25/22 @ 20:13:48.142022]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:48.142022]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\IndexedDB\file__0.indexeddb.leveldb\000009.ldb
+[02/25/22 @ 20:13:48.162027]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:48.163028]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\databases\Databases.db
+[02/25/22 @ 20:13:48.164028]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Local Storage\leveldb\MANIFEST-000001
+[02/25/22 @ 20:13:48.165028]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\locales\en-US.pak
+[02/25/22 @ 20:13:48.165028]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\GPUCache\data_2
+[02/25/22 @ 20:13:48.166028]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\IndexedDB\file__0.indexeddb.leveldb\LOCK
+[02/25/22 @ 20:13:48.167029]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\GPUCache\data_1
+[02/25/22 @ 20:13:48.168029]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Local Storage\leveldb\000005.ldb
+[02/25/22 @ 20:13:48.176030]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\v8_context_snapshot.bin
+[02/25/22 @ 20:13:48.177031]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Local Storage\leveldb\000004.log
+[02/25/22 @ 20:13:48.177031]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:48.178031]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\QuotaManager-journal
+[02/25/22 @ 20:13:48.179032]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\resources.pak
+[02/25/22 @ 20:13:48.180032]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\Local Storage\leveldb\LOG
+[02/25/22 @ 20:13:48.181032]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\GPUCache\index
+[02/25/22 @ 20:13:48.182032]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\IndexedDB\file__0.indexeddb.leveldb\MANIFEST-000001
+[02/25/22 @ 20:13:48.182032]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\logs\2022-02-25.desktop.production.log
+[02/25/22 @ 20:13:48.183032]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\GPUCache\data_3
+[02/25/22 @ 20:13:48.184033]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\IndexedDB\file__0.indexeddb.leveldb\LOG
+[02/25/22 @ 20:13:48.193701]             C:\Users\Bodell\AppData\Roaming\GitHub Desktop\IndexedDB\file__0.indexeddb.leveldb\000007.log
+[02/25/22 @ 20:13:48.203702]         atom.exe
+[02/25/22 @ 20:13:48.269717]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_200_percent.pak
+[02/25/22 @ 20:13:48.270717]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources.pak
+[02/25/22 @ 20:13:48.271718]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:48.272718]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\v8_context_snapshot.bin
+[02/25/22 @ 20:13:48.273718]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_100_percent.pak
+[02/25/22 @ 20:13:48.273718]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\locales\en-US.pak
+[02/25/22 @ 20:13:48.274718]             C:\Users\Bodell\AppData\Roaming\Atom\Cache\data_0
+[02/25/22 @ 20:13:48.275719]             C:\Users\Bodell\AppData\Roaming\Atom\Cache\data_2
+[02/25/22 @ 20:13:48.276719]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\icudtl.dat
+[02/25/22 @ 20:13:48.277719]             C:\Users\Bodell\AppData\Roaming\Atom\Cache\data_3
+[02/25/22 @ 20:13:48.278719]             C:\Users\Bodell\AppData\Roaming\Atom\Cache\data_1
+[02/25/22 @ 20:13:48.279719]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:48.279719]             C:\Users\Bodell\AppData\Roaming\Atom\Cache\index
+[02/25/22 @ 20:13:48.285721]             C:\Users\Bodell\AppData\Roaming\Atom\Cookies
+[02/25/22 @ 20:13:48.295723]         svchost.exe
+[02/25/22 @ 20:13:48.364739]             C:\Users\Bodell\AppData\Local\ConnectedDevicesPlatform\850ec075d0dffa68\ActivitiesCache.db
+[02/25/22 @ 20:13:48.365740]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:48.366739]             C:\Windows\System32\en-US\svchost.exe.mui
+[02/25/22 @ 20:13:48.367740]             C:\Users\Bodell\AppData\Local\ConnectedDevicesPlatform\850ec075d0dffa68\ActivitiesCache.db-wal
+[02/25/22 @ 20:13:48.368740]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:48.369740]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:48.370740]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 20:13:48.370740]             C:\Users\Bodell\AppData\Local\ConnectedDevicesPlatform\850ec075d0dffa68\ActivitiesCache.db-shm
+[02/25/22 @ 20:13:48.382743]         SettingSyncHost.exe
+[02/25/22 @ 20:13:48.446758]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\SettingSync\remotemetastore\v1\meta.edb
+[02/25/22 @ 20:13:48.448758]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:48.450758]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\SettingSync\metastore\edb.log
+[02/25/22 @ 20:13:48.452759]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:48.453759]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\SettingSync\remotemetastore\v1\edb.log
+[02/25/22 @ 20:13:48.455759]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\SettingSync\metastore\meta.edb
+[02/25/22 @ 20:13:48.461765]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\SettingSync\metastore\meta.jfm
+[02/25/22 @ 20:13:48.463761]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:48.464761]             C:\Windows\System32\en-US\ESENT.dll.mui
+[02/25/22 @ 20:13:48.465764]             C:\Windows\System32\en-US\netmsg.dll.mui
+[02/25/22 @ 20:13:48.467763]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\SettingSync\remotemetastore\v1\meta.jfm
+[02/25/22 @ 20:13:48.468762]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:48.469763]             C:\Windows\System32\en-US\SettingSyncCore.dll.mui
+[02/25/22 @ 20:13:48.470763]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:48.492769]         sihost.exe
+[02/25/22 @ 20:13:48.585789]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:48.586790]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 20:13:48.587789]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:48.588789]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:48.589790]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:48.602793]         Cortana.exe
+[02/25/22 @ 20:13:48.690814]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:48.691814]             C:\Windows\System32\WinMetadata\Windows.Web.winmd
+[02/25/22 @ 20:13:48.693815]             C:\Windows\System32\WinMetadata\Windows.Services.winmd
+[02/25/22 @ 20:13:48.694815]             C:\Windows\System32\WinMetadata\Windows.Media.winmd
+[02/25/22 @ 20:13:48.695816]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:48.706817]             C:\Windows\System32\WinMetadata\Windows.System.winmd
+[02/25/22 @ 20:13:48.707817]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.549981C3F5F10_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:48.708818]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.549981C3F5F10_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:48.709818]             C:\Windows\System32\en-US\dnsapi.dll.mui
+[02/25/22 @ 20:13:48.739170]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:48.740169]             C:\Windows\System32\en-US\netmsg.dll.mui
+[02/25/22 @ 20:13:48.741169]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:48.741169]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 20:13:48.742170]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:48.743170]             C:\Windows\System32\en-US\Windows.Web.dll.mui
+[02/25/22 @ 20:13:48.744170]             C:\Windows\System32\WinMetadata\Windows.ApplicationModel.winmd
+[02/25/22 @ 20:13:48.745170]             C:\Users\Bodell\AppData\Local\Packages\Microsoft.549981C3F5F10_8wekyb3d8bbwe\AC\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:48.755172]         audiodg.exe
+[02/25/22 @ 20:13:48.766175]         Access to process audiodg.exe is denied.
+[02/25/22 @ 20:13:48.772176]         smartscreen.exe
+[02/25/22 @ 20:13:48.835191]             C:\Windows\System32\WinMetadata\Windows.Foundation.winmd
+[02/25/22 @ 20:13:48.836192]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:48.837191]             C:\Windows\System32\en-US\Windows.Web.Http.dll.mui
+[02/25/22 @ 20:13:48.838192]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:48.838192]             C:\Windows\System32\en-US\smartscreen.exe.mui
+[02/25/22 @ 20:13:48.839192]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:48.840192]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:48.850194]         RuntimeBroker.exe
+[02/25/22 @ 20:13:48.909208]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:48.910208]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:48.911208]             C:\Windows\System32\en-US\ShutdownUX.dll.mui
+[02/25/22 @ 20:13:48.912208]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:48.913209]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:48.928212]         SearchApp.exe
+[02/25/22 @ 20:13:49.044238]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:49.045239]             C:\Windows\System32\WinMetadata\Windows.Foundation.winmd
+[02/25/22 @ 20:13:49.046239]             C:\Windows\System32\en-US\edgehtml.dll.mui
+[02/25/22 @ 20:13:49.046239]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:49.047239]             C:\Windows\System32\WinMetadata\Windows.Web.winmd
+[02/25/22 @ 20:13:49.048240]             C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Cortana.Internal.Search.winmd
+[02/25/22 @ 20:13:49.049240]             C:\Windows\SystemResources\edgehtml.dll.mun
+[02/25/22 @ 20:13:49.050239]             C:\Windows\System32\en-US\d2d1.dll.mui
+[02/25/22 @ 20:13:49.051240]             C:\Windows\Fonts\seguisb.ttf
+[02/25/22 @ 20:13:49.052240]             C:\Windows\System32\en-US\dnsapi.dll.mui
+[02/25/22 @ 20:13:49.053240]             C:\Windows\SystemResources\Chakra.dll.mun
+[02/25/22 @ 20:13:49.054241]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:49.054241]             C:\Windows\System32\WinMetadata\Windows.UI.Xaml.winmd
+[02/25/22 @ 20:13:49.055240]             C:\Windows\Fonts\segoeuib.ttf
+[02/25/22 @ 20:13:49.056241]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:49.069244]         atom.exe
+[02/25/22 @ 20:13:49.148262]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:49.149262]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\icudtl.dat
+[02/25/22 @ 20:13:49.150263]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:49.163266]         explorer.exe
+[02/25/22 @ 20:13:49.421324]             C:\Windows\System32\en-US\Geolocation.dll.mui
+[02/25/22 @ 20:13:49.422324]             C:\Windows\System32\en-US\ole32.dll.mui
+[02/25/22 @ 20:13:49.423324]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+[02/25/22 @ 20:13:49.423324]             C:\Windows\System32\en-US\ieframe.dll.mui
+[02/25/22 @ 20:13:49.424325]             C:\Windows\System32\en-US\InputSwitch.dll.mui
+[02/25/22 @ 20:13:49.425325]             C:\Windows\SystemResources\ExplorerFrame.dll.mun
+[02/25/22 @ 20:13:49.426325]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1280.db
+[02/25/22 @ 20:13:49.427325]             C:\Windows\System32\en-US\twinui.dll.mui
+[02/25/22 @ 20:13:49.428325]             C:\Users\Bodell\AppData\Local\D3DSCache\8c4ef25b5f12d6ac\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.lock
+[02/25/22 @ 20:13:49.429326]             C:\Windows\SystemResources\stobject.dll.mun
+[02/25/22 @ 20:13:49.430326]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:49.431326]             C:\Users\Bodell\AppData\Local\D3DSCache\8c4ef25b5f12d6ac\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.idx
+[02/25/22 @ 20:13:49.431326]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+[02/25/22 @ 20:13:49.435327]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+[02/25/22 @ 20:13:49.436328]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:49.437328]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:49.437328]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db
+[02/25/22 @ 20:13:49.438328]             C:\Windows\System32\en-US\mpr.dll.mui
+[02/25/22 @ 20:13:49.439328]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+[02/25/22 @ 20:13:49.440328]             C:\Windows\System32\en-US\NPSMDesktopProvider.dll.mui
+[02/25/22 @ 20:13:49.441328]             C:\Users\Bodell\AppData\Local\Microsoft\GameDVR\KnownGameList.bin
+[02/25/22 @ 20:13:49.442329]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+[02/25/22 @ 20:13:49.457332]             C:\Windows\System32\en-US\bthprops.cpl.mui
+[02/25/22 @ 20:13:49.458332]             C:\Windows\SystemResources\imageres.dll.mun
+[02/25/22 @ 20:13:49.459333]             C:\Windows\SystemResources\NPSMDesktopProvider.dll.mun
+[02/25/22 @ 20:13:49.460333]             C:\Windows\System32\en-US\twinui.pcshell.dll.mui
+[02/25/22 @ 20:13:49.461333]             C:\Windows\System32\en-US\explorerframe.dll.mui
+[02/25/22 @ 20:13:49.462333]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:49.462333]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+[02/25/22 @ 20:13:49.463333]             C:\Windows\System32\en-US\oleaccrc.dll.mui
+[02/25/22 @ 20:13:49.473337]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_768.db
+[02/25/22 @ 20:13:49.474336]             C:\Windows\System32\en-US\dsreg.dll.mui
+[02/25/22 @ 20:13:49.475336]             C:\Users\Bodell\AppData\Local\D3DSCache\8c4ef25b5f12d6ac\52264C4C-172F-41B9-91B8-7F0C3B1E9021_VEN_1002&DEV_67DF&SUBSYS_2378&REV_E7.val
+[02/25/22 @ 20:13:49.476336]             C:\Windows\SystemResources\SndVolSSO.dll.mun
+[02/25/22 @ 20:13:49.477336]             C:\Users\Bodell\AppData\Local\AMD\DxCache\5429e8ff08a8e9b3716850681d461019964d07acafb3b839.bin
+[02/25/22 @ 20:13:49.478337]             C:\Windows\System32\en-US\wscui.cpl.mui
+[02/25/22 @ 20:13:49.479336]             C:\Windows\System32\en-US\wdmaud.drv.mui
+[02/25/22 @ 20:13:49.480337]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:49.481338]             C:\Windows\System32\en-US\ActionCenter.dll.mui
+[02/25/22 @ 20:13:49.482338]             C:\Windows\System32\en-US\imapi2.dll.mui
+[02/25/22 @ 20:13:49.483338]             C:\Windows\System32\en-US\ApplicationFrame.dll.mui
+[02/25/22 @ 20:13:49.484338]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 20:13:49.485338]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+[02/25/22 @ 20:13:49.486339]             C:\Windows\System32\en-US\winmm.dll.mui
+[02/25/22 @ 20:13:49.487339]             C:\Windows\SystemResources\shell32.dll.mun
+[02/25/22 @ 20:13:49.488338]             C:\Windows\System32\en-US\pnidui.dll.mui
+[02/25/22 @ 20:13:49.488338]             C:\Windows\System32\en-US\combase.dll.mui
+[02/25/22 @ 20:13:49.489339]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:49.490340]             C:\Windows\System32\en-US\MMDevAPI.dll.mui
+[02/25/22 @ 20:13:49.491340]             C:\Windows\en-US\explorer.exe.mui
+[02/25/22 @ 20:13:49.492340]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:49.493340]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db
+[02/25/22 @ 20:13:49.494340]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:49.495340]             C:\Windows\System32\en-US\hcproviders.dll.mui
+[02/25/22 @ 20:13:49.502346]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+[02/25/22 @ 20:13:49.503343]             C:\Windows\System32\en-US\stobject.dll.mui
+[02/25/22 @ 20:13:49.505343]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+[02/25/22 @ 20:13:49.505343]             C:\Windows\System32\en-US\sndvolsso.dll.mui
+[02/25/22 @ 20:13:49.506343]             C:\Windows\System32\en-US\dui70.dll.mui
+[02/25/22 @ 20:13:49.507343]             C:\Windows\System32\en-US\winnlsres.dll.mui
+[02/25/22 @ 20:13:49.520509]         GitHubDesktop.exe
+[02/25/22 @ 20:13:49.599527]             C:\Users\Bodell\AppData\Local\GitHubDesktop\app-2.9.10\icudtl.dat
+[02/25/22 @ 20:13:49.599527]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:49.600528]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:49.614530]         atom.exe
+[02/25/22 @ 20:13:49.667543]             C:\Users\Bodell\AppData\Roaming\Atom\Dictionaries\en-US-9-0.bdic
+[02/25/22 @ 20:13:49.668543]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_200_percent.pak
+[02/25/22 @ 20:13:49.669544]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources.pak
+[02/25/22 @ 20:13:49.669544]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources\app.asar
+[02/25/22 @ 20:13:49.670543]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\v8_context_snapshot.bin
+[02/25/22 @ 20:13:49.671544]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_100_percent.pak
+[02/25/22 @ 20:13:49.672544]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\locales\en-US.pak
+[02/25/22 @ 20:13:49.673544]             C:\Windows\Fonts\timesi.ttf
+[02/25/22 @ 20:13:49.674545]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\icudtl.dat
+[02/25/22 @ 20:13:49.674545]             C:\Windows\Fonts\timesbi.ttf
+[02/25/22 @ 20:13:49.675545]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:49.676545]             C:\Windows\Fonts\times.ttf
+[02/25/22 @ 20:13:49.677545]             C:\Windows\Fonts\timesbd.ttf
+[02/25/22 @ 20:13:49.690549]         chrome.exe
+[02/25/22 @ 20:13:49.744561]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\resources.pak
+[02/25/22 @ 20:13:49.745561]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_100_percent.pak
+[02/25/22 @ 20:13:49.746561]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Session Storage\000005.ldb
+[02/25/22 @ 20:13:49.747561]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\002150.ldb
+[02/25/22 @ 20:13:49.747561]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\LOG
+[02/25/22 @ 20:13:49.748561]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\006491.log
+[02/25/22 @ 20:13:49.749562]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\003062.ldb
+[02/25/22 @ 20:13:49.750562]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Session Storage\MANIFEST-000001
+[02/25/22 @ 20:13:49.751562]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Session Storage\001031.log
+[02/25/22 @ 20:13:49.752562]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Session Storage\MANIFEST-000001
+[02/25/22 @ 20:13:49.753563]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\006492.ldb
+[02/25/22 @ 20:13:49.753563]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\002148.ldb
+[02/25/22 @ 20:13:49.754562]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\v8_context_snapshot.bin
+[02/25/22 @ 20:13:49.755563]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\LOG
+[02/25/22 @ 20:13:49.773567]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\MANIFEST-000001
+[02/25/22 @ 20:13:49.774567]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\008063.ldb
+[02/25/22 @ 20:13:49.775568]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Session Storage\000456.ldb
+[02/25/22 @ 20:13:49.776568]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Session Storage\000454.ldb
+[02/25/22 @ 20:13:49.776568]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\008065.log
+[02/25/22 @ 20:13:49.777568]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\006486.ldb
+[02/25/22 @ 20:13:49.778568]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_200_percent.pak
+[02/25/22 @ 20:13:49.779569]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Session Storage\LOG
+[02/25/22 @ 20:13:49.780568]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\006109.ldb
+[02/25/22 @ 20:13:49.781569]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\006483.ldb
+[02/25/22 @ 20:13:49.781569]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\008062.ldb
+[02/25/22 @ 20:13:49.789570]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Session Storage\000005.ldb
+[02/25/22 @ 20:13:49.790571]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\008060.ldb
+[02/25/22 @ 20:13:49.791572]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\003063.ldb
+[02/25/22 @ 20:13:49.792571]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\Locales\en-US.pak
+[02/25/22 @ 20:13:49.793572]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\006487.ldb
+[02/25/22 @ 20:13:49.794572]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Session Storage\LOG
+[02/25/22 @ 20:13:49.795572]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\008066.ldb
+[02/25/22 @ 20:13:49.795572]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\006489.ldb
+[02/25/22 @ 20:13:49.796572]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Session Storage\001033.ldb
+[02/25/22 @ 20:13:49.797573]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\MANIFEST-000001
+[02/25/22 @ 20:13:49.805575]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:49.807575]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\002152.ldb
+[02/25/22 @ 20:13:49.808576]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Session Storage\000456.log
+[02/25/22 @ 20:13:49.809578]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Local Storage\leveldb\006485.ldb
+[02/25/22 @ 20:13:49.826579]         gjagent.exe
+[02/25/22 @ 20:13:49.880592]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+[02/25/22 @ 20:13:49.881591]             C:\Users\Bodell\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+[02/25/22 @ 20:13:49.882592]             C:\Users\Bodell\AppData\Local\Gaijin\Program Files (x86)\NetAgent\.gjupdater_log\2022_02_25_19_24_22_31544.txt
+[02/25/22 @ 20:13:49.883593]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:49.893594]         Win32Bridge.Server.exe
+[02/25/22 @ 20:13:49.947606]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:49.967611]         chrome.exe
+[02/25/22 @ 20:13:50.025624]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\Locales\en-US.pak
+[02/25/22 @ 20:13:50.026625]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\resources.pak
+[02/25/22 @ 20:13:50.027624]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_200_percent.pak
+[02/25/22 @ 20:13:50.028625]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\34\9.33.0\Ruleset Data
+[02/25/22 @ 20:13:50.029625]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_100_percent.pak
+[02/25/22 @ 20:13:50.030625]             C:\Users\Bodell\AppData\Local\Temp\6000e741-af42-4fec-90eb-6db860bdb400.tmp
+[02/25/22 @ 20:13:50.031626]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:50.032626]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\v8_context_snapshot.bin
+[02/25/22 @ 20:13:50.060632]         svchost.exe
+[02/25/22 @ 20:13:50.066634]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:50.074635]         atom.exe
+[02/25/22 @ 20:13:50.172657]             C:\Users\Bodell\AppData\Roaming\Atom\Dictionaries\en-US-9-0.bdic
+[02/25/22 @ 20:13:50.173657]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\LOCK
+[02/25/22 @ 20:13:50.174658]             C:\Users\Bodell\AppData\Roaming\Atom\GPUCache\data_0
+[02/25/22 @ 20:13:50.175658]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\MANIFEST-000001
+[02/25/22 @ 20:13:50.175658]             C:\Users\Bodell\AppData\Roaming\Atom\QuotaManager
+[02/25/22 @ 20:13:50.176658]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\LOCK
+[02/25/22 @ 20:13:50.177659]             C:\Users\Bodell\AppData\Roaming\Atom\GPUCache\index
+[02/25/22 @ 20:13:50.178659]             C:\Users\Bodell\AppData\Roaming\Atom\GPUCache\data_3
+[02/25/22 @ 20:13:50.179659]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:50.180659]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\000046.log
+[02/25/22 @ 20:13:50.181659]             C:\Windows\System32\en-US\user32.dll.mui
+[02/25/22 @ 20:13:50.182660]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\002240.ldb
+[02/25/22 @ 20:13:50.186661]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources\app.asar
+[02/25/22 @ 20:13:50.187661]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\LOG
+[02/25/22 @ 20:13:50.188662]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\icudtl.dat
+[02/25/22 @ 20:13:50.188662]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\002239.log
+[02/25/22 @ 20:13:50.189661]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:50.190662]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_200_percent.pak
+[02/25/22 @ 20:13:50.191662]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\resources.pak
+[02/25/22 @ 20:13:50.192662]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\LOG
+[02/25/22 @ 20:13:50.193662]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\chrome_100_percent.pak
+[02/25/22 @ 20:13:50.194663]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\000041.ldb
+[02/25/22 @ 20:13:50.194663]             C:\Users\Bodell\AppData\Roaming\Atom\GPUCache\data_2
+[02/25/22 @ 20:13:50.195663]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\000044.ldb
+[02/25/22 @ 20:13:50.196663]             C:\Users\Bodell\AppData\Roaming\Atom\databases\Databases.db
+[02/25/22 @ 20:13:50.197664]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\000047.ldb
+[02/25/22 @ 20:13:50.200664]             C:\Windows\Fonts\segoeui.ttf
+[02/25/22 @ 20:13:50.211666]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\MANIFEST-000001
+[02/25/22 @ 20:13:50.212667]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\v8_context_snapshot.bin
+[02/25/22 @ 20:13:50.213667]             C:\Users\Bodell\AppData\Local\atom\app-1.59.0\locales\en-US.pak
+[02/25/22 @ 20:13:50.221670]             C:\Users\Bodell\AppData\Roaming\Atom\IndexedDB\file__0.indexeddb.leveldb\002238.ldb
+[02/25/22 @ 20:13:50.222669]             C:\Users\Bodell\AppData\Roaming\Atom\QuotaManager-journal
+[02/25/22 @ 20:13:50.223669]             C:\Users\Bodell\AppData\Roaming\Atom\Local Storage\leveldb\000005.ldb
+[02/25/22 @ 20:13:50.223669]             C:\Users\Bodell\AppData\Roaming\Atom\GPUCache\data_1
+[02/25/22 @ 20:13:50.240673]         fontdrvhost.exe
+[02/25/22 @ 20:13:50.246674]         Access to process fontdrvhost.exe is denied.
+[02/25/22 @ 20:13:50.262678]         RuntimeBroker.exe
+[02/25/22 @ 20:13:50.330693]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:50.331694]             C:\Windows\System32\en-US\mpr.dll.mui
+[02/25/22 @ 20:13:50.332694]             C:\Windows\System32\en-US\shell32.dll.mui
+[02/25/22 @ 20:13:50.333694]             C:\Windows\System32\en-US\windows.storage.dll.mui
+[02/25/22 @ 20:13:50.333694]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:50.348698]         chrome.exe
+[02/25/22 @ 20:13:50.420714]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\resources.pak
+[02/25/22 @ 20:13:50.420714]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_100_percent.pak
+[02/25/22 @ 20:13:50.422715]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Cache\Cache_Data\data_4
+[02/25/22 @ 20:13:50.423715]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Network\Reporting and NEL
+[02/25/22 @ 20:13:50.424715]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Network\Trust Tokens
+[02/25/22 @ 20:13:50.425716]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Cache\Cache_Data\data_1
+[02/25/22 @ 20:13:50.426716]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Cache\Cache_Data\index
+[02/25/22 @ 20:13:50.427716]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Network\Trust Tokens
+[02/25/22 @ 20:13:50.428716]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Cache\Cache_Data\index
+[02/25/22 @ 20:13:50.429716]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Cache\Cache_Data\data_3
+[02/25/22 @ 20:13:50.430716]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Cache\Cache_Data\data_0
+[02/25/22 @ 20:13:50.431717]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Cache\Cache_Data\data_1
+[02/25/22 @ 20:13:50.432717]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\v8_context_snapshot.bin
+[02/25/22 @ 20:13:50.433717]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Network\Cookies
+[02/25/22 @ 20:13:50.434718]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Network\Reporting and NEL-journal
+[02/25/22 @ 20:13:50.434718]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Network\Cookies-journal
+[02/25/22 @ 20:13:50.435718]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_200_percent.pak
+[02/25/22 @ 20:13:50.436718]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Network\Reporting and NEL-journal
+[02/25/22 @ 20:13:50.437718]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Network\Cookies
+[02/25/22 @ 20:13:50.443721]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Cache\Cache_Data\data_0
+[02/25/22 @ 20:13:50.444720]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Cache\Cache_Data\data_2
+[02/25/22 @ 20:13:50.445720]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Cache\Cache_Data\data_2
+[02/25/22 @ 20:13:50.446720]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Network\Cookies-journal
+[02/25/22 @ 20:13:50.447721]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\Locales\en-US.pak
+[02/25/22 @ 20:13:50.448720]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Network\Reporting and NEL
+[02/25/22 @ 20:13:50.449721]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 2\Safe Browsing Network\Safe Browsing Cookies
+[02/25/22 @ 20:13:50.449721]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:50.450721]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Cache\Cache_Data\data_3
+[02/25/22 @ 20:13:50.451721]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Profile 3\Safe Browsing Network\Safe Browsing Cookies
+[02/25/22 @ 20:13:50.466724]         svchost.exe
+[02/25/22 @ 20:13:50.474727]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:50.490729]         Discord.exe
+[02/25/22 @ 20:13:50.638764]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\resources.pak
+[02/25/22 @ 20:13:50.639764]             C:\Windows\Fonts\msyh.ttc
+[02/25/22 @ 20:13:50.640764]             C:\Windows\Fonts\tahoma.ttf
+[02/25/22 @ 20:13:50.641764]             C:\Windows\Fonts\seguisym.ttf
+[02/25/22 @ 20:13:50.641764]             C:\Windows\Fonts\ARIALNI.TTF
+[02/25/22 @ 20:13:50.642764]             C:\Windows\Fonts\consolai.ttf
+[02/25/22 @ 20:13:50.643765]             C:\Windows\Fonts\courbi.ttf
+[02/25/22 @ 20:13:50.644764]             C:\Windows\Fonts\pala.ttf
+[02/25/22 @ 20:13:50.645765]             C:\Windows\Fonts\lucon.ttf
+[02/25/22 @ 20:13:50.649766]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\v8_context_snapshot.bin
+[02/25/22 @ 20:13:50.650766]             C:\Windows\Fonts\YuGothB.ttc
+[02/25/22 @ 20:13:50.651766]             C:\Windows\Fonts\timesbi.ttf
+[02/25/22 @ 20:13:50.651766]             C:\Windows\Fonts\ARIALNB.TTF
+[02/25/22 @ 20:13:50.652767]             C:\Windows\Fonts\LTYPEB.TTF
+[02/25/22 @ 20:13:50.653767]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:50.654767]             C:\Windows\Fonts\cambria.ttc
+[02/25/22 @ 20:13:50.655767]             C:\Windows\Fonts\ARIALNBI.TTF
+[02/25/22 @ 20:13:50.656767]             C:\Windows\Fonts\consolaz.ttf
+[02/25/22 @ 20:13:50.657768]             C:\Windows\Fonts\consola.ttf
+[02/25/22 @ 20:13:50.657768]             C:\Windows\Fonts\arial.ttf
+[02/25/22 @ 20:13:50.658768]             C:\Windows\Fonts\palai.ttf
+[02/25/22 @ 20:13:50.659768]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:50.660770]             C:\Windows\Fonts\YuGothM.ttc
+[02/25/22 @ 20:13:50.675772]             C:\Windows\Fonts\arialbd.ttf
+[02/25/22 @ 20:13:50.676772]             C:\Windows\Fonts\micross.ttf
+[02/25/22 @ 20:13:50.677772]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\modules\discord_desktop_core-1\discord_desktop_core\core.asar
+[02/25/22 @ 20:13:50.686774]             C:\Windows\Fonts\LTYPE.TTF
+[02/25/22 @ 20:13:50.687775]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:50.688775]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\locales\en-US.pak
+[02/25/22 @ 20:13:50.689775]             C:\Windows\Fonts\YuGothR.ttc
+[02/25/22 @ 20:13:50.690775]             C:\Windows\System32\en-US\MFC42.dll.mui
+[02/25/22 @ 20:13:50.690775]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\icudtl.dat
+[02/25/22 @ 20:13:50.692775]             C:\Windows\Fonts\YuGothL.ttc
+[02/25/22 @ 20:13:50.693776]             C:\Windows\Fonts\times.ttf
+[02/25/22 @ 20:13:50.694776]             C:\Windows\Fonts\timesbd.ttf
+[02/25/22 @ 20:13:50.702777]             C:\Windows\Fonts\simsun.ttc
+[02/25/22 @ 20:13:50.704779]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:50.705779]             C:\Windows\Fonts\palab.ttf
+[02/25/22 @ 20:13:50.706779]             C:\Windows\Fonts\courbd.ttf
+[02/25/22 @ 20:13:50.707780]             C:\Windows\Fonts\ARIALN.TTF
+[02/25/22 @ 20:13:50.708780]             C:\Windows\Fonts\ARIALUNI.TTF
+[02/25/22 @ 20:13:50.709780]             C:\Users\Bodell\AppData\Local\Temp\83cb4a15-af87-4058-bd14-c034265fc084.tmp
+[02/25/22 @ 20:13:50.722782]             C:\Windows\Fonts\msyhl.ttc
+[02/25/22 @ 20:13:50.723783]             C:\Windows\Fonts\msgothic.ttc
+[02/25/22 @ 20:13:50.724783]             C:\Windows\Fonts\ariali.ttf
+[02/25/22 @ 20:13:50.725783]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_200_percent.pak
+[02/25/22 @ 20:13:50.727784]             C:\Windows\System32\en-US\MMDevAPI.dll.mui
+[02/25/22 @ 20:13:50.728784]             C:\Windows\Fonts\cour.ttf
+[02/25/22 @ 20:13:50.729784]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\chrome_100_percent.pak
+[02/25/22 @ 20:13:50.730784]             C:\Windows\Fonts\ariblk.ttf
+[02/25/22 @ 20:13:50.731784]             C:\Windows\Fonts\LTYPEBO.TTF
+[02/25/22 @ 20:13:50.732785]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\modules\discord_dispatch-1\discord_dispatch\dispatch.log
+[02/25/22 @ 20:13:50.733785]             C:\Windows\Fonts\palabi.ttf
+[02/25/22 @ 20:13:50.734785]             C:\Windows\Fonts\tahomabd.ttf
+[02/25/22 @ 20:13:50.735785]             C:\Windows\Fonts\LTYPEO.TTF
+[02/25/22 @ 20:13:50.736785]             C:\Windows\Fonts\seguiemj.ttf
+[02/25/22 @ 20:13:50.737785]             C:\Windows\Fonts\consolab.ttf
+[02/25/22 @ 20:13:50.738786]             C:\Windows\Fonts\couri.ttf
+[02/25/22 @ 20:13:50.739786]             C:\Windows\Fonts\arialbi.ttf
+[02/25/22 @ 20:13:50.740786]             C:\Windows\Fonts\l_10646.ttf
+[02/25/22 @ 20:13:50.741786]             C:\Windows\Fonts\timesi.ttf
+[02/25/22 @ 20:13:50.751789]             C:\Windows\Fonts\msyhbd.ttc
+[02/25/22 @ 20:13:50.777795]         RuntimeBroker.exe
+[02/25/22 @ 20:13:50.844810]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:50.845810]             C:\Windows\System32\en-US\crypt32.dll.mui
+[02/25/22 @ 20:13:50.846810]             C:\Windows\Fonts\StaticCache.dat
+[02/25/22 @ 20:13:50.847811]             C:\Windows\System32\en-US\KernelBase.dll.mui
+[02/25/22 @ 20:13:50.848811]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:50.849813]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:50.861814]         chrome.exe
+[02/25/22 @ 20:13:50.933830]             C:\Windows\Fonts\tahoma.ttf
+[02/25/22 @ 20:13:50.934831]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\resources.pak
+[02/25/22 @ 20:13:50.935831]             C:\Windows\Fonts\ARIALNI.TTF
+[02/25/22 @ 20:13:50.936831]             C:\Windows\Fonts\verdanaz.ttf
+[02/25/22 @ 20:13:50.937832]             C:\Windows\Fonts\consolai.ttf
+[02/25/22 @ 20:13:50.938831]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_100_percent.pak
+[02/25/22 @ 20:13:50.938831]             C:\Windows\Fonts\timesbi.ttf
+[02/25/22 @ 20:13:50.939831]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\hyphen-data\101.0.4910.0\hyph-en-us.hyb
+[02/25/22 @ 20:13:50.940832]             C:\Windows\Fonts\ARIALNB.TTF
+[02/25/22 @ 20:13:50.941832]             C:\Windows\Fonts\cambria.ttc
+[02/25/22 @ 20:13:50.943833]             C:\Windows\Fonts\ARIALNBI.TTF
+[02/25/22 @ 20:13:50.944833]             C:\Users\Bodell\AppData\Local\Temp\125949a8-f288-4a2e-b5c7-0724610f1050.tmp
+[02/25/22 @ 20:13:50.945833]             C:\Windows\Fonts\consolaz.ttf
+[02/25/22 @ 20:13:50.949836]             C:\Windows\Fonts\consola.ttf
+[02/25/22 @ 20:13:50.951835]             C:\Windows\Fonts\arial.ttf
+[02/25/22 @ 20:13:50.952835]             C:\Windows\Fonts\arialbd.ttf
+[02/25/22 @ 20:13:50.953835]             C:\Windows\Fonts\trebucbi.ttf
+[02/25/22 @ 20:13:50.954836]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\OptimizationGuidePredictionModels\OPTIMIZATION_TARGET_LANGUAGE_DETECTION_2202022222\model.tflite
+[02/25/22 @ 20:13:50.955835]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\v8_context_snapshot.bin
+[02/25/22 @ 20:13:50.956835]             C:\Windows\Fonts\verdanai.ttf
+[02/25/22 @ 20:13:50.957836]             C:\Windows\Fonts\trebuc.ttf
+[02/25/22 @ 20:13:50.958836]             C:\Windows\Fonts\trebucbd.ttf
+[02/25/22 @ 20:13:50.959838]             C:\Windows\Fonts\timesbd.ttf
+[02/25/22 @ 20:13:50.960837]             C:\Windows\Fonts\times.ttf
+[02/25/22 @ 20:13:50.974840]             C:\Windows\Fonts\verdanab.ttf
+[02/25/22 @ 20:13:50.975840]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\chrome_200_percent.pak
+[02/25/22 @ 20:13:50.976841]             C:\Windows\Fonts\ARIALN.TTF
+[02/25/22 @ 20:13:50.977841]             C:\Windows\Fonts\ariali.ttf
+[02/25/22 @ 20:13:50.978841]             C:\Windows\Fonts\ariblk.ttf
+[02/25/22 @ 20:13:50.987843]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\Locales\en-US.pak
+[02/25/22 @ 20:13:50.987843]             C:\Users\Bodell\AppData\Local\Google\Chrome\User Data\Subresource Filter\Indexed Rules\34\9.33.0\Ruleset Data
+[02/25/22 @ 20:13:50.988843]             C:\Windows\Fonts\tahomabd.ttf
+[02/25/22 @ 20:13:50.989843]             C:\Windows\Fonts\seguiemj.ttf
+[02/25/22 @ 20:13:50.990844]             C:\Windows\Fonts\consolab.ttf
+[02/25/22 @ 20:13:50.991844]             C:\Windows\Fonts\arialbi.ttf
+[02/25/22 @ 20:13:50.992844]             C:\Program Files (x86)\Google\Chrome\Application\98.0.4758.102\icudtl.dat
+[02/25/22 @ 20:13:50.993845]             C:\Windows\Fonts\trebucit.ttf
+[02/25/22 @ 20:13:50.994844]             C:\Windows\Fonts\verdana.ttf
+[02/25/22 @ 20:13:50.995844]             C:\Windows\Fonts\timesi.ttf
+[02/25/22 @ 20:13:51.008847]         Discord.exe
+[02/25/22 @ 20:13:51.102870]             C:\Users\Bodell\AppData\Local\Discord\app-1.0.9004\icudtl.dat
+[02/25/22 @ 20:13:51.102870]             C:\Windows\System32\en-US\mswsock.dll.mui
+[02/25/22 @ 20:13:51.103870]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:51.114873]         jusched.exe
+[02/25/22 @ 20:13:51.167885]             C:\Windows\System32\en-US\propsys.dll.mui
+[02/25/22 @ 20:13:51.168885]             C:\Windows\Registration\R000000000001.clb
+[02/25/22 @ 20:13:51.192890]         csrss.exe
+[02/25/22 @ 20:13:51.199892]         Access to process csrss.exe is denied.
+[02/25/22 @ 20:13:51.211894]         svchost.exe
+[02/25/22 @ 20:13:51.222897]         Access to process svchost.exe is denied.
+[02/25/22 @ 20:13:51.223898]     Search complete.
+[02/25/22 @ 20:13:51.224898]  
+[02/25/22 @ 20:13:51.224898]  
+[02/25/22 @ 20:13:51.225898]  
+[02/25/22 @ 20:13:51.226900]     Checking used system files ...
+[02/25/22 @ 20:13:51.227899]         SYSTEM FILE: C:\\Windows\\System32\\en-US\\KernelBase.dll.mui
+[02/25/22 @ 20:13:51.228898]         SYSTEM FILE: C:\\Windows\\System32\\en-US\\KernelBase.dll.mui
+[02/25/22 @ 20:13:51.229899]         SYSTEM FILE: C:\\Windows\\System32\\en-US\\kernel32.dll.mui
+[02/25/22 @ 20:13:51.230898]         SYSTEM FILE: C:\\Windows\\System32\\en-US\\cmd.exe.mui
+[02/25/22 @ 20:13:51.231901] [38;2;0;255;0m[40mDIAGNOSTIC COMPLETE(B[m
+[02/25/22 @ 20:13:51.237900] [38;2;0;255;0m[40m    No non-system files detected.(B[m
