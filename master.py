@@ -17,6 +17,10 @@ import internalUtilities as utils
 import commandLineInterface as cli
 from commandLineInterface import term
 
+sys.path.insert(1, __file__[:-10] + "/intelligence")
+
+import keeneyed5 as intelligence
+
 cli.resetCLI()
 
 cli.display("Keeneyed-5 artificial general intelligence system loaded.")
@@ -101,6 +105,10 @@ while True:
 					pass
 				else:
 					pass
+
+			elif carg[1] in ["ai", "agi", "intelligence"]:
+				cli.display("Running intelligence ...")
+				cli.display(" -> Initiating main subroutines ...")
 
 			else: # run
 				cli.display(term.red_on_black("Unknown program \"" + carg[1] + "\"."))

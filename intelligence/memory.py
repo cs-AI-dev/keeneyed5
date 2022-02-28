@@ -7,7 +7,6 @@ def parseMemoryCache(num):
     if num > 9 or num < 0:
         raise InvalidMemoryCache
 
-
 class remember:
     def longterm(day, year, month):
         returnedMemories = []
@@ -24,3 +23,6 @@ class remember:
         for filename in os.listdir(__file__[:-3] + "/shortterm/"):
             fdir = os.path.join(__file__[:-3] + "/memory/shortterm", filename)
             if os.path.isfile(fdir):
+                pass
+
+class postto
