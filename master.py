@@ -110,6 +110,10 @@ while True:
 				cli.display("Running intelligence ...")
 				cli.display(" -> Initiating main subroutines ...")
 
+			elif carg[1] in ["srt", "sr", "subroutine"]:
+				if carg[2] == "1":
+					intelligence.subroutine.srt_01()
+
 			else: # run
 				cli.display(term.red_on_black("Unknown program \"" + carg[1] + "\"."))
 
