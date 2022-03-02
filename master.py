@@ -113,6 +113,13 @@ while True:
 			elif carg[1] in ["srt", "sr", "subroutine"]:
 				if carg[2] == "1":
 					intelligence.subroutine.srt_01()
+				elif carg[2] == "2":
+					intelligence.subroutine.srt_02()
+				elif carg[2] == "3":
+					if len(carg) == 3:
+						intelligence.subroutine.srt_03()
+					else:
+						intelligence.subroutine.srt_03(int(carg[3]), int(carg[4]), int(carg[5]))
 
 			else: # run
 				cli.display(term.red_on_black("Unknown program \"" + carg[1] + "\"."))

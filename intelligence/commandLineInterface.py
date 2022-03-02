@@ -1,6 +1,7 @@
 import blessed
 import internalUtilities as utils
 import datetime
+import os
 
 term = blessed.Terminal()
 
@@ -9,6 +10,7 @@ xindex = 4
 def resetCLI():
     global xindex
 
+    os.system("cls")
     print(term.center("┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓"))
     print(term.center("┃ KEENEYED-5 ARTIFICIAL GENERAL INTELLIGENCE SYSTEM ┃"))
     print(term.center("┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛"))

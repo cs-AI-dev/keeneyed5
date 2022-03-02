@@ -1,5 +1,6 @@
 import os
 import datetime
+import re
 
 memory_strength = 20
 
@@ -61,7 +62,7 @@ class record:
 
 class longterm:
     def record(day, month, year, *data):
-        with open(__file__[:-3] + "/longterm/" + "d" + str(day) + "m" + str(month) + "y" + str(year), "a") as f:
+        with open(__file__[:-3] + "/longterm/" + "d" + str(day) + "m" + str(month) + "y" + str(year), "a" + ".ke5") as f:
             for datum in data:
                 f.write("\n" + breaksentinel + datum)
         return True
@@ -75,7 +76,7 @@ class longterm:
                     for data in f.read().split(breaksentinel)[1:]:
                         for datum in data.split(splitsentinel):
                             if datum in terms:
-                                out.append((, data))
+                                out.append((re.split("\\ |/", fdir)[-1].split(".")[0].split("_"), data))
         return out
 
 class shortterm:
