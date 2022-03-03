@@ -32,7 +32,13 @@ def add(name, element):
 		return True
 	except Exception as e:
 		return e
-	
+
 def assembleGUI():
 	add("titleLbl", Label(window, text="Keeneyed-5 Artificial General Intelligence System", bg=gui.bg, fg=gui.fg, font=gui.font(48)))
-	add("messages")
+	elements["titleLbl"].grid(row=1, column=1, columnspan=3)
+	add("right", Frame(window, bg=gui.bg))
+	elements["right"].grid(row=2, column=1, columnspan=1)
+	add("left", Frame(window, bg=gui.bg))
+	elements["left"].grid(row=2, column=3, columnspan=1)
+	add("center", Frame(window, bg=gui.bg))
+	elements["center"].grid(row=2, column=2, columnspan=1)
