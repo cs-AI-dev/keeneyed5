@@ -9,14 +9,14 @@ xindex = 4
 def resetCLI():
     global xindex
 
-    print(term.center("┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓"))
-    print(term.center("┃ KEENEYED-5 ARTIFICIAL GENERAL INTELLIGENCE SYSTEM ┃"))
-    print(term.center("┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛"))
-    print("━┳" + utils.listtostring(["━" for x in range(term.width - 4)]) + "┳━")
-    [print(" ┃" + utils.listtostring([" " for x in range(term.width - 4)]) + "┃ ") for x in range(term.height - 8)]
-    print(" ┣" + utils.listtostring(["━" for x in range(term.width - 4)]) + "┫ ")
-    print(" ┃" + utils.listtostring([" " for x in range(term.width - 4)]) + "┃ ")
-    print(" ┗" + utils.listtostring(["━" for x in range(term.width - 4)]) + "┛ ")
+    print(term.white_on_black(term.center("┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓")))
+    print(term.white_on_black(term.center("┃ KEENEYED-5 ARTIFICIAL GENERAL INTELLIGENCE SYSTEM ┃")))
+    print(term.white_on_black(term.center("┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛")))
+    print(term.white_on_black("━┳" + utils.listtostring(["━" for x in range(term.width - 4)]) + "┳━"))
+    [print(term.white_on_black(" ┃" + utils.listtostring([" " for x in range(term.width - 4)]) + "┃ ")) for x in range(term.height - 8)]
+    print(term.white_on_black("━╋" + utils.listtostring(["━" for x in range(term.width - 4)]) + "╋━"))
+    print(term.white_on_black(" ┃" + utils.listtostring([" " for x in range(term.width - 4)]) + "┃ "))
+    print(term.white_on_black("━┻" + utils.listtostring(["━" for x in range(term.width - 4)]) + "┻━"))
     xindex = 4
 
 def display(txt):

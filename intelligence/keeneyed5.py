@@ -4,6 +4,7 @@ import sys
 import memory as mem
 import subroutine
 import commandLineInterface as cli
+import soul
 
 cli.display("[KE5:RT] Connecting subroutine driver to CLI ...")
 subroutine.connectCLI(cli)
@@ -17,7 +18,7 @@ def acceptInput(inp):
 
 def initialize():
 	global shorttermMemorySystem
-	
+
 	cli.display("[KE5:RT:INIT] Starting up Keeneyed-5 artificial general intelligence system ...\n")
 	cli.display("    Checking short-term memory subsystem ...")
 	shorttermMemorySystem = subroutine.srt_01()
@@ -56,8 +57,6 @@ def initialize():
 					return 0
 	else:
 		cli.display("    Short-term memory subsystem intact and functional. Continuing ...")
-	
+
 	cli.display("    Creating long-term memory cache ...")
 	subroutine.srt_03()
-	
-	

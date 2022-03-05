@@ -51,16 +51,16 @@ def assembleGUI():
 	elements["left"].grid(row=2, column=3, columnspan=1)
 	add("center", Frame(window, bg=gui.bg))
 	elements["center"].grid(row=2, column=2, columnspan=1)
-	
+
 	add("interface", Label(center, text="", bg=gui.bg, fg=gui.fg, font=gui.font(12), height=80, width=150))
 	elements["interface"].grid(row=1, column=1, columnspan=3)
 	add("datainput", Entry(center, text="", bg=gui.bg, fg=gui.fg, font=gui.font(12), height=20, width=100))
 	elements["datainput"].grid(row=2, column=1, columnspan=1)
 	add("sendbutton", Button(center, text="INPUT DATA", bg="lime", fg="black", font=gui.font(18), height=20, width=20, command=sendData))
 	elements["sendbutton"].grid(row=2, column=2, columnspan=1)
-	add("terminateconnectionbutton"), Button(center, text="TERMINATE CONNECTION", bg="red", fg="black", height=20, width=30, command=terminateConnection))
+	add("terminateconnectionbutton", Button(center, text="TERMINATE CONNECTION", bg="red", fg="black", height=20, width=30, command=terminateConnection))
 
-	
+
 def startConnection():
 	assembleGUI()
 	window.mainloop()

@@ -48,7 +48,7 @@ while True:
 							try:
 								cli.display("        " + str(proc.name).split("name=\'")[1].split("\'")[0])
 								for file in proc.open_files():
-									cli.display("            " + str(file.path))
+									cli.display(term.lime_on_black("            " + str(file.path)))
 								if str(proc.name).split("name=\'")[1].split("\'")[0] in ["cmd.exe", "py.exe", "python.exe"]:
 									try:
 										for file in proc.open_files():
@@ -60,7 +60,7 @@ while True:
 										display(term.yellow_on_black("         usage of the Keeneyed-5 system."))
 
 							except psutil.AccessDenied:
-								cli.display("        Access to process " + str(proc.name).split("name=\'")[1].split("\'")[0] + " is denied.")
+								cli.display(term.red_on_black("        Access to process " + str(proc.name).split("name=\'")[1].split("\'")[0] + " is denied."))
 								continue
 						cli.display("    Search complete.")
 						[cli.display(" ") for x in range(3)]
@@ -68,9 +68,9 @@ while True:
 						nonSystemFilesPresent = False
 						for file in targetProcessOpenFiles:
 							if str(file).split("path=\'")[1].split("\', fd=")[0].split("\\\\")[2] == "System32" or str(file).split("path=\'")[1].split("\', fd=")[0].split("\\\\")[3] == ".ipython":
-								cli.display("        SYSTEM FILE: " + str(file).split("path=\'")[1].split("\', fd=")[0])
+								cli.display("        " + term.lime_on_black("[   SYSTEM FILE   ]") + " " + str(file).split("path=\'")[1].split("\', fd=")[0])
 							else:
-								cli.display("        NON-SYSTEM FILE: " + str(file).split("path=\'")[1].split("\', fd=")[0])
+								cli.display("        " + term.red_on_black("[ NON-SYSTEM FILE ]") + " " + str(file).split("path=\'")[1].split("\', fd=")[0])
 								nonSystemFilesPresent = True
 						if nonSystemFilesPresent:
 							cli.display(term.lime_on_black("DIAGNOSTIC COMPLETE"))
@@ -107,8 +107,7 @@ while True:
 					pass
 
 			elif carg[1] in ["ai", "agi", "intelligence"]:
-				cli.display("Running intelligence ...")
-				cli.display(" -> Initiating main subroutines ...")
+				intelligence.initialize()
 
 			elif carg[1] in ["srt", "sr", "subroutine"]:
 				if carg[2] == "1":
