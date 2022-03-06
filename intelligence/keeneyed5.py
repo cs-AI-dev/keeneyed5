@@ -13,8 +13,8 @@ cli.display("[KE5:RT] Done.")
 shorttermMemorySystem = None
 
 def acceptInput(inp):
-    # Commit to short-term memory
-    pass
+	# Commit to short-term memory
+	pass
 
 def initialize():
 	global shorttermMemorySystem
@@ -60,3 +60,5 @@ def initialize():
 
 	cli.display("    Creating long-term memory cache ...")
 	subroutine.srt_03()
+	cli.display("    Assembling GUI ...")
+	soul.assembleGUI()
