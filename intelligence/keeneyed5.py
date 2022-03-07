@@ -61,4 +61,4 @@ def initialize():
 	cli.display("    Creating long-term memory cache ...")
 	subroutine.srt_03()
 	cli.display("    Assembling GUI ...")
-	soul.assembleGUI()
+	soul.assemble()
