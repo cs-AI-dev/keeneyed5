@@ -65,6 +65,8 @@ def assemble(intelligenceName):
 		memory.record.shortterm([x + "." for x in elements["datainput"].get().split(".")])
 		output = "..."
 		
+		ctxShort = memory.remember.shortterm(*[x for x in elements["datainput"].get().split(" ")])
+		ctxLong = memory.remember.longterm(*[x for x in elements["datainput"].get().split(" ")])
 		# KE5 process
 		
 		post(intelligenceName, output)
