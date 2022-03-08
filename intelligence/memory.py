@@ -17,7 +17,7 @@ def parseMemoryCache(num):
         raise InvalidMemoryCache
 
 class remember:
-    def longterm(day, month, year):
+    def longterm(day, month, year, *terms):
         out = []
         for filename in os.listdir(__file__[:-3] + "/longterm/"):
             fdir = os.path.join(__file__[:-3] + "/memory/longterm/", filename)
@@ -25,7 +25,11 @@ class remember:
                 if [int(x) for x in filename.split("_")][0] != str(day) or [int(x) for x in filename.split("_")][1] != str(month) or [int(x) for x in filename.split("_")][2] != str(year):
                     continue
                 with open(fdir, "r") as f:
-                    out.append(f.read())
+					for x in terms:
+						if x in f.read().split(""):
+                    		out.append(f.read())
+						else:
+							pass
         return out
 
     def shortterm(*terms):
@@ -100,16 +104,19 @@ class longterm:
                 f.write("\n" + breaksentinel + datum)
         return True
 
-    def remember(day, month, year):
+    def remember(day, month, year, *terms):
         out = []
         for filename in os.listdir(__file__[:-3] + "/longterm/"):
-            fdir = os.path.join(__file__[:-3] + "/memory/longterm", filename)
+            fdir = os.path.join(__file__[:-3] + "/memory/longterm/", filename)
             if os.path.isfile(fdir):
+                if [int(x) for x in filename.split("_")][0] != str(day) or [int(x) for x in filename.split("_")][1] != str(month) or [int(x) for x in filename.split("_")][2] != str(year):
+                    continue
                 with open(fdir, "r") as f:
-                    for data in f.read().split(breaksentinel)[1:]:
-                        for datum in data.split(splitsentinel):
-                            if datum in terms:
-                                out.append((re.split("\\ |/", fdir)[-1].split(".")[0].split("_"), data))
+					for x in terms:
+						if x in f.read().split(""):
+                    		out.append(f.read())
+						else:
+							pass
         return out
 
 class shortterm:
