@@ -77,7 +77,7 @@ Under only the circumstance that the Developers dictate You must and under no ot
 **Article 6.1.2**: No other licenses are granted to You or any third party except those described herein.  
 
 ### Section 6.2 - Termination
-**Article 6.2.1**: This EULA is terminated, revoking Your license to use the System's software, when You or any third party using Your instance of the System's software uses the System's software in a way which is in breach of any term of this EULA.  
+**Article 6.2.1**: This EULA is terminated, revoking Your license to use the System's software, when You or any third party using any software which You are licensed to use by this EULA uses the System's software in a way which is in breach of any term of this EULA.  
 **Article 6.2.2**: The Developers reserve the right to terminate this EULA and revoke Your license to use the System's software at any time and for any reason with written notice one day in advance.  
 **Article 6.2.3**: Should ths EULA be terminated for any reason, You agree to cause the Developers to receive all profit gained by You or any third party directly or indirectly from the usage of the System's software which was in breach of any term of this EULA. These profits must be received by the Developers in no more than 14 days subsequent to Your notice that this EULA was terminated.  
 **Article 6.2.4**: All articles described in Section 5 of this EULA shall survive indefinitely after the termination of this EULA.  
