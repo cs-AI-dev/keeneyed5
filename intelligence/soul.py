@@ -65,6 +65,11 @@ def assemble(intelligenceName):
 		memory.record.shortterm([x + "." for x in elements["datainput"].get().split(".")])
 		output = "..."
 		
+		memcheck = subroutine.srt_01()
+		for x in memcheck.all:
+			if not x:
+				subroutine.srt_02()
+				break
 		ctxShort = memory.remember.shortterm(*[x for x in elements["datainput"].get().split(" ")])
 		ctxLong = memory.remember.longterm(*[x for x in elements["datainput"].get().split(" ")])
 		# KE5 process
