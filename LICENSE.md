@@ -8,7 +8,7 @@ The following terms, when used anywhere in this end user license agreement, shal
 **Article 1.1**: "We", "Our", "Us", and "the Developers" shall all refer to the registered contributors to the development of the Keeneyed-5 artificial general intelligence system;  
 **Article 1.2**: "You" and "Your" shall both refer to the user, distributor, reseller, or any other person entering into this EULA who is in possession of the Keeneyed-5 artificial general intelligence system;  
 **Article 1.3**: "the System" shall refer to the Keeneyed-5 artificial general intelligence system's software in its entirety as well as any associated hardware or other software;  
-**Article 1.4**: "EULA agreement", "EULA", "License", and "Agreement" shall all refer to this end-user license agreement;
+**Article 1.4**: "EULA agreement", "EULA", "License", and "Agreement" shall all refer to this end-user license agreement;  
 **Article 1.5**: "Reseller" and "Distributor" shall both refer to sources of indirect reception of the Keeneyed-5 artificial general intelligence system's hardware or software components that have received written authorization from the Developers to resell and/or distribute the hardware or software components;  
 **Article 1.6**: "Singularity State" shall refer to any state of an entity created by or being simulated by this Keeneyed-5 artificial intelligence system's software components where the entity gains the ability to (but does not necessarily) modify its own program in ways which would a) trigger any and/or all Theseus limiter programs installed on the entity and/or b) allow the entity to perform or prevent the performance of a task which it was not originally capable of or designed to perform or prevent the performance of; and  
 **Article 1.7**: "Technological Singularity" and "Singularity" shall both refer to any entity created or being simulated by the Keeneyed-5 artificial general intelligence system's software components which has achieved at any point in time a Singularity State (see Article 1.6 of this agreement).  
@@ -26,6 +26,10 @@ The following terms, when used anywhere in this end user license agreement, shal
 ### Section 2.3 - Scope of This EULA
 **Article 2.3.1**: This EULA shall apply only to the System supplied by the Developers herewith regardless of whether other software is referred to or described herein.  
 **Article 2.3.2**: The terms also apply to any of the Developers' updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.  
+
+### Section 2.4 - Contributions to the System
+**Article 2.4.1**: The terms of this EULA apply to any and all updates made by the Developers or any authorized third parties who make contributions of whatever nature to the System's software components, regardless of the presence or absence of these updates or contributions on Your copy of the System's software.  
+**Article 2.4.2**: If You do not install an update or contribution to the System's software, You may not hold accountable the Developers or any third party for any damages caused by the absence of the update or contribution from Your copy of the System's software. For example, if You fail to install a security patch released by the Developers, You may not hold accountable or make claims against the Developers for any damages caused by the flaw in the System's software which was patched.  
 
 ## Section 3 - License Grant
 
