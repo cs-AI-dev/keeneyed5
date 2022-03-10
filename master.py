@@ -3,25 +3,29 @@
 
 # py E:/keeneyed5/master.py
 
+import os
+
 import sys
 import math
 import blessed
 import time
 import psutil
 
-from nltk.corpus import wordnet as wn
-from nltk.corpus import reader as corpusReader
-from nltk.corpus import brown as corpus_brown
-
 import internalUtilities as utils
 import commandLineInterface as cli
 from commandLineInterface import term
+
+from nltk.corpus import wordnet as wn
+from nltk.corpus import reader as corpusReader
+from nltk.corpus import brown as corpus_brown
 
 sys.path.insert(1, __file__[:-10] + "/intelligence")
 
 import keeneyed5 as intelligence
 
 cli.resetCLI()
+
+import packageinstall
 
 cli.display("Keeneyed-5 artificial general intelligence system loaded.")
 cli.display("Enter any command to begin.")
