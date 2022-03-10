@@ -100,50 +100,50 @@ def assemble(intelligenceName):
       			full.append(sent)
       			sent = []
     		elif word.endswith("."):
-				 print(word + " ends with period")
-				 sent.append(word[:-1])
-				 sent.append("KE5:PERIOD")
-				 full.append(sent)
-				 sent = []
+				print(word + " ends with period")
+				sent.append(word[:-1])
+				sent.append("KE5:PERIOD")
+				full.append(sent)
+				sent = []
     		elif word.endswith(","):
-				 print(word + " ends with comma")
-				 sent.append(word[:-1])
-				 sent.append("KE5:COMMA")
-				 full.append(sent)
-				 sent = []
+				print(word + " ends with comma")
+				sent.append(word[:-1])
+				sent.append("KE5:COMMA")
+				full.append(sent)
+				sent = []
     		elif word.endswith(";"):
-				  print(word + " ends with semicolon")
-				  sent.append(word[:-1])
-				  sent.append("KE5:SEMICOLON")
-				  full.append(sent)
-				  sent = []
+				print(word + " ends with semicolon")
+				sent.append(word[:-1])
+				sent.append("KE5:SEMICOLON")
+				full.append(sent)
+				sent = []
     		elif word.endswith(":"):
-				  print(word + " ends with colon")
-				  sent.append(word[:-1])
-				  sent.append("KE5:COLON")
-				  full.append(sent)
-				  sent = []
+				print(word + " ends with colon")
+				sent.append(word[:-1])
+				sent.append("KE5:COLON")
+				full.append(sent)
+				sent = []
 			elif word.endswith("?"):
-				  print(word + " ends with question")
-				  sent.append(word[:-1])
-				  sent.append("KE5:QUESTION_MARK")
-				  full.append(sent)
-				  sent = []
+				print(word + " ends with question")
+				sent.append(word[:-1])
+				sent.append("KE5:QUESTION_MARK")
+				full.append(sent)
+				sent = []
    			elif word.endswith("!"):
-				  print(word + " ends with exclamation")
-				  sent.append(word[:-1])
-				  sent.append("KE5:EXCLAMATION_MARK")
-				  full.append(sent)
-				  sent = []
+				print(word + " ends with exclamation")
+				sent.append(word[:-1])
+				sent.append("KE5:EXCLAMATION_MARK")
+				full.append(sent)
+				sent = []
     		elif word.endswith("?!") or word.endswith("!?"):
-				  print(word + " ends with interrobang")
-				  sent.append(word[:-2])
-				  sent.append("KE5:INTERROBANG")
-				  full.append(sent)
-				  sent = []
+				print(word + " ends with interrobang")
+				sent.append(word[:-2])
+				sent.append("KE5:INTERROBANG")
+				full.append(sent)
+				sent = []
    			else:
-				  print("appending raw " + word)
-				  sent.append(word)
+				print("appending raw " + word)
+				sent.append(word)
 		
 		for sent in [x.strip() for x in re.split("; |, |\. |\? |\! |\:", cin)]: # Split text into sentence entities through the punctuation
 		
