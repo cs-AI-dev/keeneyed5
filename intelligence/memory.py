@@ -2,8 +2,7 @@ import os
 import datetime
 import re
 import subroutine
-
-cli = subroutine.cli
+import commandLineInterface as cli
 
 memory_strength = 20
 
@@ -17,19 +16,16 @@ def parseMemoryCache(num):
 		raise InvalidMemoryCache
 
 class remember:
-	def longterm(day, month, year, *terms):
+	def longterm(*terms):
 		out = []
 		for filename in os.listdir(__file__[:-3] + "/longterm/"):
-			fdir = os.path.join(__file__[:-3] + "/memory/longterm/", filename)
+			fdir = os.path.join(__file__[:-3] + "/memory/shortterm", filename)
 			if os.path.isfile(fdir):
-				if [int(x) for x in filename.split("_")][0] != str(day) or [int(x) for x in filename.split("_")][1] != str(month) or [int(x) for x in filename.split("_")][2] != str(year):
-					continue
 				with open(fdir, "r") as f:
-					for x in terms:
-						if x in f.read().split(""):
-							out.append(f.read())
-						else:
-							pass
+					for data in f.read().split(breaksentinel):
+						for datum in data.split(splitsentinel):
+							if datum in terms:
+								out.append(data)
 		return out
 
 	def shortterm(*terms):
@@ -69,18 +65,18 @@ class record:
 					if not x:
 						cli.display(cli.term.red_on_black("    Continuous error detected in short-term memory subsystem. User intervention required."))
 						return 0
-		cli.display(term.lime_on_black("    Check complete, subsystem status is good."))
+		cli.display(cli.term.lime_on_black("    Check complete, subsystem status is good."))
 		cli.display("    Recording data ...")
 
 		cli.display("        Getting smallest short-term memory cache ...")
-		sizes = [os.path.getsize(__file__[:-3] + "/shortterm/memory_cache_" + str(x)) for x in range(10)]
+		sizes = [os.path.getsize(__file__[:-3] + "/shortterm/memory_cache_" + str(x) + ".ke5") for x in range(10)]
 		cachenum = str(min(sizes))
 		cli.display("        " + cli.term.lime_on_black("Done") + ", memory cache number is " + str(cachenum) + ".")
 
 		cli.display("        Posting data to cache ...")
 		with open(__file__[:-3] + "/shortterm/memory_cache_" + cachenum, "a") as f:
 			for datum in data:
-				f.write("\n" + breaksentinel + datum)
+				f.write("\n" + str(breaksentinel) + str(datum))
 		cli.display(cli.term.lime_on_black("        Data posted."))
 
 		cli.display("        Checking for memory drilling ...")

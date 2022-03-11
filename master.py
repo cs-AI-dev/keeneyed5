@@ -111,7 +111,10 @@ while True:
 					pass
 
 			elif carg[1] in ["ai", "agi", "intelligence"]:
-				intelligence.initialize()
+				if len(carg) == 2:
+					intelligence.initialize("Keeneyed-5")
+				else:
+					intelligence.initialize(carg[2])
 
 			elif carg[1] in ["srt", "sr", "subroutine"]:
 				if carg[2] == "1":

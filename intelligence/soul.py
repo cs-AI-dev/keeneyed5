@@ -20,8 +20,7 @@ import re
 
 import memory								 # Memory subsystem
 import subroutine							 # Subroutines
-
-cli = keeneyed5.cli
+import commandLineInterface as cli           # Command line interface
 
 class gui:
 	bg = "black"
@@ -82,44 +81,44 @@ def assemble(intelligenceName):
 
 		sent = []
 		full = [] # list of lists
-  		for word in cin.split(" "):
-    		if word.endswith("~"):
+		for word in cin.split(" "):
+			if word.endswith("~"):
 				cli.display("[KE5:NLP:PUNCT] " + word + " ends with tilde")
 				sent.append(word[:-1])
 				sent.append("KE5:TILDE")
 				full.append(sent)
 				sent = []
-    		elif word.endswith("..."):
+			elif word.endswith("..."):
 				cli.display("[KE5:NLP:PUNCT] " + word + " ends with triple ellipsis")
 				sent.append(word[:-3])
 				sent.append("KE5:ELLIPSIS:TRIPLE")
 				full.append(sent)
 				sent = []
-    		elif word.endswith(".."):
+			elif word.endswith(".."):
 				cli.display("[KE5:NLP:PUNCT] " + word + " ends with double ellipsis")
 				sent.append(word[:-2])
 				sent.append("KE5:ELLIPSIS:DOUBLE")
 				full.append(sent)
 				sent = []
-    		elif word.endswith("."):
+			elif word.endswith("."):
 				cli.display("[KE5:NLP:PUNCT] " + word + " ends with period")
 				sent.append(word[:-1])
 				sent.append("KE5:PERIOD")
 				full.append(sent)
 				sent = []
-    		elif word.endswith(","):
+			elif word.endswith(","):
 				cli.display("[KE5:NLP:PUNCT] " + word + " ends with comma")
 				sent.append(word[:-1])
 				sent.append("KE5:COMMA")
 				full.append(sent)
 				sent = []
-    		elif word.endswith(";"):
+			elif word.endswith(";"):
 				cli.display("[KE5:NLP:PUNCT] " + word + " ends with semicolon")
 				sent.append(word[:-1])
 				sent.append("KE5:SEMICOLON")
 				full.append(sent)
 				sent = []
-    		elif word.endswith(":"):
+			elif word.endswith(":"):
 				cli.display("[KE5:NLP:PUNCT] " + word + " ends with colon")
 				sent.append(word[:-1])
 				sent.append("KE5:COLON")
@@ -131,19 +130,19 @@ def assemble(intelligenceName):
 				sent.append("KE5:QUESTION_MARK")
 				full.append(sent)
 				sent = []
-   			elif word.endswith("!"):
+			elif word.endswith("!"):
 				cli.display("[KE5:NLP:PUNCT] " + word + " ends with exclamation")
 				sent.append(word[:-1])
 				sent.append("KE5:EXCLAMATION_MARK")
 				full.append(sent)
 				sent = []
-    		elif word.endswith("?!") or word.endswith("!?"):
+			elif word.endswith("?!") or word.endswith("!?"):
 				cli.display("[KE5:NLP:PUNCT] " + word + " ends with interrobang")
 				sent.append(word[:-2])
 				sent.append("KE5:INTERROBANG")
 				full.append(sent)
 				sent = []
-   			else:
+			else:
 				cli.display("[KE5:NLP:PUNCT] " + "appending raw " + word)
 				sent.append(word)
 

@@ -16,7 +16,7 @@ def acceptInput(inp):
 	# Commit to short-term memory
 	pass
 
-def initialize():
+def initialize(name):
 	global shorttermMemorySystem
 
 	cli.display("[KE5:RT:INIT] Starting up Keeneyed-5 artificial general intelligence system ...\n")
@@ -61,4 +61,4 @@ def initialize():
 	cli.display("    Creating long-term memory cache ...")
 	subroutine.srt_03()
 	cli.display("    Assembling GUI ...")
-	soul.assemble()
+	soul.assemble(name)
