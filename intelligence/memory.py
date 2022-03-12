@@ -74,7 +74,7 @@ class record:
 		cli.display("        " + cli.term.lime_on_black("Done") + ", memory cache number is " + str(cachenum) + ".")
 
 		cli.display("        Posting data to cache ...")
-		with open(__file__[:-3] + "/shortterm/memory_cache_" + cachenum, "a") as f:
+		with open(__file__[:-3] + "/shortterm/memory_cache_" + cachenum + ".ke5", "a") as f:
 			for datum in data:
 				f.write("\n" + str(breaksentinel) + str(datum))
 		cli.display(cli.term.lime_on_black("        Data posted."))
