@@ -67,7 +67,7 @@ def assemble(intelligenceName):
 		cin = elements["datainput"].get()
 
 		post("USER", cin)
-		memory.record.shortterm([x + "." for x in cin.split(".")])
+		# memory.record.shortterm([x + "." for x in cin.split(".")])
 		output = "..."
 
 		memcheck = subroutine.srt_01()
@@ -148,6 +148,8 @@ def assemble(intelligenceName):
 
 		for sent in [x.strip() for x in re.split("; |, |\. |\? |\! |\:", cin)]: # Split text into sentence entities through the punctuation
 			pass
+
+		memory.record.shortterm(full)
 
 		elements["datainput"].config(text="")
 

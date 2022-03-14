@@ -152,6 +152,35 @@ while True:
 			else:
 				cli.display(term.red_on_black("Unknown transcript option \"" + carg[2] + "\"."))
 
+		elif cname in ["purge", "p"]:
+			if carg[1] == "shortterm":
+				if int(carg[2]) in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]:
+					cli.display("Purging short-term memory cache " + carg[2] + " ...")
+					cli.display("    Clearing file ...")
+					try:
+						with open(__file__[:-10]  + "/intelligence/memory/shortterm/memory_cache_" + carg[2] + ".ke5", "w") as f:
+							f.write(" ")
+						cli.display(term.lime_on_black("    Memory cache " + carg[2] + " purged."))
+					except Exception as e:
+						cli.display(term.red_on_black("    WARNING: Exception occurred during purge clearing: ") + term.yellow_on_black(e))
+						cli.display(term.red_on_black("    A Singularity State may be limiting the system's access to the file. Type-1 diagnostic and system reboot recommended."))
+				elif carg[3] == "all":
+					cli.display("Purging short-term memory ...")
+					for x in range(10):
+						cli.display("    Purging short-term memory cache " + str(x) + " ...")
+						cli.display("        Clearing file ...")
+						try:
+							with open(__file__[:-10]  + "/intelligence/memory/shortterm/memory_cache_" + str(x) + ".ke5", "w") as f:
+								f.write(" ")
+							cli.display(term.lime_on_black("        Memory cache " + str(x) + " purged."))
+						except Exception as e:
+							cli.display(term.red_on_black("        WARNING: Exception occurred during purge clearing: ") + term.yellow_on_black(e))
+							cli.display(term.red_on_black("        A Singularity State may be limiting the system's access to the file. Type-1 diagnostic and system reboot recommended."))
+				else:
+					cli.display(term.red_on_black("Unkown subsystem ID."))
+			else:
+				cli.display(term.red_on_black("Unknown memory system."))
+
 		else: # Command level
 			cli.display(term.red_on_black("Unknown command \"" + cname + "\"."))
 
