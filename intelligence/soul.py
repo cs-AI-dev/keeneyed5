@@ -14,6 +14,9 @@ import commandLineInterface as cli               # Command line interface
 
 cli.display("[KE5:STARTUP] Importing NLTK packages ...")
 import nltk
+nltk.download("wordnet")
+nltk.download("omw-1.4")
+nltk.download("words")
 from nltk.corpus import wordnet as wn            # WordNet language tree parser
 from nltk.corpus import brown as browncorpus     # Brown Corpus
 from nltk.corpus import words as wordtk          # Word tokenizer
@@ -119,8 +122,8 @@ def assemble(intelligenceName):
 			if not x:
 				subroutine.srt_02()
 				break
-		shorttermContext = memory.remember.shortterm(*[x for x in cin.split(" ")])
-		longtermContext = memory.remember.longterm(*[x for x in cin.split(" ")])
+		shorttermContext = memory.remember.shortterm(*[x for x in cin.split(" ")]).join(memory.remember.shortterm(*[SemanticLanguage(x) for x in cin.split(" ")]))
+		longtermContext = memory.remember.longterm(*[x for x in cin.split(" ")]).join(memory.remember.longterm(*[SemanticLanguage(x) for x in cin.split(" ")]))
 		# KE5 process
 
 		sent = []
@@ -140,7 +143,7 @@ def assemble(intelligenceName):
 				full.append(sent)
 				sent = []
 			elif word.endswith(".."):
-				cli.display("[KE5:NLP:PUNCT] " + word + " ends with double ellipsis")
+				cli.display("[KE5:NLP:PUNCT] " + word + " ends with double essllipsis")
 				sent.append(word[:-2])
 				sent.append("KE5:ELLIPSIS:DOUBLE")
 				full.append(sent)
