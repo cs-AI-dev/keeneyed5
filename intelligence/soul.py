@@ -87,6 +87,8 @@ def assemble(intelligenceName):
 
 	cli.display("    Assembling gridding ...")
 
+	cli.display("    Assembling gridding ...")
+
 	add("titlelbl", Label(window, text="Keeneyed-5 Artificial General Intelligence System", bg=gui.bg, fg=gui.fg, font=gui.font(24)))
 	elements["titlelbl"].grid(row=1, column=1, columnspan=3)
 	add("right", Frame(window, bg=gui.bg))
@@ -107,6 +109,8 @@ def assemble(intelligenceName):
 
 	cli.display("    Assembling receiver ...")
 
+	cli.display("    Assembling receiver ...")
+
 	def receive():
 		cin = elements["datainput"].get()
 
@@ -119,8 +123,8 @@ def assemble(intelligenceName):
 			if not x:
 				subroutine.srt_02()
 				break
-		shorttermContext = memory.remember.shortterm(*[x for x in cin.split(" ")])
-		longtermContext = memory.remember.longterm(*[x for x in cin.split(" ")])
+		shorttermContext = memory.remember.shortterm(*[x for x in cin.split(" ")]).join(memory.remember.shortterm(*[SemanticLanguage(x) for x in cin.split(" ")]))
+		longtermContext = memory.remember.longterm(*[x for x in cin.split(" ")]).join(memory.remember.longterm(*[SemanticLanguage(x) for x in cin.split(" ")]))
 		# KE5 process
 
 		sent = []
@@ -140,7 +144,7 @@ def assemble(intelligenceName):
 				full.append(sent)
 				sent = []
 			elif word.endswith(".."):
-				cli.display("[KE5:NLP:PUNCT] " + word + " ends with double ellipsis")
+				cli.display("[KE5:NLP:PUNCT] " + word + " ends with double essllipsis")
 				sent.append(word[:-2])
 				sent.append("KE5:ELLIPSIS:DOUBLE")
 				full.append(sent)
@@ -211,6 +215,10 @@ def assemble(intelligenceName):
 	add("sendbutton", Button(elements["center"], text="INPUT DATA", bg="lime", fg="black", font=gui.font(12), width=10, command=receive))
 	elements["sendbutton"].grid(row=2, column=2, columnspan=1),	add("terminateconnectionbutton", Button(elements["center"], text="TERMINATE CONNECTION", bg="red", fg="black", font=gui.font(12), width=20, command=window.destroy))
 	elements["terminateconnectionbutton"].grid(row=2, column=3, columnspan=1)
+
+	cli.display(cli.term.lime_on_black("    Done."))
+
+	cli.display("[KE5:GUI] Starting connection ...")
 
 	cli.display(cli.term.lime_on_black("    Done."))
 
